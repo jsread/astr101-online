@@ -1,0 +1,78 @@
+site_name: CSUFAstronomy101
+nav:
+  - Home: index.md
+  - About: about.md
+  - Activities:
+    - Find or make a scale model: activities/scale_model.md
+    - Observe the sky: activities/observe_sky.md
+    - Understand daily motion: activities/daily_motion.md
+  - Modules:
+      - Welcome: 
+        - Welcome to the Universe: modules/welcome_universe.md
+      - Our View of the Universe: 
+        - Our Cosmic Address: modules/cosmic_address.md
+        - The Celestial Sphere: modules/celestial_sphere.md
+      - The Rhythm of the Sky:
+        - Daily Motion of the Sky: modules/daily_motion_sky.md
+        - Seasonal Stars: modules/seasonal_stars.md
+        - Solstices and Equinoxes: modules/solstices_equinoxes.md
+      - Seasons and the Moon: 
+        - Seasons on Earth: modules/seasons_on_earth.md
+        - Moon Phases: modules/moon_phases.md
+        - Eclipses: modules/eclipses.md
+      - Wandering Stars: 
+        - Ancient Astronomy: modules/ancient_astronomy.md
+        - Retrograde Motion: modules/retrograde_motion.md
+        - Parallax: modules/parallax.md
+      - Planetary Orbits: 
+        - The Copernican Revolution: modules/copernican_revolution.md
+        - Kepler's Laws: modules/keplers_laws.md
+        - Planets Near and Far: modules/planets_near_far.md
+      - Motion in Space: 
+        - Newton's Laws: modules/newtons_laws.md
+        - Gravity: modules/gravity.md
+        - Energy and Angular Momentum: modules/energy_angular_momentum.md
+      - Light and Telescopes: 
+        - The Spectrum of Light: modules/spectrum_of_light.md
+        - Telescopes: modules/telescopes.md
+        - Earth's Atmosphere: modules/earths_atmosphere.md
+      - Learning from Light:
+        - Types of Spectra: modules/spectra_types.md
+        - Surveying the Stars: modules/surveying_stars.md
+        - Doppler Effect: modules/doppler_effect.md
+      - Making Earth from Scratch: 
+        - The Expanding Universe: modules/expanding_universe.md
+        - Origin of the Elements: modules/origin_of_elements.md
+        - Formation of the Solar System: modules/formation_of_solar_system.md
+      - The Life and Death of Stars: 
+        - The Life Cycle of Stars: modules/life_cycle_of_stars.md
+        - The Death of Stars: modules/death_of_stars.md
+        - Neutron Stars and Black Holes: modules/neutron_stars_black_holes.md
+theme: 
+  name: material
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+plugins:
+  - mkdocs_quiz
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
