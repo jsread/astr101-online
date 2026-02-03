@@ -2,11 +2,8 @@
 
 The Celestial Sphere describes a model of our view of the Universe. You'll learn about constellations, directions in the sky, and how the rotation of the Celestial Sphere looks from here on Earth.
 
-This article is written for observers in Fullerton, California.
+* Note: This article is written for observers in Fullerton, California.*
 
-We'll discuss how a map of the sky, like the one shown below, relates to what you can see in the sky.
-![A map of the night sky: a circle filled with constellations and labelled planets](img/skymap-January2026.jpg)
-*Monthly skymaps in pdf from [skymaps.com](https://www.skymaps.com/downloads.html) or images shared by [Kym @ The Evening Sky Map](https://skymaps.com/bsky/).*
 
 What you need to know:
 
@@ -14,11 +11,13 @@ What you need to know:
 
 
 
+We'll discuss how a map of the sky, like the one shown below, relates to what you can see in the sky.
+![A map of the night sky: a circle filled with constellations and labelled planets](img/skymap-January2026.jpg)
+*Monthly skymaps in pdf from [skymaps.com](https://www.skymaps.com/downloads.html) or images shared by [Kym @ The Evening Sky Map](https://skymaps.com/bsky/).*
 
 ## Patterns in the Sky
 
 For human observers, the stars appear in **fixed patterns in the sky**.
-
 
 You might recognize the pattern of the stars in Vincent van Gogh's *Starry Night Over the Rhône*, which was painted in 1888:  
 ![A nighttime riverside scene with a dark blue sky filled with bright yellow stars and street lamps reflected in the Rhône River.](img/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)  
@@ -192,4 +191,12 @@ In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotat
 
 * Each star completes a full circle path every 24 hours.
 
-##
+
+## Activities
+
+Go to the [Activities Page for this lecture](../activities/celestial_sphere.md).
+
+## Go Further
+
+Ideas from this lecture are used in the [The Rotating Sky
+Lab](https://astro.unl.edu/naap/motion2/motion2.html).

@@ -211,3 +211,5 @@ Go to the [Activities Page for this lecture](../activities/cosmic_address.md).
 
 * [How Big is the Universe by minutephysics](https://www.youtube.com/watch?v=5NU2t5zlxQQ) Expanded discussion of the Observable Universe and the full Universe.
 * [Build your own Solar System](https://www.exploratorium.edu/explore/solar-system/activity/build-model) Calculate the sizes to build your own scale model of the Solar System
+
+* [Why does the Southern Hemisphere get the best view of the Milky Way? by Dr. Becky](https://www.youtube.com/watch?v=Ieq_z81JpL8)
