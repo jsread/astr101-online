@@ -66,26 +66,27 @@ Sources: [Dupree and Gililand, CfA/STScI/NASA/ESA](https://esahubble.org/images/
 ![Part of a panorama of the playa of Death Valley at night. The Milky way is visible as an arc across the sky.](img/Deathvalleysky_nps_crop.jpg)  
 *[Source](https://en.wikipedia.org/wiki/File:Deathvalleysky_nps_big.jpg)*
 
-Because we can't tell the distances of stars, when we look at the night sky they seem to be sprinkled on a dome over our heads.
+When we look at the night sky they seem to be sprinkled on a dome over our heads.
 
 This is an optical illusion because we lack depth perception for such distant objects.
 
-# Directions in the Sky
-
-If you look directly overhead, you see the **Zenith**. This is the "top" of the dome.
+## Directions in the Sky
 
 If you look to any side, you see the **Horizon**. This is where the sky appears to meet the most distant part of the ground you can see.
-
-![An animation showing a map with directions turning into the ground with a sky dome above.](img/horizon-zenith-directions.gif)
-
-**North, East, South,** and **West** mark the directions you would travel out toward the horizon. They are the same directions you use to orient a map.
-
 
 ### Horizon examples:
 
 ![A view of the sunset. The horizon is labeled at the tops of some distant mountains.](img/horizon-sunset.jpg)
 ![The Milky way is seen glowing in the sky over many telescopes illuminated in red light. The horizon is labeled where the dark ground meets the sky.](img/horizon-starparty.jpg)
 
+### Ground to sky:
+
+**North, East, South,** and **West** mark the directions you would travel out toward the horizon. They are the same directions you use to orient a map.
+
+
+![An animation showing a map with directions N E W S turning into the ground of a figure standing with a sky dome above it. The top of the dome is labeled Zenith.](img/horizon-zenith-directions.gif)
+
+If you look directly overhead, you see the **Zenith**. This is the "top" of the dome.
 
 ### Altitude, Azimuth, Meridian
 
@@ -93,7 +94,7 @@ We locate regions in the sky by **azimuth** (angle around the horizon) and  **al
 
 ![An observer with their local sky labeled as described below.](img/localsky-directions.png)
 
-First you find the azimuth on the horizon. Which direction do you face? For example, North, East, South, or West. 
+First you find the azimuth on the horizon. Which direction do you face? For example: North, East, South, or West. 
 
 Then, you look up from the horizon to find altitude:
 
@@ -145,8 +146,7 @@ Polaris Time Lapse video:
 This makes it seem like the stars are all on the surface of a spinning ball around us.
 
 Animation of the Celestial Sphere: *[Source: Science Sims @ CCNY](https://sciencesims.com/simdocs/celestial-sphere)*
-<iframe src="https://ccny-physics-sims.github.io/sims/celestial-sphere/" width ="600" height="600" ></iframe >
-
+<iframe src="https://ccny-physics-sims.github.io/sims/celestial-sphere/" width ="400" height="400" ></iframe >
 
 Many early astronomers imagined that stars were really fixed on the surface of a Celestial Sphere that surrounded and revolved around the Earth.
 
@@ -160,22 +160,36 @@ Many early astronomers imagined that stars were really fixed on the surface of a
 
 ### Features of the Celestial Sphere Model
 
-The Celestial Sphere surround the Earth.
+The Celestial Sphere surrounds the Earth. 
 
-* The North Celestial Pole is directly above Earth's North Pole.
+* The stars are in fixed positions on the sphere.
 
-* The South Celestial Pole is directly above Earth's South Pole
+* The North Celestial Pole is directly above Earth's North Pole.  
+![An arrow from Earth's North pole stretched directly up to the North Celestial Sphere, and Polaris.](img/celestial-sphere-north-pole.jpg)
 
-* The Celestial Equator is directly above Earth's equator.
+* The Celestial Equator is directly above Earth's equator.  
+![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-equator.jpg)
 
+## The Celestial Sphere and your Local Sky
+
+Your Local Sky is half of the celestial sphere; the half that is above your local horizon
+
+* Your zenith is directly above your location on Earth. Your horizon is 90° from your zenith. The North Celestial Pole and Celestial Equator are tilted in your sky.
+![An observer stands on Earth. Your Zenith and Your Horizon are directly above and to the side. The North Celestial Pole and the Celestial Equator are tilted.](img/celestial-sphere-observer-zenith-horizon.jpg)
+
+* The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
+![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-observer-north-meridian-south.jpg)
+
+## The Rotating Sphere
 In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotates.
 
-* Stars appear in fixed patterns on the Celestial Sphere.
+![asdfa](img/rotating-celestial-sphere.gif)
 
-* It rotates around an axis from the North Celestial Pole (Polaris, the North Star) to the South Celestial Pole.
+* It rotates around the Polar axis from East to West
+    - An axis through the North Celestial Pole (Polaris, the North Star)
 
-* It rotates from East to West.
+* It makes a complete rotation once every day. 
 
-* It makes a complete rotation once every day, or every 24 hours
+* Each star completes a full circle path every 24 hours.
 
-## Your Local Sky
+##
