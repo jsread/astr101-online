@@ -1,42 +1,44 @@
 ## Check Your Understanding
 
 <quiz>
-You walk outside and turn so you are facing due North. 
 
+You walk outside and turn so you are facing due North. 
 Your zenith is:
 
-[ ] Directly in front of you
-[ ] Straight out to your right
-[ ] Directly behind you
-[ ] Straight out to your left
-[x] Directly overhead
+- [ ] Directly in front of you
+- [ ] Straight out to your right
+- [ ] Directly behind you
+- [ ] Straight out to your left
+- [x] Directly overhead
 
 </quiz>
 
 <quiz>
-You walk outside and turn so you are facing due North. 
 
+You walk outside and turn so you are facing due North. 
 South is:
 
-[ ] Directly in front of you
-[ ] Straight out to your right
-[x] Directly behind you
-[ ] Straight out to your left
-[ ] Directly overhead
+- [ ] Directly in front of you
+- [ ] Straight out to your right
+- [x] Directly behind you
+- [ ] Straight out to your left
+- [ ] Directly overhead
 
 </quiz>
 
 
 
 <quiz>
-Where in the diagram would you label North?
+
+Where in the diagram would you label North?  
+
 ![An observer on Earth faces to the left of the local sky dome. A is directly overhead. B marks Polaris on the upper left edge of the dome. C marks the horizon at the back of the diagram. D is the horizon's the leftmost point. E is the horizon's rightmost point.](img/celestial-sphere-local-diagram.jpg)
 
-[ ] Position A
-[ ] Position B
-[ ] Position C
-[x] Position D
-[ ] Position E
+- [ ] Position A
+- [ ] Position B
+- [ ] Position C
+- [x] Position D
+- [ ] Position E
 
 The North direction is on the horizon, directly underneath Polaris.
 

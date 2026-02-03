@@ -2,7 +2,7 @@
 
 ## Check Your Understanding
 
-* Choose the best answer! *
+*Choose the best answer!*
 
 <quiz>
 A galaxy is...
@@ -11,11 +11,13 @@ A galaxy is...
 - [ ] A relatively small and icy object orbiting a star.
 - [x] A collection of a few hundred million to a trillion or more stars, bound together by gravity
 - [ ] A system consiting of one to a few stars, orbited by planets, moons, and smaller objects.
-</quiz>
 
 A galaxy is a collection of stars.
 
 A small icy orbit orbiting a star would be a comet; a glowing ball powered by nuclear energy would be a star; a system of stars orbited by planets and other objects is a planetary system like our solar system.
+</quiz>
+
+
 
 <quiz>
 

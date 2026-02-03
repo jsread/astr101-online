@@ -3,9 +3,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Activities:
-    - Find or make a scale model: activities/scale_model.md
-    - Observe the sky: activities/observe_sky.md
-    - Understand daily motion: activities/daily_motion.md
+      - Our View of the Universe: 
+        - Our Cosmic Address: activities/cosmic_address.md
+        - The Celestial Sphere: activities/celestial_sphere.md
   - Modules:
       - Welcome: 
         - Welcome to the Universe: modules/welcome_universe.md

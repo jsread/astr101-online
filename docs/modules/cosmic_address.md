@@ -57,8 +57,7 @@ From Earth, we see the planets as points of light. In the photo to the left, we 
 *[Source 1: Jeff Dai](https://apod.nasa.gov/apod/ap250815.html)*, *[Source 2: Giovanni Passalacqua](https://apod.nasa.gov/apod/ap231114.html)*
 
 
-Almost always, including in this class, we will show models and diagrams of the Solar System that are "not to scale."
-
+Almost always, including in this class, we will show models and diagrams of the Solar System that are "not to scale." This is because the distances involved are so big.
 
 ### Light Years and Astronomical Units:
 
