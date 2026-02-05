@@ -2,18 +2,11 @@
 
 The Celestial Sphere describes a model of our view of the Universe. You'll learn about constellations, directions in the sky, and how the rotation of the Celestial Sphere looks from here on Earth.
 
-* Note: This article is written for observers in Fullerton, California.*
+*Note: This article is written for observers in Fullerton, California.*
 
 
-What you need to know:
+What you should know: How to measure angles in degrees. [Angles Review from Math is Fun](https://www.mathsisfun.com/geometry/degrees.html).
 
-* How to measure angles in degrees. [Angles Review from Math is Fun](https://www.mathsisfun.com/geometry/degrees.html).
-
-
-
-We'll discuss how a map of the sky, like the one shown below, relates to what you can see in the sky.
-![A map of the night sky: a circle filled with constellations and labelled planets](img/skymap-January2026.jpg)
-*Monthly skymaps in pdf from [skymaps.com](https://www.skymaps.com/downloads.html) or images shared by [Kym @ The Evening Sky Map](https://skymaps.com/bsky/).*
 
 ## Patterns in the Sky
 
@@ -173,11 +166,11 @@ The Celestial Sphere surrounds the Earth.
 
 Your Local Sky is half of the celestial sphere; the half that is above your local horizon
 
-* Your zenith is directly above your location on Earth. Your horizon is 90° from your zenith. The North Celestial Pole and Celestial Equator are tilted in your sky.
+* Your zenith is directly above your location on Earth. Your horizon is 90° down from your zenith in a full circle. The North Celestial Pole and Celestial Equator are tilted in your sky.
 ![An observer stands on Earth. Your Zenith and Your Horizon are directly above and to the side. The North Celestial Pole and the Celestial Equator are tilted.](img/celestial-sphere-observer-zenith-horizon.jpg)
 
-* The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
-![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-observer-north-meridian-south.jpg)
+* The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North on your horizon, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
+![Your meridian connects North on your horizon, the North Celestial pole, the Zenith, and ends on your South.](img/celestial-sphere-observer-north-meridian-south.jpg)
 
 ## The Rotating Sphere
 In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotates.
@@ -187,16 +180,34 @@ In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotat
 * It rotates around the Polar axis from East to West
     - An axis through the North Celestial Pole (Polaris, the North Star)
 
-* It makes a complete rotation once every day. 
+* The Celestial Sphere makes a complete rotation once every day.
+
+* The stars on the sphere appear to make circular paths. 
 
 * Each star completes a full circle path every 24 hours.
 
+## Example Star Paths
+Below is a diagram of a the local sky facing East, with two example star paths. One path circles Polaris in the sky, and the other arcs from East to West. The stars are only visible when they are above the horizon.
 
-## Activities
+![A dome of the sky over the ground. East is to the back, West to front, North to left, South to right on the horizon. Polaris is on the upper left edge, above Noth. The Celestial Equator and Star Path A arc from East, up the back of the dome to high in the South, down the front of the dome to West. Star Path B makes a loop on the dome, from low above North, up the back of the dome to the Zenith, down the front of the dome to its original point.](img/local-sky-example.jpg)
+
+Things to notice:
+
+- The N/E/S/W directions are on the horizon.
+- Polaris is high in the Northern sky.
+- The Celestial Equator runs from East to West, but is tilted compared to the Zenith. Seen the center of the dome, the Equator is 90° away Polaris.
+- Star Path A follows the Celestial Equator. A star on this path rises across the horizon due East, travels high above the Southern horizon, and sets across the horizon due West.
+- Star Path B circles Polaris. A star on this path never crosses the horizon. It moves from low in the Northern sky to the Zenith and back. 
+
+
+## Check You Understanding
 
 Go to the [Activities Page for this lecture](../activities/celestial_sphere.md).
 
 ## Go Further
+
+What stars can you see? [Where Are the Stars? See How Light Pollution Affects Night Skies | Short Film Showcase by National Geographic (YouTube)
+](https://www.youtube.com/watch?v=0FXJUP6_O1w) explains how light pollution affects our view of the stars.
 
 Ideas from this lecture are used in the [The Rotating Sky
 Lab](https://astro.unl.edu/naap/motion2/motion2.html).
