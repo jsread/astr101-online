@@ -6,6 +6,8 @@ nav:
       - Our View of the Universe: 
         - Our Cosmic Address: activities/cosmic_address.md
         - The Celestial Sphere: activities/celestial_sphere.md
+      - The Rhythm of the Sky:
+        - Daily Motion of the Sky: activities/daily_motion.md
   - Modules:
       - Welcome: 
         - Welcome to the Universe: modules/welcome_universe.md

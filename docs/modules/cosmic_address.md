@@ -10,7 +10,7 @@ What you need to know:
  [Scientific Notation Review (Khan Academy)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/a/scientific-notation-review)
 * 1 million = 1,000,000 = 10<sup>6</sup> 
 * 1 billion = 1,000,000,000 = 10<sup>9</sup>
-* The speed that something travels determines how long it takes to cover a given distance. For example, it takes 2 hours to travel 100 miles at a speed of 50 miles per hour. 
+* The speed that something travels determines how long it takes to cover a given distance. For example, it takes 2 hours to travel 100 miles at a speed of 50 miles per hour. [How to calculate speed, distance, and time - BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/zcr3tv4).
 
 ## Steps to the Universe
 

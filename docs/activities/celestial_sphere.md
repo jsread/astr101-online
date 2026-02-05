@@ -60,15 +60,15 @@ Since this is closer to the horizon than to the zenith, it is low in the sky. Si
 
 </quiz>
 
-## Activities and Discussion
+## Build Your Knowledge
 
 ### Lecture Tutorial
 
-Work through the Position Lecture Tutorial on pages 1-2 of your book. Read carefully, and discuss any questions with your group. Make sure you check agreement on Question 8!
+Work through the Position Lecture Tutorial on pages 1-2. Read carefully, and discuss any questions with your group. Make sure you check agreement on Question 8!
 
 ### Fieldwork
 
-Chose an astronomical object you can find easily in the sky this week - the Sun, the Moon, a bright star, perhaps one of the [planets visible in your sky tonight](https://www.timeanddate.com/astronomy/night/), located using a [skymap](https://nightsky.jpl.nasa.gov/news/212/) or [night sky guide](https://nightsky.jpl.nasa.gov/planner/). 
+Chose an astronomical object you can find easily in the sky this week - the Sun, the Moon, a bright star, perhaps one of the [planets visible in your sky tonight](https://www.timeanddate.com/astronomy/night/), located using a [night sky guide](https://nightsky.jpl.nasa.gov/planner/). 
 
 Observe the object **twice** in one day, ideally half an hour to a few hours apart.
 
