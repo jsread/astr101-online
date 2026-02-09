@@ -8,8 +8,8 @@ What you need to know:
 
 * Powers of 10 or Scientific notation, like 1000 = 10<sup>3</sup>
  [Scientific Notation Review (Khan Academy)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-scientific-notation/a/scientific-notation-review)
-* 1 million = 1,000,000 = 10<sup>6</sup> 
-* 1 billion = 1,000,000,000 = 10<sup>9</sup>
+  * 1 million = 1,000,000 = 10<sup>6</sup> 
+  * 1 billion = 1,000,000,000 = 10<sup>9</sup>
 * The speed that something travels determines how long it takes to cover a given distance. For example, it takes 2 hours to travel 100 miles at a speed of 50 miles per hour. [How to calculate speed, distance, and time - BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/zcr3tv4).
 
 ## Steps to the Universe
@@ -169,20 +169,19 @@ The Fornax cluster is also in the Virgo Supercluster. It is about 62 million lig
 
 All these clusters and superclusters of galaxies are in the same Universe. 
 
-The Universe also contains galaxies we will never be able to see.
-
-The part of the Universe we can potentially see is *the observable universe*. It contains hundreds of millions to trillions of galaxies.
-
-The Observable Universe stretched out from our location in all directions. 
-![A map showing many clumps of galaxy dots, with the Virgo Supercluster at the center. 1 billion light years is marked as a small segment.](img/visible-universe.gif)
-*[Source: R. Powell, Atlas of the Universe](http://www.atlasoftheuniverse.com/universe.html)*
-
-
-
 Hubble’s Extreme Deep Field Image shows
 more than five thousand of the most distant galaxies. It was made with a total exposure time of 22 days, by the Hubble Space Telescope over the years 2002 to 2012. The light recorded to make this image had been traveling for up to 13.2 billion years.
 ![A colourful image showing hundreds of galaxies of different shapes and sizes.](img/hubble-extreme-deep-field.jpg)
 *[Source: NASA](https://science.nasa.gov/asset/hubble/hubble-extreme-deep-field-xdf/)*
+
+The Universe also contains galaxies we will never be able to see.
+
+The part of the Universe we can potentially see is *the observable universe*. It contains hundreds of millions to trillions of galaxies.
+
+The Observable Universe extends outward from our location in all directions. 
+![A map showing many clumps of galaxy dots, with the Virgo Supercluster at the center. 1 billion light years is marked as a small segment.](img/visible-universe.gif)
+*[Source: R. Powell, Atlas of the Universe](http://www.atlasoftheuniverse.com/universe.html)*
+
 
 ### The Boundary of the Observable Universe 
 
@@ -190,25 +189,138 @@ more than five thousand of the most distant galaxies. It was made with a total e
     - As we look further away, we look back in time.
 - The universe is about 14 billion years old
     - The oldest light we can see has travelled for 14 billion years.
-    - This edge is a boundary in time.
+    - This limits our observation!
 - Light from the Extreme Deep Field has travelled for 13. 2 billion years
     - It left when the Universe was only 800 million years old. 
 
 
-## The Size of the Observable Universe:
+### The Size of the Universe:
 
 - The universe is expanding in size.  Galaxies were closer when they emitted the light we see.
 - If the most distant light sources still exist, they are now 45 billion light years away 
 
+The universe is huge!
+- Nearest star:                                                    4.4 light years
+- Distance across the Milky Way:               100,000 light years
+- Distance to nearest galaxy:                           2,500,000 light years
+- Edge of observable universe 46 billion light years away
 
 
-## Activities
 
-Go to the [Activities Page for this lecture](../activities/cosmic_address.md).
+
+
+## Check Your Understanding
+
+*Choose the best answer!*
+
+<quiz>
+A *light year* is...
+
+- [ ]   an interval of time
+- [x]   a measure of length
+- [ ]   an indication of speed
+</quiz>
+
+
+<quiz>
+A galaxy is...
+
+- [ ] A large, glowing ball of gas powered by nuclear energy.
+- [ ] A relatively small and icy object orbiting a star.
+- [x] A collection of a few hundred million to a trillion or more stars, bound together by gravity
+- [ ] A system consiting of one to a few stars, orbited by planets, moons, and smaller objects.
+
+A galaxy is a collection of stars.
+
+A small icy orbit orbiting a star would be a comet; a glowing ball powered by nuclear energy would be a star; a system of stars orbited by planets and other objects is a planetary system like our solar system.
+</quiz>
+
+<quiz>
+The Andromeda Galaxy is a distance of about 2,500,000 light years away from Earth. The light that we observe from Andromeda has been traveling for…
+
+- [ ]  A couple seconds
+- [ ] One year
+- [x] 2,500,000 years
+- [ ] Can’t be determined
+
+</quiz>
+
+
+<quiz>
+
+Where does the Andromeda Galaxy fit in the organizational diagram below?
+
+![Three nested regions. (A) Solar System is inside (B) Milky Way is inside (C) Universe](../img/organizational-diagram-universe.png)
+
+- [ ] Solar System 
+- [ ] Milky Way
+- [x] Universe
+
+Andromdeda and the Milky Way are two seperate galaxies. They are both in the Universe.
+
+</quiz>
+
+<quiz>
+
+Where does the star Vega fit in the organizational diagram below?
+
+![Three nested regions. (A) Solar System is inside (B) Milky Way is inside (C) Universe](../img/organizational-diagram-universe.png)
+
+- [ ] Solar System 
+- [x] Milky Way
+- [ ] Universe
+
+Vega is one of the stars we see in the night sky. All these individual stars are part of the Milky Way.
+
+</quiz>
+
+
+<quiz>
+
+Where does Earth's Moon fit in the organizational diagram below?
+
+![Three nested regions. (A) Solar System is inside (B) Milky Way is inside (C) Universe](../img/organizational-diagram-universe.png)
+
+- [x] Solar System 
+- [ ] Milky Way
+- [ ] Universe
+
+The Moon is part of the Solar System, since it orbits Earth which orbits the Sun.
+
+</quiz>
+
+<quiz>
+Astronomers can only observe events that happened in the past. This is because
+
+- [ ] It takes time to process telescope data.
+- [x] The speed of light is finite.
+- [ ] The Universe is 14 billion years old.
+- [ ] Our telescopes are not yet large enough.
+
+Astronomers can only see the universe using messengers like light, which take time to travel to us. The farther away something is, the longer it has been since the light we see left from that object.
+
+</quiz>
+
+<quiz>
+The farthest known object imaged is the galaxy MoM-z14. The light from this galaxy has travelled for 13.5 billion light years to maket this. If the Universe is 13.8 billion years old, that means we observe MoM-z14 as it was ____ years after the Universe began.
+
+![A small red splotch labeled MoM-z14](../img/MoM-z14_Naidu_et_al._2025.png)
+
+
+- [x] 300 million
+- [ ] 13.5 billion
+- [ ] 13.8 billion
+- [ ] 27.3 billion
+
+Light from MoM-z14 has been travelling for 13.4 billion years. The time the light left is the *gap* between the the total age of the universe and the travel time. The difference is 13.8 billion - 13.5 billion = 0.3 billion = 300 million. So, the light must have left MoM-z14 300 million years after the Universe began.
+
+</quiz>
+
+
+
+
 
 ## Go Further
 
 * [How Big is the Universe by minutephysics](https://www.youtube.com/watch?v=5NU2t5zlxQQ) Expanded discussion of the Observable Universe and the full Universe.
 * [Build your own Solar System](https://www.exploratorium.edu/explore/solar-system/activity/build-model) Calculate the sizes to build your own scale model of the Solar System
-
-* [Why does the Southern Hemisphere get the best view of the Milky Way? by Dr. Becky](https://www.youtube.com/watch?v=Ieq_z81JpL8)

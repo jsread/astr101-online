@@ -3,11 +3,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Activities:
-      - Our View of the Universe: 
-        - Our Cosmic Address: activities/cosmic_address.md
-        - The Celestial Sphere: activities/celestial_sphere.md
-      - The Rhythm of the Sky:
-        - Daily Motion of the Sky: activities/daily_motion.md
+      - Our View of the Universe: activities/our_view_universe.md 
+      - The Rhythm of the Sky: activities/rhythm_sky.md
   - Modules:
       - Welcome: 
         - Welcome to the Universe: modules/welcome_universe.md
@@ -16,6 +13,7 @@ nav:
         - The Celestial Sphere: modules/celestial_sphere.md
       - The Rhythm of the Sky:
         - Daily Motion of the Sky: modules/daily_motion_sky.md
+        - The Sky Around the World: modules/sky_around_world.md
         - Seasonal Stars: modules/seasonal_stars.md
         - Solstices and Equinoxes: modules/solstices_equinoxes.md
       - Seasons and the Moon: 

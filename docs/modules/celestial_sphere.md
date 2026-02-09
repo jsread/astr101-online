@@ -37,13 +37,17 @@ but tell their own stories:
 ![The same stars as the Greek Orion, Aztec New Fire, Navajo First Slim One, and Hawaiian Cat's Cradle](img/orion-stories.jpg)  
 *Sources: [Stellarium](https://stellarium.org/), [NASA/STScI](https://science.nasa.gov/universe/discovering-the-universe-through-the-constellation-orion/)*
 
-## Constellations
+### Constellations
 
 In modern Astronomy, constellations are how we identify and name **regions of the sky** - NOT the patterns of the stars themselves. 
 
 The constellation Orion is everything in the highlighted region in this sky map:  
 ![A sky map highlighting the constellation Orion, with labels on its bright stars and on neighboring constellations.](img/constellation-orion.png)  
 *[Source: IAU, Sky and Telescope](https://commons.wikimedia.org/wiki/File:Orion_IAU.svg)*
+
+
+## The Dome of the Sky
+
 
 Stars in constellations **appear** to be side-by-side, but they can be at very **different distances** from the Earth.  
 ![The earth, with lines-of-sight through a sideways sky image of Orion to several stars at different distances](img/orion-stars-distances.jpg)
@@ -53,7 +57,21 @@ The red star Betelgeuse on Orion's "shoulder" is 650 light years away, but the p
 ![The Orion nebula is a hazy purple glow with bright stars at the core](img/orion-nebula-visible-light.jpg)  
 Sources: [Dupree and Gililand, CfA/STScI/NASA/ESA](https://esahubble.org/images/opo9604b/) and [Filip Loic](https://www.asc-csa.gc.ca/eng/multimedia/search/image/3834)
 
-## The Dome of the Sky
+How can you figure out how far away things are if you can’t reach them?
+
+1. Binocular vision (compare view from each eye.)
+2. Known size scaling (cows are really the same size.)
+![Cows grazing in a field. Close cows look bigger](img/Cows_in_a_Yorkshire_field_IMG_0349.jpg)
+*[Source: RF Vila](https://commons.wikimedia.org/wiki/File:Cows_in_a_Yorkshire_field_IMG_0349.jpg)*
+3. Atmospheric perspective (the effect of the air.)
+![A view over rolling hills that look bluer and bluer as they get far away](img/SerraEstrela-MAR2007-5.jpg)
+*[Source: Joaquim Alves Gaspar](https://commons.wikimedia.org/wiki/File:SerraEstrela-MAR2007-5.jpg)*
+
+* Modern astronomers use versions of each of these methods to work out the distances to astronomical objects 
+* None of them work for unassisted human vision
+* Stars are not small, but are very far away
+* They have different sizes and distances, BUT appear as points in the sky 
+    * except for the star closest to us... the Sun!
 
 ![Part of a panorama of the playa of Death Valley at night. The Milky way is visible as an arc across the sky.](img/Deathvalleysky_nps_crop.jpg)  
 *[Source](https://en.wikipedia.org/wiki/File:Deathvalleysky_nps_big.jpg)*
@@ -159,7 +177,7 @@ The Celestial Sphere surrounds the Earth.
 * The North Celestial Pole is directly above Earth's North Pole.  
 ![An arrow from Earth's North pole stretched directly up to the North Celestial Sphere, and Polaris.](img/celestial-sphere-north-pole.jpg)
 
-* The Celestial Equator is directly above Earth's equator.  
+* The Celestial Equator is directly above Earth's equator. It's 90° down from Polaris. 
 ![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-equator.jpg)
 
 ## The Celestial Sphere and your Local Sky
@@ -186,7 +204,7 @@ In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotat
 
 * Each star completes a full circle path every 24 hours.
 
-## Example Star Paths
+## Example Star Paths in the Local Sky
 Below is a diagram of a the local sky facing East, with two example star paths. One path circles Polaris in the sky, and the other arcs from East to West. The stars are only visible when they are above the horizon.
 
 ![A dome of the sky over the ground. East is to the back, West to front, North to left, South to right on the horizon. Polaris is on the upper left edge, above Noth. The Celestial Equator and Star Path A arc from East, up the back of the dome to high in the South, down the front of the dome to West. Star Path B makes a loop on the dome, from low above North, up the back of the dome to the Zenith, down the front of the dome to its original point.](img/local-sky-example.jpg)
@@ -200,9 +218,109 @@ Things to notice:
 - Star Path B circles Polaris. A star on this path never crosses the horizon. It moves from low in the Northern sky to the Zenith and back. 
 
 
-## Check You Understanding
+## Types of Stars
 
-Go to the [Activities Page for this lecture](../activities/celestial_sphere.md).
+Visible stars at a given location may be circumpolar or rise-and-set stars.
+
+Stars making a full circle in the sky are Circumpolar stars. Circumpolar stars never set below the horizon.
+
+Stars coming up from the horizon are Rise-and-set stars.
+
+In this long-exposure sky photograph, the motion of stars turs them into streaks across the sky.  
+![Stars appear as streaks in a time lapse photo of the sky. Shaded regions show Circumpolar stars and Rise-and-set stars as described in the text.](img/circumpolar-rise-and-set.jpg)  
+
+Polaris is not *exactly* on the north celestial pole, so it makes a little arc in this photo.
+
+
+## Check Your Understanding
+
+<quiz>
+
+You walk outside and turn so you are facing due North. 
+Your zenith is:
+
+- [ ] Directly in front of you
+- [ ] Straight out to your right
+- [ ] Directly behind you
+- [ ] Straight out to your left
+- [x] Directly overhead
+
+</quiz>
+
+<quiz>
+
+You walk outside and turn so you are facing due North. 
+South is:
+
+- [ ] Directly in front of you
+- [ ] Straight out to your right
+- [x] Directly behind you
+- [ ] Straight out to your left
+- [ ] Directly overhead
+
+</quiz>
+
+
+
+<quiz>
+
+Where in the diagram would you label North?  
+
+![An observer on Earth faces to the left of the local sky dome. A is directly overhead. B marks Polaris on the upper left edge of the dome. C marks the horizon at the back of the diagram. D is the horizon's the leftmost point. E is the horizon's rightmost point.](../img/celestial-sphere-local-diagram.jpg)
+
+- [ ] Position A
+- [ ] Position B
+- [ ] Position C
+- [x] Position D
+- [ ] Position E
+
+The North direction is on the horizon, directly underneath Polaris.
+
+</quiz>
+
+
+<quiz>
+What direction is the observer looking in the diagram below?
+
+![The dome of a local sky with Polaris on the left edge. An observer faces the back of the dome.](../img/observer-pointing.png)
+
+- [ ] toward the South
+- [ ] toward the North
+- [x] toward the East
+- [ ] toward the West
+
+</quiz>
+
+
+<quiz>
+
+You look to see the sun in the early evening. It's a few sun-heights above the horizon. You describe it as: (choose two)  
+![A photograph of the evening sun, reflected in the water.](../img/evening-sun.jpg)
+
+- [ ] High
+- [x] Low 
+- [ ] In the Northern Sky
+- [ ] In the Eastern Sky
+- [ ] In the Southern Sky
+- [x] In the Western Sky
+
+Since this is closer to the horizon than to the zenith, it is low in the sky. Since it's evening, the sun about to set in the West, so it's in the Western sky.
+
+</quiz>
+
+<quiz>
+
+You observe a star rising due East. When the star reaches its highest position above the horizon, where will it be?
+
+- [ ] High in the Northern sky
+- [ ] High in the Eastern sky
+- [x] High in the Southern sky
+- [ ] High in the Western sky
+- [ ]  At the Zenith
+
+This star is like Star A in [Example Star Paths](#example-star-paths). The Lecture Tutorial on Position will help you understand!
+
+</quiz>
 
 ## Go Further
 
