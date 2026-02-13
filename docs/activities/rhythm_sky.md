@@ -1,6 +1,6 @@
-# Daily Motion of the Sky
+# Rhythm of the Sky
 
-## Lecture Tutorial
+## Daily Motion of the Sky: Lecture Tutorial
 
 Work through the Motion Lecture Tutorial on pages 1-2 with your partner. Read carefully, and discuss any questions with your group. 
 
@@ -67,4 +67,33 @@ Six hours later on this day, when the sun sets, what constellation will be on th
 - [ ] Gemini
 - [ ]  Libra
 
+</quiz>
+
+## Seasonal Stars: Lecture Tutorial
+
+
+Work through the Seasonal Stars Lecture Tutorial on pages 7-9 with your partner. Read carefully, and discuss any questions with your group. 
+
+### Check your Lecture Tutorial understanding
+
+<quiz>
+You observe this sky at midnight:
+
+![Local sky facing South. East is left, West is right. Libra, Virgo, Leo, Cancer, and Gemini arc across the sky. Leo is highest.](../img/localsky_facing_south_leo_midnight.png)
+
+One month earlier, which of these constellations was highest in the southern sky in at midnight?
+
+- [ ] Leo
+- [ ] Virgo
+- [x]  Cancer
+</quiz>
+
+<quiz>
+
+You go out tonight and see the brightest star in the constellation Orion just rising above your eastern horizon at 10 PM. One week later at 10 PM this same star will be
+
+- [x] slightly higher in the sky. 
+- [ ] at the same height as before. 
+- [ ] below your horizon. 
+- [ ] setting on your western horizon.
 </quiz>

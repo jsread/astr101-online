@@ -2,7 +2,7 @@
 
 The Celestial Sphere describes a model of our view of the Universe. You'll learn about constellations, directions in the sky, and how the rotation of the Celestial Sphere looks from here on Earth.
 
-*Note: This article is written for observers in Fullerton, California.*
+*Note: This article was written for observers in Fullerton, California.*
 
 
 What you should know: How to measure angles in degrees. [Angles Review from Math is Fun](https://www.mathsisfun.com/geometry/degrees.html).
@@ -82,6 +82,8 @@ This is an optical illusion because we lack depth perception for such distant ob
 
 ## Directions in the Sky
 
+The **Horizon** is the edge of the visible sky. 
+
 If you look to any side, you see the **Horizon**. This is where the sky appears to meet the most distant part of the ground you can see.
 
 ### Horizon examples:
@@ -104,16 +106,18 @@ We locate regions in the sky by **azimuth** (angle around the horizon) and  **al
 
 ![An observer with their local sky labeled as described below.](img/localsky-directions.png)
 
-First you find the azimuth on the horizon. Which direction do you face? For example: North, East, South, or West. 
+Azimuth on the horizon. Which direction do you face? For example: North, East, South, or West. 
 
-Then, you look up from the horizon to find altitude:
+Up from the horizon to find altitude:
 
 * On the Horizon (0°)
 * Low in the sky (less than 45° up from the horizon)
 * High in the sky (more than 45° up from the horizon)
 * Zenith (directly overhead, 90° up from the horizon)
 
-For example: the GPS satellite passes overhead:
+### Sky Location example 
+
+The GPS satellite passes overhead:
 from far away in the Northwest, 
 to the Zenith, to far away in the Southeast.  
 ![An animation showing the path described above](img/satellite-overhead.gif)
@@ -147,9 +151,8 @@ This is where we get a.m. (ante meridian, before meridian) and p.m. (post meridi
 
 Each night, the stars appear to move.
 
-Looking North toward Polaris, the stars rotate around it.
 
-Polaris Time Lapse video:  
+Polaris Time Lapse video:  Looking North toward Polaris, the stars rotate around it.
 <div style="padding:66.54% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/4330429?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Polaris time lapse"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -190,22 +193,9 @@ Your Local Sky is half of the celestial sphere; the half that is above your loca
 * The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North on your horizon, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
 ![Your meridian connects North on your horizon, the North Celestial pole, the Zenith, and ends on your South.](img/celestial-sphere-observer-north-meridian-south.jpg)
 
-## The Rotating Sphere
-In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotates.
-
-![asdfa](img/rotating-celestial-sphere.gif)
-
-* It rotates around the Polar axis from East to West
-    - An axis through the North Celestial Pole (Polaris, the North Star)
-
-* The Celestial Sphere makes a complete rotation once every day.
-
-* The stars on the sphere appear to make circular paths. 
-
-* Each star completes a full circle path every 24 hours.
 
 ## Example Star Paths in the Local Sky
-Below is a diagram of a the local sky facing East, with two example star paths. One path circles Polaris in the sky, and the other arcs from East to West. The stars are only visible when they are above the horizon.
+Below is a diagram of a the local sky facing East, with two example star paths. One path circles Polaris in the sky, and the other arcs from East to West. 
 
 ![A dome of the sky over the ground. East is to the back, West to front, North to left, South to right on the horizon. Polaris is on the upper left edge, above Noth. The Celestial Equator and Star Path A arc from East, up the back of the dome to high in the South, down the front of the dome to West. Star Path B makes a loop on the dome, from low above North, up the back of the dome to the Zenith, down the front of the dome to its original point.](img/local-sky-example.jpg)
 
@@ -213,23 +203,12 @@ Things to notice:
 
 - The N/E/S/W directions are on the horizon.
 - Polaris is high in the Northern sky.
-- The Celestial Equator runs from East to West, but is tilted compared to the Zenith. Seen the center of the dome, the Equator is 90° away Polaris.
+- The Celestial Equator 
+    - runs from East to West.
+    - is tilted compared to the Zenith. 
+    - from the center of the dome, is 90° away Polaris.
 - Star Path A follows the Celestial Equator. A star on this path rises across the horizon due East, travels high above the Southern horizon, and sets across the horizon due West.
 - Star Path B circles Polaris. A star on this path never crosses the horizon. It moves from low in the Northern sky to the Zenith and back. 
-
-
-## Types of Stars
-
-Visible stars at a given location may be circumpolar or rise-and-set stars.
-
-Stars making a full circle in the sky are Circumpolar stars. Circumpolar stars never set below the horizon.
-
-Stars coming up from the horizon are Rise-and-set stars.
-
-In this long-exposure sky photograph, the motion of stars turs them into streaks across the sky.  
-![Stars appear as streaks in a time lapse photo of the sky. Shaded regions show Circumpolar stars and Rise-and-set stars as described in the text.](img/circumpolar-rise-and-set.jpg)  
-
-Polaris is not *exactly* on the north celestial pole, so it makes a little arc in this photo.
 
 
 ## Check Your Understanding
@@ -308,19 +287,6 @@ Since this is closer to the horizon than to the zenith, it is low in the sky. Si
 
 </quiz>
 
-<quiz>
-
-You observe a star rising due East. When the star reaches its highest position above the horizon, where will it be?
-
-- [ ] High in the Northern sky
-- [ ] High in the Eastern sky
-- [x] High in the Southern sky
-- [ ] High in the Western sky
-- [ ]  At the Zenith
-
-This star is like Star A in [Example Star Paths](#example-star-paths). The Lecture Tutorial on Position will help you understand!
-
-</quiz>
 
 ## Go Further
 

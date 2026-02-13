@@ -105,11 +105,14 @@ The famous "Pale Blue Dot" image is a photograph of Earth taken Feb. 14, 1990, b
 The Sun is a star, sometimes called Sol.
 
 It sits in a neighborhood of many stars.
-
-The closest star, Proxima Centauri, is 4.25 light years away.
-
 ![A 3D map of stars near the sun, with a label saying You are here pointing to Sol.](img/annotated-close-stars-colvin.jpg)
+
 *[Source: Andrew Z. Colvin](https://commons.wikimedia.org/wiki/File:04-Closest_Stars_(LofE04240).png)*
+The closest star, Proxima Centauri, is 4.25 light years away.
+![Proxima Centauri circled in a star field](img/proxima-centauri.jpg)
+*[Source: Davide De Martin/Mahdi Zamani](https://www.eso.org/public/images/eso1629f/)*
+
+
 
 In this image of the night sky, you can see the constellation Orion. Two bright stars, Betelgeuse and Sirius, are labeled. Sirius is nearby.
 ![An image of the night sky, showing the constellation Orion above the horizon and the bright star Sirius to the lower left of it](img/nightsky-orion.jpg)
@@ -174,6 +177,20 @@ more than five thousand of the most distant galaxies. It was made with a total e
 ![A colourful image showing hundreds of galaxies of different shapes and sizes.](img/hubble-extreme-deep-field.jpg)
 *[Source: NASA](https://science.nasa.gov/asset/hubble/hubble-extreme-deep-field-xdf/)*
 
+This flythrough shows where the Hubble Extreme Deep Field is found in our sky:
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/JeuTauSwjBc?start=0&end=30&mute=1&rel=0&modestbranding=1"
+  title="Animation showing apparent star motion at different Earth latitudes"
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
+
+### The Observable Universe
 The Universe also contains galaxies we will never be able to see.
 
 The part of the Universe we can potentially see is *the observable universe*. It contains hundreds of millions to trillions of galaxies.
@@ -199,11 +216,11 @@ The Observable Universe extends outward from our location in all directions.
 - The universe is expanding in size.  Galaxies were closer when they emitted the light we see.
 - If the most distant light sources still exist, they are now 45 billion light years away 
 
-The universe is huge!
-- Nearest star:                                                    4.4 light years
-- Distance across the Milky Way:               100,000 light years
-- Distance to nearest galaxy:                           2,500,000 light years
-- Edge of observable universe 46 billion light years away
+## Summary of distance scales:
+- Nearest star:          4.24 light years 
+- Distance across the Milky Way: 100,000 light years
+- Distance to nearest galaxy:          2,500,000 light years
+- Light travel time from edge of observable universe: 14 billion years
 
 
 
