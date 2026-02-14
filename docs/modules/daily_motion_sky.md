@@ -7,7 +7,7 @@ We'll discuss how Earth's spin causes the motion we see,  how the sun and stars 
 ## The Rotating Sphere
 In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotates.
 
-![asdfa](img/rotating-celestial-sphere.gif)
+![A celectial sphere rotating on the Polar axis through Polaris around the ground of a local sky. Stars are fixed on the sphere. The stars start to make trails as they move, forming circular paths that all parallel each other around Polaris.](img/rotating-celestial-sphere.gif)
 
 * It rotates around the Polar axis from East to West
     - An axis through the North Celestial Pole (Polaris, the North Star)
@@ -176,7 +176,16 @@ This composite image follows the Sun's path through the sky the December solstic
 
 This timelapse shows the motion of the Sun from sunrise to sunset:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FjZT2pfw-do?mute=1&start=12&end=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/FjZT2pfw-do?start=12&end=43&mute=1&rel=0&modestbranding=1"
+  title="A timelapse recording of a view over a neighborhood, starting before dawn. It follows the sun through sunrise, turning to follow the motion of the sun through the sky, and stopping after sunset."
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 The Sun's path is similar to Star B in our previous Local Sky example:
 
@@ -281,13 +290,16 @@ At a given latitude, you can have a mixture of [types of star](#types-of-stars):
 
 Everyone at a given latitude sees the stars the same way.
 
-![An image of star trails arcing around the south celestial pole which is close to the horizon.](img/celestial-pole-on-horizon.jpg)
-*Image: Kwon O Chul*
 
 ## Check your understanding: Latitude
 
 <quiz>
+
+![An image of star trails arcing around the south celestial pole which is close to the horizon.](../img/celestial-pole-on-horizon.jpg)
+*Image: Kwon O Chul*
+
 The night-long photo exposure above was taken (near the top of a mountain) in what location?
+
 
 - [ ]  Near the one of the Poles
 - [x]   Near the Equator
@@ -364,6 +376,54 @@ This next video shows how the stars move as seen in the Southern Hemisphere.
 
 
 ## Check your Understanding: Motion and Latitude
+
+
+<quiz>
+You look at the sky and see stars moving as shown in the long-exposure star trail photo below. An arrow indicates the direction of an example star.
+
+![Star trails make circles high in the sky above a lake. An arrow below the center of the circles points to the right.](../img/night-sky-hyatt-lake-kyle-sullivan-blm.jpg) *Kyle Sullivan, BLM*
+
+You are in what hemisphere, facing what direction?
+
+- [x] Northern, North
+- [ ] Northern, South
+- [ ] Southern, North
+- [ ] Southern, South
+</quiz>
+
+
+<quiz>
+You look at the sky and see stars moving as shown in the long-exposure star trail photo below. An arrow indicates the direction of an example star.
+
+![Star trails make circles around a point to the right of the image above a desert. An arrow to the left of the circles points up from the horizon](../img/rwesson-paranal-11jan2014-cc.jpg)
+*Credit:
+R. Wesson/ESO*
+
+You are in what hemisphere, facing what direction?
+
+- [ ] Northern, N.E.
+- [ ] Northern, S.E.
+- [x] Southern, S.E.
+- [ ] Southern, N.E.
+
+</quiz>
+
+
+
+
+<quiz>
+You look at the sky and see stars moving as shown in the long-exposure star trail photo below. An arrow indicates the direction of an example star.
+
+![Star trails go from upper left to lower right in the image. An arrow points downward and to the right along a trail.](../img/trails_sunset_at_La_Hague_lighthouse.jpg) *Credit: Antoine Lamielle*
+
+You are in what hemisphere, facing what direction?
+
+- [ ] Northern, East
+- [ ] Northern, West
+- [ ] Southern, West
+- [ ] Southern, East
+
+</quiz>
 
 
 

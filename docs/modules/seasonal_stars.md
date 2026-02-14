@@ -1,6 +1,6 @@
 # Seasonal Stars
 
-Yearly changes in the night sky. 
+Yearly changes in the night sky: 
 - How Earth's orbit changes our view.
 - How the Sun appears to move through the Zodiac constellations.
 - What that means for how we see the stars from month to month and day to day.
@@ -111,7 +111,7 @@ If you look again in the evening in February, Taurus will be highest in the sky.
 
 Which diagram best reflects our view of stars in summer compared to our view of stars in winter?
 
-![Students are drawn on an orbit path around a sun in four scenarios. A. two students on the left and right sides of the sun, both pointing left. B. four students, two above and below and two left and right of the sun, all pointing to the sun. C. two students above and below the sun, both pointing away from the sun. D.two students both on the left of the sun, one pointing left and one pointing right. ](img/students-pointing.jpg)
+![Students are drawn on an orbit path around a sun in four scenarios. A. two students on the left and right sides of the sun, both pointing left. B. four students, two above and below and two left and right of the sun, all pointing to the sun. C. two students above and below the sun, both pointing away from the sun. D.two students both on the left of the sun, one pointing left and one pointing right. ](../img/students-pointing.jpg)
 
 - [ ] Scenario A
 - [ ] Scenario B
