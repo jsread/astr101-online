@@ -419,7 +419,7 @@ You look at the sky and see stars moving as shown in the long-exposure star trai
 You are in what hemisphere, facing what direction?
 
 - [ ] Northern, East
-- [ ] Northern, West
+- [x] Northern, West
 - [ ] Southern, West
 - [ ] Southern, East
 

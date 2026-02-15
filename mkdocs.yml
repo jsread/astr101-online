@@ -44,7 +44,7 @@ nav:
         - The Life Cycle of Stars: modules/life_cycle_of_stars.md
         - The Death of Stars: modules/death_of_stars.md
         - Neutron Stars and Black Holes: modules/neutron_stars_black_holes.md
-    - Activities:
+  - Activities:
       - Our View of the Universe: activities/our_view_universe.md 
       - The Rhythm of the Sky: activities/rhythm_sky.md
 theme: 
