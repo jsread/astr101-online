@@ -16,9 +16,9 @@ nav:
         - Seasons on Earth: modules/seasons_on_earth.md
         - Moon Phases: modules/moon_phases.md
         - Eclipses: modules/eclipses.md
-      - Wandering Stars: 
-        - Ancient Astronomy: modules/ancient_astronomy.md
+      - Wandering Stars:
         - Retrograde Motion: modules/retrograde_motion.md
+        - Ancient Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
       - Planetary Orbits: 
         - The Copernican Revolution: modules/copernican_revolution.md
@@ -47,6 +47,7 @@ nav:
   - Activities:
       - Our View of the Universe: activities/our_view_universe.md 
       - The Rhythm of the Sky: activities/rhythm_sky.md
+      - Seasons and the Moon: activities/seasons_moon.md
 theme: 
   name: material
   palette: 

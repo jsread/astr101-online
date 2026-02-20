@@ -1,4 +1,4 @@
-# Rhythm of the Sky
+# Rhythm of the Sky Activities
 
 ## Daily Motion of the Sky: Lecture Tutorial
 
@@ -59,7 +59,7 @@ Where will the star be in 6 hours?
 
 If there was no atmosphere, this image shows the sky at noon:
 
-![Local sky view facing south. The horizon is labeled East on the left, South at center, and West on the right. In the sky, the constellations Libra (low in the eastern sky), Virgo (higher toward the southeast), Leo (high in the southern sky, Cancer (to the southwest), and Gemini (low in the western sky) are drawn with stick-figure star patterns and labels. The Sun appears within Leo's boundaries. ](img/sky-noon-leo.png)
+![Local sky view facing south. The horizon is labeled East on the left, South at center, and West on the right. In the sky, the constellations Libra (low in the eastern sky), Virgo (higher toward the southeast), Leo (high in the southern sky, Cancer (to the southwest), and Gemini (low in the western sky) are drawn with stick-figure star patterns and labels. The Sun appears within Leo's boundaries. ](../img/sky-noon-leo.png)
 
 Six hours later on this day, when the sun sets, what constellation will be on the Western Horizon?
 
@@ -68,6 +68,9 @@ Six hours later on this day, when the sun sets, what constellation will be on th
 - [ ]  Libra
 
 </quiz>
+
+
+
 
 ## Seasonal Stars: Lecture Tutorial
 
@@ -97,3 +100,20 @@ You go out tonight and see the brightest star in the constellation Orion just ri
 - [ ] below your horizon. 
 - [ ] setting on your western horizon.
 </quiz>
+
+
+## Discussion: Fieldwork
+
+Chose an astronomical object you can find easily in the sky this week - the Sun, the Moon, a bright star, perhaps one of the [planets visible in your sky tonight](https://www.timeanddate.com/astronomy/night/), located using a [night sky guide](https://nightsky.jpl.nasa.gov/planner/). 
+
+Find a convenient observing location. Observe the object from the same location either
+ - twice in one day, ideally a few hours apart.
+ - on two days, ideally several days apart, at the same time each day. 
+ 
+ You may notice changes more easily if you find a reference point to compare to (e.g. a building, telephone pole, or tree you can see from your observing location.)
+
+1. Describe its location in the sky using our categories for Altitude and Azimuth in the [Celestial Sphere Module](../modules/celestial_sphere.md).
+2. Describe any change in location from one time to another.
+3. Based on your observation, does this object behave like it is fixed on the Celestial Sphere? Why or why not?
+
+Share your observation with your discussion pod.

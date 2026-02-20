@@ -1,8 +1,11 @@
 # Seasonal Stars
 
 Yearly changes in the night sky: 
+
 - How Earth's orbit changes our view.
+
 - How the Sun appears to move through the Zodiac constellations.
+
 - What that means for how we see the stars from month to month and day to day.
 
 

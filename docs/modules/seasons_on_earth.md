@@ -1,14 +1,32 @@
 # Seasons on Earth
 
-Dr. Gabriela Gonzalez, 
+* Direct sunlight
+
+* How the sun illuminates the Earth
+
+* … at different latitudes and times of year
+
+* The cause of seasons
+
+## Intro
+
+[Dr. Gabriela Gonzalez](https://en.wikipedia.org/wiki/Gabriela_Gonz%C3%A1lez), who played a leading role in the first detection of gravitational waves, did her undergraduate degree in Córdoba, Argentina. She then moved to Syracuse, NY, USA for her doctorate.
+
+
 
 ![Map of the Americas with labeled markers for Syracuse, NY, USA (green) in the northeastern United States and Córdoba, Argentina (purple) in central Argentina. A curved black arrow points from Córdoba northward to Syracuse. An oval portrait of a woman appears over North America near the Syracuse label.](img/GabrielaGonzalesCordobaToSyracuse.jpg)
 
-![Line graph of monthly average high and low temperatures (°F) for Córdoba (purple) and Syracuse (green). Córdoba’s curves are highest in January and lowest in July, while Syracuse’s curves are lowest in January and highest in July.](img/CompareAverageHighLowTemperatureCordobaSyracuse.png)
+Córdoba is hottest in January and coldest in July, but Syracuse is hottest in July and coldest in January.
 
+
+
+![Line graph of monthly average high and low temperatures (°F) for Córdoba (purple) and Syracuse (green). Córdoba’s curves are highest in January and lowest in July, while Syracuse’s curves are lowest in January and highest in July.](img/CompareAverageHighLowTemperatureCordobaSyracuse.png)  
  [Source: © WeatherSpark.com](https://weatherspark.com/compare/y/28147~22184/Comparison-of-the-Average-Weather-in-C%C3%B3rdoba-and-Syracuse)
 
-## Sunlight on the Earth
+
+Why did Dr. Gonzalez experience different seasonal patterns in each location?
+
+## Sunlight and the Earth's Orbit
 
 * Earth’s axis is tilted by 23.5 degrees w/r/t the ecliptic plane
 
@@ -21,9 +39,9 @@ Dr. Gabriela Gonzalez,
 
 ## Sunlight carries energy
 
-The angle of sunlight changes how much it heats the Earth.
+The angle of sunlight changes how much the Sun heats the Earth.
 
-When the surface is tilted, it absorbs less energy from the Sun.
+When a surface is tilted, it absorbs less energy from the Sun.
 ![Sunlight illustration with parallel yellow arrows pointing downward across the image. In the center, a horizontal green bar casts evenly spaced vertical shadow lines below it. When the bar is tilted diagonally relative to the vertical arrows, it shadows fewer arrows.](img/sunlight-angle.jpg)
 
 ### Direct sunlight
@@ -33,7 +51,7 @@ When the surface is tilted, it absorbs less energy from the Sun.
 * Less direct sunlight when the sun is low: energy is spread out  
 ![Illustration of a person standing on a flat surface under a dome-shaped sky. Dashed arcs show different Sun paths across the sky.The Sun on the path lowest near the right horizon, casting a yellow beam at a shallow angle toward the person, illuminating a larger spot on the gorund. ](img/sunbeam-from-low.jpg)
 
-## Changing the angle of sunlight
+## The changing angle of sunlight
 
 From geosynchronous orbit, the Meteosat satellite recorded infrared images of the Earth every day at the same local time, from September 2010 to September 2011.
 
@@ -50,13 +68,13 @@ Geosynchronous: always above the same position on Earth's surface.
   allowfullscreen>
 </iframe>
 
-To make these images, the Sun must have always been to the left of the camera.
+Because it is the same local time, the Sun is always to the left of the camera when the photo was taken.
 
 <quiz>
+Which of these pictures shows a  physically realistic diagram of the Sun’s rays hitting the Earth?
 
 ![Three images of sun rays and half-illuminated earths. The left side of each Earth is bright and the right side is dark. (A) - Rays come from lower left. (B) - Rays come from upper left. (C) - Rays come from direct left.](../img/sun-rays-hit-earth.png)
 
-Which of these pictures shows a  physically realistic diagram of the Sun’s rays hitting the Earth?
 
 
 - [ ] (A) only
@@ -68,31 +86,31 @@ Which of these pictures shows a  physically realistic diagram of the Sun’s ray
 
 ## Sunlight on the Earth
 
-The illumination of earth determines the length of days and the amount of direct sunlight.
+The way the sun lights the earth determines the length of days and the amount of direct sunlight at each latitude.
 
 
 ![Earth spins on its axis, with the north pole tilted to the right in this image. Sunlight comes in from the left and the left half is illuminated. (A) marks a latitude line near the top of the sphere, less than half in light. (B) marks a latitude line near the bottom of the sphere, more than half in light. (C) marks a latitude near Antarctica, almost all in light.](img/spinning-earth-illuminated.gif)
 
-In this animation, (A) and (B) are each the same distance from the equator, but (A) is in the northern hemisphere and (B) is in the southern hemisphere.
+In this animation, (A) and (B) are each the same distance from the equator, but (A) is in the northern hemisphere and (B) is in the southern hemisphere. (C) is close to Antarctica.
 
 ### Build your understanding
 
 <quiz>
-In the image above, which latitude has more hours of daylight?
+In the animation above, which latitude has more hours of daylight?
 
 - [ ] (A) 
 - [x] (B) 
 
-More than half of B's day is spent in the lighted part of Earth.
+More than half of B's day is spent in the lighted part of Earth. A is in shadow more than half of the time, so it has longer nights.
 </quiz>
 
 <quiz>
-In the image above, which latitude has more direct sunlight?
+In the animation above, which latitude has more direct sunlight?
 
 - [ ] (A) 
 - [x] (B) 
 
-Sun rays hitting Earth's surface at B are less tilted compared to the Earth's surface at A.
+Sun rays hitting Earth's surface at B are less tilted compared to the Earth's surface at A. The sun appears higher overhead at B.
 
 </quiz>
 
@@ -100,14 +118,14 @@ Sun rays hitting Earth's surface at B are less tilted compared to the Earth's su
 <quiz>
  Which is more important for seasonal temperature: direct sunlight or hours of daylight?
 
- Compare location B to location C, which is farther from the equator.
+ Hint: Compare location B to location C in the animation above.
 
 
 - [x] Direct sunlight
 - [ ] Hours of daylight
 - [ ] Both equally important
 
-The Arctic and Antarctic can experience many hours of daylight, but the sunlight is always quite indirect. The temperatures remain low, so direct sunlight must be more important.
+The Arctic and Antarctic can experience many hours of daylight, but the sunlight is always quite indirect. Temperatures are lower in these regions compared to locations with fewer daylight hours but more direct sunlight. So, direct sunlight must be more important for local temperature.
 
 </quiz>
 
@@ -126,8 +144,9 @@ The Sun is at the zenith for different regions on Earth, depending on the [eclip
 
 ### Sun over Equator
 ![Diagram of Earth half illuminated and half in darkness, with sunlight coming from the left. Earth’s axis is straight up and down. Latitude lines labeled Arctic Circle, Tropic of Cancer, Equator, Tropic of Capricorn, and Antarctic Circle appear on the right. A figure above the Tropic of Cancer and a figure below the Tropic of Capricorn are shown. They make the same angle with the sun rays.](img/earth-lighting-equinox.png)  
-*[Base image](https://commons.wikimedia.org/wiki/File:Earth-lighting-equinox_EN.png)*
-This image shows the angle of the sunlight when the sun is directly over the equator. 
+*[Base image](https://commons.wikimedia.org/wiki/File:Earth-lighting-equinox_EN.png)*  
+
+This image shows the angle of the sunlight when the sun is directly overhead on the equator. 
 
 - This is an Equinox.
 
@@ -138,7 +157,7 @@ This image shows the angle of the sunlight when the sun is directly over the equ
 
 ![Diagram of Earth half illuminated and half in darkness, with sunlight coming from the left. Earth’s axis is shown tilted, with the North Pole angled away from the Sun. Latitude lines labeled Arctic Circle, Tropic of Cancer, Equator, Tropic of Capricorn, and Antarctic Circle appear on the right. A figure above the Tropic of Cancer is angled more toward the sun. A figure below the Tropic of Capricorn is angled more away from sun and wears a hat.](img/earth-lighting-summer-solstice.png)
 
-This image shows the angle of the sunlight when the sun is directly over the Tropic of Cancer. 
+This image shows the angle of the sunlight when the sun is directly overhead on the Tropic of Cancer. 
 
 - This is the June solstice.
 
@@ -150,6 +169,9 @@ This image shows the angle of the sunlight when the sun is directly over the Tro
 
 ![Diagram of Earth half illuminated and half in darkness, with sunlight coming from the left. Earth’s axis is shown tilted, with the North Pole angled away from the Sun. Latitude lines labeled Arctic Circle, Tropic of Cancer, Equator, Tropic of Capricorn, and Antarctic Circle appear on the right. A figure above the Tropic of Cancer is angled more away from sun and wears a hat. A figure below the Tropic of Capricorn is angled more toward the sun.](img/earth-lighting-winter-solstice.png)
 
+This image shows the angle of the sunlight when the sun is directly overhead on the Tropic of Capricorn. 
+
+
 - This is the December solstice.
 
 - Winter in Northern Hemisphere
@@ -158,7 +180,7 @@ This image shows the angle of the sunlight when the sun is directly over the Tro
 
 ## The Cause of the Seasons
 
-**The tilt of Earth’s rotational axis and Earth’s movement in its orbit change how much direct sunlight shines on the northern and southern hemispheres.**
+The **tilt of Earth’s rotational axis** and Earth’s **movement in its orbit** change **how much direct sunlight** shines on the **northern and southern hemispheres.**
 
 ## Seasonal Lag
 
@@ -168,4 +190,39 @@ Average Temperatures at LAX Weather Station:
 
 Sunlight is most direct here on the Summer Solstice. Why isn’t June the hottest month?
 
-It takes time to warm up and cool down.
+Partly, it takes time to warm up and cool down. The Pacific Ocean acts as a heat reservoir, and wind patterns from the ocean or from the inland desert also change our weather.
+
+## Check your understanding
+
+<quiz>
+Which of the following experiences the smallest change in sunlight over the course of a year?
+- [ ]   The North Pole
+- [x]  The Equator
+- [ ]  The South Pole
+- [ ]    They are all the same
+</quiz>
+
+![Two Earths are shown, one on each side of the sun. The North pole is tilted to the left for each. On the left side, A is near the North pole, B is on the Equator, and C is below the equator, while sunlight comes in from the right. On the right side, D is near the North pole, E is on the Equator, and F is near the South pole, while sunlight comes from the left.](img/different-earth-locations.jpg)
+<quiz>
+In the image above, which letter represents a location on Earth that is experiencing winter in the Northern Hemisphere?
+
+- [x] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+
+</quiz>
+
+<quiz>
+In the image above, which letter represents a location on Earth that is experiencing summer in the Southern Hemisphere?
+
+- [ ] A
+- [ ] B
+- [x] C
+- [ ] D
+- [ ] E
+- [ ] F
+
+</quiz>
