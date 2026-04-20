@@ -226,3 +226,14 @@ In the image above, which letter represents a location on Earth that is experien
 - [ ] F
 
 </quiz>
+
+<quiz>
+Imagine that Earth’s orbit were changed to be a perfect circle around the Sun so that the
+distance to the Sun never changed. How would this affect the seasons?
+
+- [ ] We would no longer experience a difference between the seasons.
+- [x] We would continue to experience seasons in essentially the same way we do now.
+- [ ] We would still experience seasons, but the difference would be much more noticeable.
+- [ ] We would still experience seasons, but the difference would be much less noticeable
+
+</quiz>

@@ -148,6 +148,16 @@ When is the Sun above our horizon for the greatest number of hours?
 </quiz>
 
 <quiz>
+What do we call the day(s) of the year when the Sun rises directly in the East and sets directly in the West?
+
+- [ ] Solstices
+- [ ] Circumpolar
+- [ ] Equinoxes
+- [ ] Celestial
+
+</quiz>
+
+<quiz>
 On September 21, the Sun will set exactly on the West Point of the horizon. 
 
 Where would the Sun appear to set 2 weeks later?

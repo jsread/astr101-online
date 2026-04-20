@@ -78,38 +78,38 @@ The side that is bright must be the one towards the Sun.
 
 ## The Moon's orbit
 
+* The Moon appears to lie on the celestial sphere. Over the course of one day, it moves with the rise-and-set stars. 
+
+
 * As viewed from stars, above the North pole:
 
-    * The Moon revolves counterclockwise about the Earth 
+    * The Moon revolves **counterclockwise** about the Earth. 
     * It orbits the Earth once every 27.32 days.
 
-
-* The Moon appears to lie on the celestial sphere. Over the course of one day, it moves with the rise-and-set stars. 
 
 ![A circle showing the moon's orbital path around a small Earth at the center. An arrow points counter-clockwise.](img/moon-orbit.jpg)
 
 
-Find the "start animation" button on this Lunar Phase Simulator to see a demonstration of how the moon orbits a spinning earth.
-
+Find the "start animation" button on this Lunar Phase Simulator to see a demonstration of how the moon orbits a spinning earth.  
 <iframe
   src="https://ccnmtl.github.io/astro-simulations/lunar-phase-simulator/"
-  width="800"
-  height="600"
+  width="1024"
+  height="1024"
   title="Lunar Phase Simulator"
   frameborder="0"
   referrerpolicy="strict-origin-when-cross-origin">
 </iframe>
 
-* The moon rises and sets, just like the sun and stars
-* When the observer looks up, they only see the illuminated part of the side of the moon that faces them.
-* All observers on earth see the same phase at the same time
-* Earth is small and the moon orbit is a bit tilted, so Earth doesn’t cast a shadow on the moon most months
+* The Moon rises and sets, just like the sun and stars, based on the spin of Earth.
+* When the observer looks up, they only see the illuminated part of the side of the Moon that faces them.
+* All observers on earth who can see the Moon see the same phase at the same time
+* Earth is small and the moon orbit is a bit tilted, so Earth doesn’t usually cast a shadow on the Moon.
 
-https://science.nasa.gov/wp-content/uploads/2023/08/simple-tidal-comparison-of-earth-moon.mp4
+
 
 ## The face of the moon
 
-The moon spins once each orbit, so on Earth we always see the same side.
+The moon is "tidally locked." This means: the  moon spins once each orbit, so on Earth we always see the same face. 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;">
   <video
@@ -120,6 +120,8 @@ The moon spins once each orbit, so on Earth we always see the same side.
     <source src="https://science.nasa.gov/wp-content/uploads/2023/08/simple-tidal-comparison-of-earth-moon.mp4" type="video/mp4">
   </video>
 </div>
+
+*[Source: NASA](https://science.nasa.gov/moon/tidal-locking/)*
 
 ## Moon phases from the orbit
 

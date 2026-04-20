@@ -54,7 +54,17 @@ If Earth were tilted more (60 degrees rather than 23.5 degrees), then during win
 This is a more extreme tilt, so the seasonal changes would be more extreme.
 
 </quiz>
+<quiz>
 
+Which of the following describes one reason that the Northern and the Southern
+Hemispheres have different seasons at the same time?
+
+- [ ] Earth is closer to the Sun during summer in the Southern Hemisphere and is farther from the Sun during winter in the Northern Hemisphere.
+- [x] During a day of the year when the Sun is high in the sky in the Northern Hemisphere it will be low in the sky in the Southern Hemisphere.
+- [ ] Earth is tilted, so the Sun is closer to one hemisphere than the other, which causes one hemisphere to be in winter and the other in summer.
+- [ ] The energy received at Earth from the Sun changes throughout the year providing more energy to one hemisphere than the other.
+- [ ] None of the above.
+</quiz>
 
 ## Moon Phases Lecture Tutorials
 
@@ -95,7 +105,7 @@ eight positions in its orbit.
 
 Which position corresponds to a first quarter moon?
 
-![eight moon positions around the Earth, with sunlight coming from the right. (A) is farthest right. (B) is top. (C) is farthest left. (D) is bottom.](../img/moon-positions-1.png)
+![eight moon positions around the Earth, with sunlight coming from the right. Positoin (A) is farthest right. (B) is top. (C) is farthest left. (D) is bottom.](../img/moon-positions-1.png)
 
 - [ ]  (A)
 - [x] (B)
@@ -111,7 +121,7 @@ eight positions in its orbit.
 
 Which position corresponds to a waxing crescent moon?
 
-![eight moon positions around the Earth, with sunlight coming from the right. From Earth, (A) diagonal upper right. (B) diagonal upper left. (C) is diagonal lower left. (D) is diagonal lower right.](../img/moon-positions-2.png)
+![eight moon positions around the Earth, with sunlight coming from the right. From Earth, position (A) is to the diagonal upper right. (B) diagonal upper left. (C) is diagonal lower left. (D) is diagonal lower right.](../img/moon-positions-2.png)
 
 - [x]  (A)
 - [ ] (B)
@@ -137,21 +147,35 @@ Which position corresponds to a waning gibbous moon?
 
 
 </quiz>
+<quiz>
+Which phase of the Moon rises in the east as the Sun rises in the east?
+
+- [ ]  first quarter
+- [ ]  gibbous
+- [ ]  full
+- [ ]  third quarter
+- [ ]  new
+
+</quiz>
+<quiz>
+Which of the following groups of Moon phases can all be seen above the horizon at 9:00 AM?
+
+- [ ] Third Quarter, Waning Crescent, and Waxing Gibbous
+- [x] New Moon, Third Quarter, and Waning Gibbous
+- [ ] Waxing Gibbous, Full Moon, Waning Gibbous
+- [ ] Waxing Crescent, First Quarter, Waxing Gibbous
+- [ ] None. The Moon can only been seen above the horizon during the night time.
+
+</quiz>
 
 
 ## Discussion: Moon Phase Demonstration 
 
-Remember this demonstration of moon phases:
+Remember the demonstration of moon phases in the [Moon Phases Lecture](../modules/moon_phased.md)?
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/wz01pTvuMa0?start=057&end=&mute=1&autoplay=0&loop=0&playlist=wz01pTvuMa0&rel=0&modestbranding=1"
-  title="Moon Phases Demonstration"
-  frameborder="0"
-  allow="autoplay; fullscreen; picture-in-picture"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+Can you 
+* reproduce a moon phase demo with materials you already have, 
+* create a similar demo to illustrate an aspect of the cause of the Seasons
+* or create a similar demo to illustrate an Eclipse? 
 
-Can you reproduce this moon phase demo with materials you already have, or create a similar demo to illustrate the cause of the Seasons or Eclipses? Share a photo of your demo with your discussion pod.
+Share a photo of your demo with your discussion pod.

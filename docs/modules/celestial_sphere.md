@@ -1,5 +1,4 @@
-# The Celestial Sphere
-
+# Observing the Sky
 The Celestial Sphere describes a model of our view of the Universe. You'll learn about constellations, directions in the sky, and how the rotation of the Celestial Sphere looks from here on Earth.
 
 *Note: This article was written for observers in Fullerton, California.*
@@ -80,6 +79,20 @@ When we look at the night sky they seem to be sprinkled on a dome over our heads
 
 This is an optical illusion because we lack depth perception for such distant objects.
 
+### Angular size
+
+The angular size of an object is the angle it appears to span on your field of view
+
+Observing the sky, we can measure the angular size of objects or the angular distance between objects.
+
+Angular measurements do not tell us real physical sizes
+
+To determine the true size we need to know the distance to the objects (which we cannot figure out with our eyes)
+
+![an observer looks to the moon. lines extend to the top and bottom of the moon, making an angle marked angular size. distance is](img/angular-size.jpg)
+
+
+
 ## Directions in the Sky
 
 The **Horizon** is the edge of the visible sky. 
@@ -115,6 +128,29 @@ Up from the horizon to find altitude:
 * High in the sky (more than 45° up from the horizon)
 * Zenith (directly overhead, 90° up from the horizon)
 
+## Sky coordinates
+
+Altitude and Azimuth are angular distances measured in dgrees.
+
+(around the circle of the horizon from North,
+ then up from the horizon)
+
+![altitude points up, azimuth to the right. An arrow to the right says "what direction do I look?" an arrow up says "how far up?" and ends on a star.](img/alt-az.jpg)
+
+Altitude:
+Increasing “height in the sky” precision with angle measurements
+![](img/altitude.png)  
+*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
+
+Azimuth:
+Increasing compass direction precision with angle measurements
+![A viewer looks straight ahead to the Horizon.](img/azimuth.png)  
+*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
+
+Estimating angles:
+
+![](img/angle-estimates.jpg)
+
 ### Sky Location example 
 
 The GPS satellite passes overhead:
@@ -146,52 +182,6 @@ We also divide the sky by the **meridian**, a line going from the North point of
 
 This is where we get a.m. (ante meridian, before meridian) and p.m. (post meridian, after meridian).
 
-
-## The Celestial Sphere
-
-Each night, the stars appear to move.
-
-
-Polaris Time Lapse video:  Looking North toward Polaris, the stars rotate around it.
-<div style="padding:66.54% 0 0 0;position:relative;">
-<iframe src="https://player.vimeo.com/video/4330429?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Polaris time lapse"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-This makes it seem like the stars are all on the surface of a spinning ball around us.
-
-Animation of the Celestial Sphere: *[Source: Science Sims @ CCNY](https://sciencesims.com/simdocs/celestial-sphere)*
-<iframe src="https://ccny-physics-sims.github.io/sims/celestial-sphere/" width ="400" height="400" ></iframe >
-
-Many early astronomers imagined that stars were really fixed on the surface of a Celestial Sphere that surrounded and revolved around the Earth.
-
-![A globe-style model of the celestial sphere sitting on a desk.](img/celestial-sphere-globe-model.jpg)
-
-* The celestial sphere is a scientific model.
-
-* We now know it is not how things really are. 
-
-* It’s still a useful way to map the position and motion of the stars in our sky.
-
-### Features of the Celestial Sphere Model
-
-The Celestial Sphere surrounds the Earth. 
-
-* The stars are in fixed positions on the sphere.
-
-* The North Celestial Pole is directly above Earth's North Pole.  
-![An arrow from Earth's North pole stretched directly up to the North Celestial Sphere, and Polaris.](img/celestial-sphere-north-pole.jpg)
-
-* The Celestial Equator is directly above Earth's equator. It's 90° down from Polaris. 
-![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-equator.jpg)
-
-## The Celestial Sphere and your Local Sky
-
-Your Local Sky is half of the celestial sphere; the half that is above your local horizon
-
-* Your zenith is directly above your location on Earth. Your horizon is 90° down from your zenith in a full circle. The North Celestial Pole and Celestial Equator are tilted in your sky.
-![An observer stands on Earth. Your Zenith and Your Horizon are directly above and to the side. The North Celestial Pole and the Celestial Equator are tilted.](img/celestial-sphere-observer-zenith-horizon.jpg)
-
-* The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North on your horizon, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
-![Your meridian connects North on your horizon, the North Celestial pole, the Zenith, and ends on your South.](img/celestial-sphere-observer-north-meridian-south.jpg)
 
 
 ## Example Star Paths in the Local Sky

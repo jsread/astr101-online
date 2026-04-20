@@ -3,6 +3,59 @@
 We'll discuss how Earth's spin causes the motion we see,  how the sun and stars appear to move, skies in the Northern and Southern hemises, and the change in sky motion with latitude.
 
 
+## The Celestial Sphere
+
+Each night, the stars appear to move.
+
+
+Polaris Time Lapse video:  Looking North toward Polaris, the stars rotate around it.
+<div style="padding:66.54% 0 0 0;position:relative;">
+<iframe src="https://player.vimeo.com/video/4330429?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Polaris time lapse"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+This makes it seem like the stars are all on the surface of a spinning ball around us.
+
+Many early astronomers imagined that stars were really fixed on the surface of a Celestial Sphere that surrounded and revolved around the Earth.
+
+![A model of the celestial sphere.](img/globe-1279.jpg)  
+Globe of Mohammed ben Muwajed el Ordhi, 1279.
+*[Source: Edward Luther Stevenson](https://www.gutenberg.org/files/39866/39866-h/39866-h.htm)*
+
+Animation of the Celestial Sphere: *[Source: Science Sims @ CCNY](https://sciencesims.com/simdocs/celestial-sphere)*
+<iframe src="https://ccny-physics-sims.github.io/sims/celestial-sphere/" width ="400" height="400" ></iframe >
+
+
+* The celestial sphere is a scientific model.
+
+* We now know it is not how things really are. 
+
+* It’s still a useful way to map the position and motion of the stars in our sky.
+
+
+![Katherine Johnson seated at desk working with globe at left.](img/katherine-johnson-globe.jpg)
+*NASA research mathematician Katherine Johnson is photographed at her desk at NASA Langley Research Center with a globe, or "Celestial Training Device," in 1962. [Source: NASA](https://www.nasa.gov/image-article/katherine-johnson-work-1962/)*
+
+### Features of the Celestial Sphere Model
+
+The Celestial Sphere surrounds the Earth. 
+
+* The stars are in fixed positions on the sphere.
+
+* The North Celestial Pole is directly above Earth's North Pole.  
+![An arrow from Earth's North pole stretched directly up to the North Celestial Sphere, and Polaris.](img/celestial-sphere-north-pole.jpg)
+
+* The Celestial Equator is directly above Earth's equator. It's 90° down from Polaris. 
+![An line marking Earth's Equator is shown with a red ellipse estending out from it to the Celestial Equator.](img/celestial-sphere-equator.jpg)
+
+## The Celestial Sphere and your Local Sky
+
+Your Local Sky is half of the celestial sphere; the half that is above your local horizon
+
+* Your zenith is directly above your location on Earth. Your horizon is 90° down from your zenith in a full circle. The North Celestial Pole and Celestial Equator are tilted in your sky.
+![An observer stands on Earth. Your Zenith and Your Horizon are directly above and to the side. The North Celestial Pole and the Celestial Equator are tilted.](img/celestial-sphere-observer-zenith-horizon.jpg)
+
+* The North point of your horizon is directly beneath the North Celestial Pole. Your meridian runs from North on your horizon, through the Zenith, to South on the opposite side of the horizon. East and West are to the left and the right if facing South.
+![Your meridian connects North on your horizon, the North Celestial pole, the Zenith, and ends on your South.](img/celestial-sphere-observer-north-meridian-south.jpg)
+
 
 ## The Rotating Sphere
 In the Celestial Sphere model, the Earth is fixed and the Celestial Sphere rotates.
