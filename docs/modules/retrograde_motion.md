@@ -53,3 +53,26 @@ Sky observations use measurements in degrees.
 
 Unit of both local sky observations and for celestial sphere maps
 
+
+## Sky coordinates
+
+Altitude and Azimuth are angular distances measured in dgrees.
+
+(around the circle of the horizon from North,
+ then up from the horizon)
+
+![altitude points up, azimuth to the right. An arrow to the right says "what direction do I look?" an arrow up says "how far up?" and ends on a star.](img/alt-az.jpg)
+
+Altitude:
+Increasing “height in the sky” precision with angle measurements
+![](img/altitude.png)  
+*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
+
+Azimuth:
+Increasing compass direction precision with angle measurements
+![A viewer looks straight ahead to the Horizon.](img/azimuth.png)  
+*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
+
+Estimating angles:
+
+![](img/angle-estimates.jpg)

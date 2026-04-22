@@ -44,21 +44,14 @@ The constellation Orion is everything in the highlighted region in this sky map:
 ![A sky map highlighting the constellation Orion, with labels on its bright stars and on neighboring constellations.](img/constellation-orion.png)  
 *[Source: IAU, Sky and Telescope](https://commons.wikimedia.org/wiki/File:Orion_IAU.svg)*
 
+It's named after the star pattern Orion from Ancient Greece. 
 
-## The Dome of the Sky
 
 
-Stars in constellations **appear** to be side-by-side, but they can be at very **different distances** from the Earth.  
-![The earth, with lines-of-sight through a sideways sky image of Orion to several stars at different distances](img/orion-stars-distances.jpg)
-
-The red star Betelgeuse on Orion's "shoulder" is 650 light years away, but the purplish glowing Nebula M42 in the "sword" is 1,344 light years away. So Betelgeuse is closer to us than it is the nebula.  
-![Betelgeuse imaged is a red glowing blob](img/betelgeuse-image.jpg)
-![The Orion nebula is a hazy purple glow with bright stars at the core](img/orion-nebula-visible-light.jpg)  
-Sources: [Dupree and Gililand, CfA/STScI/NASA/ESA](https://esahubble.org/images/opo9604b/) and [Filip Loic](https://www.asc-csa.gc.ca/eng/multimedia/search/image/3834)
-
+## Distances
 How can you figure out how far away things are if you can’t reach them?
 
-1. Binocular vision (compare view from each eye.)
+1. Binocular vision (compare view from each eye; how 3D glasses work.)
 2. Known size scaling (cows are really the same size.)
 ![Cows grazing in a field. Close cows look bigger](img/Cows_in_a_Yorkshire_field_IMG_0349.jpg)
 *[Source: RF Vila](https://commons.wikimedia.org/wiki/File:Cows_in_a_Yorkshire_field_IMG_0349.jpg)*
@@ -79,19 +72,22 @@ When we look at the night sky they seem to be sprinkled on a dome over our heads
 
 This is an optical illusion because we lack depth perception for such distant objects.
 
-### Angular size
 
-The angular size of an object is the angle it appears to span on your field of view
-
-Observing the sky, we can measure the angular size of objects or the angular distance between objects.
-
-Angular measurements do not tell us real physical sizes
-
-To determine the true size we need to know the distance to the objects (which we cannot figure out with our eyes)
-
-![an observer looks to the moon. lines extend to the top and bottom of the moon, making an angle marked angular size. distance is](img/angular-size.jpg)
+## The Dome of the Sky
 
 
+Stars in constellations **appear** to be side-by-side, but they can be at very **different distances** from the Earth.  
+![The earth, with lines-of-sight through a sideways sky image of Orion to several stars at different distances](img/orion-stars-distances.jpg)
+
+The red star Betelgeuse on Orion's "shoulder" is 650 light years away.
+![Betelgeuse imaged is a red glowing blob](img/betelgeuse-image.jpg)
+Source: [Dupree and Gililand, CfA/STScI/NASA/ESA](https://esahubble.org/images/opo9604b/)
+
+The purplish glowing Nebula M42 in the "sword" is 1,344 light years away.
+![The Orion nebula is a hazy purple glow with bright stars at the core](img/orion-nebula-visible-light.jpg)  
+Source:  [Filip Loic](https://www.asc-csa.gc.ca/eng/multimedia/search/image/3834)
+
+ So Betelgeuse is closer to us than it is the nebula.  
 
 ## Directions in the Sky
 
@@ -125,31 +121,9 @@ Up from the horizon to find altitude:
 
 * On the Horizon (0°)
 * Low in the sky (less than 45° up from the horizon)
-* High in the sky (more than 45° up from the horizon)
+* High in the sky (45° or more up from the horizon)
 * Zenith (directly overhead, 90° up from the horizon)
 
-## Sky coordinates
-
-Altitude and Azimuth are angular distances measured in dgrees.
-
-(around the circle of the horizon from North,
- then up from the horizon)
-
-![altitude points up, azimuth to the right. An arrow to the right says "what direction do I look?" an arrow up says "how far up?" and ends on a star.](img/alt-az.jpg)
-
-Altitude:
-Increasing “height in the sky” precision with angle measurements
-![](img/altitude.png)  
-*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
-
-Azimuth:
-Increasing compass direction precision with angle measurements
-![A viewer looks straight ahead to the Horizon.](img/azimuth.png)  
-*[Source: timeanddate.com](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)*
-
-Estimating angles:
-
-![](img/angle-estimates.jpg)
 
 ### Sky Location example 
 
