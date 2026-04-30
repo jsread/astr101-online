@@ -18,21 +18,26 @@ Solar eclipse:
 ![The Sun casts light from the left. The moon is to the left of the Earth, casting a shadow on Earth's surface.](img/solar_eclipse.png)
 
 
-### Angular size
+## Angular size
 
 The angular size of an object is the angle it appears to span on your field of view
 
 Observing the sky, we can measure the angular size of objects or the angular distance between objects.
 
+You can estimate the size of angles with an outstreched arm.
+![1 degree is your pinky finger. 6 degrees is three fingers. 10 degrees is your fist. 15 degrees is from pinky to index finger extended. 25 degrees is from thumb to pinky extended.](img/angle-estimates.jpg)
+
 Angular measurements do not tell us real physical sizes
 
 To determine the true size we need to know the distance to the objects (which we cannot figure out with our eyes).
 
-![an observer looks to the moon. lines extend to the top and bottom of the moon, making an angle marked angular size. distance is](img/angular-size.jpg)
+![An observer looks to the moon. Lines extend to the top and bottom of the moon, making an angle marked angular size. The distance from the observer to the moon is labeled.](img/angular-size.jpg)
 
 The Sun is about 400 times larger than the Moon, but since it is about 400 times further away, both have the same [angular size](celestial_sphere.md#angular-size).
+
 This coincidence allows solar eclipses!
-![An earth observer has two lines extend, pass the edges of the moon, and reach the edges of the sun. ](img/hipp_diag_1.png)
+
+![From one location on the Earth, two lines extend. They touch the opposite edges of the moon, and then the opposite edges of the sun. ](img/hipp_diag_1.png)
 *[Source: Michael Richmond](http://spiff.rit.edu/richmond/asras/measure_ss/measure_ss.html)*
 
 ## Why don’t we see eclipses every month?
@@ -155,7 +160,50 @@ NASA’s Earth Polychromatic Imaging Camera (EPIC) imager on the Deep Space Clim
 
 See [future eclipses in Fullerton](https://www.timeanddate.com/eclipse/in/usa/fullerton).
 
-Solar eclipses are rare: here are upcomming eclipses around the world.
+Solar eclipses are rare. Here are upcoming eclipses around the world.
 
 ![Paths of future eclipses across a map of the Earth.](img/SEatlas2021.gif)
 *[Source: Fred Espenak, NASA](https://eclipse.gsfc.nasa.gov/SEatlas/SEatlas.html)*
+
+## Check your Understanding
+
+<quiz>
+
+What is the phase of the Moon immediately before a Solar eclipse?
+- [x] New
+- [ ] First Quarter
+- [ ] Waxing Gibbous
+- [ ] Waning Crescent  
+- [ ] Full
+
+</quiz>
+
+<quiz>
+
+What type of eclipse would be seen by observers on the night side of Earth in the diagram below?
+
+![The Sun is on the right, illuminating the Earth in the middle. To the left of the Earth is the Moon. It is halfway into the darker part of the Earth's shadow.](../img/eclipse-quiz.png)
+
+- [ ]  Total Solar Eclipse 
+- [ ]  Partial Solar Eclipse 
+- [ ]  Annular Eclipse
+- [ ]  Total Lunar Eclipse 
+- [x]  Partial Lunar Eclipse 
+- [ ]  Penumbral Eclipse
+- [ ] No Eclipse
+
+</quiz>
+
+<quiz>
+
+What kind of eclipse do you see if you stand in the Moon's Umbra?
+
+- [x]  Total Solar Eclipse 
+- [ ]  Partial Solar Eclipse 
+- [ ]  Annular Eclipse
+- [ ]  Total Lunar Eclipse 
+- [ ]  Partial Lunar Eclipse 
+- [ ]  Penumbral Eclipse
+- [ ] No Eclipse
+
+</quiz>

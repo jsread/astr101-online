@@ -7,7 +7,7 @@ nav:
         - Welcome to the Universe: modules/welcome_universe.md
       - Our View of the Universe: 
         - Our Cosmic Address: modules/cosmic_address.md
-        - The Celestial Sphere: modules/celestial_sphere.md
+        - Observing the Sky: modules/celestial_sphere.md
       - The Rhythm of the Sky:
         - Daily Motion of the Sky: modules/daily_motion_sky.md
         - Seasonal Stars: modules/seasonal_stars.md
@@ -18,7 +18,7 @@ nav:
         - Eclipses: modules/eclipses.md
       - Wandering Stars:
         - Retrograde Motion: modules/retrograde_motion.md
-        - Ancient Astronomy: modules/ancient_astronomy.md
+        - Ancient Greek Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
       - Planetary Orbits: 
         - The Copernican Revolution: modules/copernican_revolution.md
@@ -48,6 +48,7 @@ nav:
       - Our View of the Universe: activities/our_view_universe.md 
       - The Rhythm of the Sky: activities/rhythm_sky.md
       - Seasons and the Moon: activities/seasons_moon.md
+      - Wandering Stars: activities/wandering_stars.md
 theme: 
   name: material
   palette: 

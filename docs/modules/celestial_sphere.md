@@ -7,6 +7,37 @@ The Celestial Sphere describes a model of our view of the Universe. You'll learn
 What you should know: How to measure angles in degrees. [Angles Review from Math is Fun](https://www.mathsisfun.com/geometry/degrees.html).
 
 
+## The Dome of the Sky
+
+
+![Part of a panorama of the playa of Death Valley at night. The Milky way is visible as an arc across the sky.](img/Deathvalleysky_nps_crop.jpg)  
+*[Source](https://en.wikipedia.org/wiki/File:Deathvalleysky_nps_big.jpg)*
+
+When we look at the night sky the stars seem to be sprinkled on a dome over our heads.
+
+This is an optical illusion because we lack depth perception for such distant objects.
+
+
+## Distances
+How can you figure out how far away things are if you can’t reach them?
+
+1. Binocular vision (compare view from each eye; how 3D glasses work.)
+2. Known size scaling (cows are mostly the same real size.)
+![Cows grazing in a field. Close cows look bigger](img/Cows_in_a_Yorkshire_field_IMG_0349.jpg)
+*[Source: RF Vila](https://commons.wikimedia.org/wiki/File:Cows_in_a_Yorkshire_field_IMG_0349.jpg)*
+3. Atmospheric perspective (the effect of the air.)
+![A view over rolling hills that look bluer and bluer as they get far away](img/SerraEstrela-MAR2007-5.jpg)
+*[Source: Joaquim Alves Gaspar](https://commons.wikimedia.org/wiki/File:SerraEstrela-MAR2007-5.jpg)*
+
+* Modern astronomers use versions of each of these methods to work out the distances to astronomical objects 
+* None of them work for unassisted human vision
+* Stars are not small, but are very far away
+* They have different sizes and distances, BUT appear as points in the sky 
+
+<summary> except for the star closest to us... 
+<details> the Sun! </details>
+</summary>
+
 ## Patterns in the Sky
 
 For human observers, the stars appear in **fixed patterns in the sky**.
@@ -38,42 +69,14 @@ but tell their own stories:
 
 ### Constellations
 
-In modern Astronomy, constellations are how we identify and name **regions of the sky** - NOT the patterns of the stars themselves. 
+In modern Astronomy, constellations are how we identify and name **regions of the sky**. 
+
+They are named after star patterns seen within them, but they are NOT the patterns of the stars themselves. 
 
 The constellation Orion is everything in the highlighted region in this sky map:  
 ![A sky map highlighting the constellation Orion, with labels on its bright stars and on neighboring constellations.](img/constellation-orion.png)  
 *[Source: IAU, Sky and Telescope](https://commons.wikimedia.org/wiki/File:Orion_IAU.svg)*
 
-It's named after the star pattern Orion from Ancient Greece. 
-
-
-
-## Distances
-How can you figure out how far away things are if you can’t reach them?
-
-1. Binocular vision (compare view from each eye; how 3D glasses work.)
-2. Known size scaling (cows are really the same size.)
-![Cows grazing in a field. Close cows look bigger](img/Cows_in_a_Yorkshire_field_IMG_0349.jpg)
-*[Source: RF Vila](https://commons.wikimedia.org/wiki/File:Cows_in_a_Yorkshire_field_IMG_0349.jpg)*
-3. Atmospheric perspective (the effect of the air.)
-![A view over rolling hills that look bluer and bluer as they get far away](img/SerraEstrela-MAR2007-5.jpg)
-*[Source: Joaquim Alves Gaspar](https://commons.wikimedia.org/wiki/File:SerraEstrela-MAR2007-5.jpg)*
-
-* Modern astronomers use versions of each of these methods to work out the distances to astronomical objects 
-* None of them work for unassisted human vision
-* Stars are not small, but are very far away
-* They have different sizes and distances, BUT appear as points in the sky 
-    * except for the star closest to us... the Sun!
-
-![Part of a panorama of the playa of Death Valley at night. The Milky way is visible as an arc across the sky.](img/Deathvalleysky_nps_crop.jpg)  
-*[Source](https://en.wikipedia.org/wiki/File:Deathvalleysky_nps_big.jpg)*
-
-When we look at the night sky they seem to be sprinkled on a dome over our heads.
-
-This is an optical illusion because we lack depth perception for such distant objects.
-
-
-## The Dome of the Sky
 
 
 Stars in constellations **appear** to be side-by-side, but they can be at very **different distances** from the Earth.  
@@ -87,13 +90,15 @@ The purplish glowing Nebula M42 in the "sword" is 1,344 light years away.
 ![The Orion nebula is a hazy purple glow with bright stars at the core](img/orion-nebula-visible-light.jpg)  
 Source:  [Filip Loic](https://www.asc-csa.gc.ca/eng/multimedia/search/image/3834)
 
- So Betelgeuse is closer to us than it is the nebula.  
+
+
+
 
 ## Directions in the Sky
 
 The **Horizon** is the edge of the visible sky. 
 
-If you look to any side, you see the **Horizon**. This is where the sky appears to meet the most distant part of the ground you can see.
+If you look very far away, you see the **Horizon**. This is where the sky appears to meet the most distant part of the ground you can see.
 
 ### Horizon examples:
 
@@ -159,7 +164,9 @@ This is where we get a.m. (ante meridian, before meridian) and p.m. (post meridi
 
 
 ## Example Star Paths in the Local Sky
-Below is a diagram of a the local sky facing East, with two example star paths. One path circles Polaris in the sky, and the other arcs from East to West. 
+Below is a diagram of a the local sky facing East, with two example star paths. 
+
+One path circles Polaris in the sky, and the other arcs from East to West. 
 
 ![A dome of the sky over the ground. East is to the back, West to front, North to left, South to right on the horizon. Polaris is on the upper left edge, above Noth. The Celestial Equator and Star Path A arc from East, up the back of the dome to high in the South, down the front of the dome to West. Star Path B makes a loop on the dome, from low above North, up the back of the dome to the Zenith, down the front of the dome to its original point.](img/local-sky-example.jpg)
 
