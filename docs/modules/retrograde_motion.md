@@ -1,8 +1,8 @@
 # Planets and Retrograde Motion
 
 * Planet orbits
-* Motion of planets in the sky
-* Prograde and Retrograde
+* Observing planets in the sky
+* Prograde and Retrograde motion
 * How orbits produce retrograde motion
 * Altitude and Azimuth
 
@@ -13,8 +13,8 @@ Mercury, Venus, Mars, Jupiter, and Saturn can be seen by eye.
 
 Like Earth, the planets orbit the sun counter-clockwise, in nearly circular orbits
 
-![orbits of the inner planets](img/BOSF_01_05.jpg)
-![orbits of the outer planets](img/01-mean-distance-outer-planets-715s.jpg)  
+![orbits of the inner planets (Mercury, Venus, Earth, Mars)](img/BOSF_01_05.jpg)
+![orbits of the outer planets (Jupiter, Saturn, Uranus, Neptune)](img/01-mean-distance-outer-planets-715s.jpg)  
 *[Source: NASA](https://science.nasa.gov/learn/basics-of-space-flight/chapter1-2/)*
 
 It takes Mercury 88 Earth days to complete one orbit, 
@@ -22,7 +22,7 @@ but Saturn takes 29 Earth years.
 
 The major planets all orbit close to the Ecliptic plane.
 
-![Tilts of the different planet orbits compared to the ecliptic. Uranus at 0.8 degrees up to Mercury at 7 degrees](img/Ecliptic+and+orbital+variances+850.jpg)
+![Tilts of the different planet orbits compared to the ecliptic. They range from Uranus at 0.8 degrees up to Mercury at 7 degrees.](img/Ecliptic+and+orbital+variances+850.jpg)
 *[Source: Bryan Simpson](https://www.cinastro.org/planetary-aligments)*
 
 ## Observing Planets over one day
@@ -36,13 +36,16 @@ The major planets all orbit close to the Ecliptic plane.
 
 * Over one night planets rise in the East and set in the West, along with the Sun, Moon, and stars.
 
+* From the Northern Hemisphere, we look South to observe the Sun, Zodiac stars, and planets when they are high in the sky.
+
+
 <details>
   <summary>
 Because of ...</summary>
   Earth's rotation </details>
 
 
-![Parade of Planets: Planets in the night sky, all close to the ecliptic, form a line with the Sun and Moon.](img/Parade+of+Planets+6-24-22+w+ecliptic+5F5A0131+1700.jpg)
+![Parade of Planets: Planets in the early night sky, all close to the ecliptic, form a line with the Moon and the glow from where the Sun set.](img/Parade+of+Planets+6-24-22+w+ecliptic+5F5A0131+1700.jpg)
 *[Source: Bryan Simpson](https://www.cinastro.org/planetary-aligments)*
 
 
@@ -51,16 +54,16 @@ Because of ...</summary>
 
 * Like the Sun and Moon, planets appear to slowly drift through the constellations of the Zodiac (taking weeks to years)
 
-* Suppose you observe Mars each evening for a few months
+* Suppose you (from Earth) observe Mars each evening for a few days
 
-* Because Mars orbits the Sun, its position relative to the background stars will change
+* Because [Mars orbits the Sun](#orbiting-planets), its position relative to the background stars will change
 
 ### Composite images
-* From the Northern Hemisphere, we look South to observe the Sun, Zodiac stars, and planets when they are high in the sky.
 
-* This composite photo shows Mars and Uranus imaged against the same background stars over many nights.
+* This composite photo shows Mars and Uranus imaged against the same background stars over 16 consecutive nights.
 
-![Looking Sourth. East is left, West is right.](img/observing-mars-uranus.jpg)
+![Looking Sourth. East is left, West is right. This composite image shows Mars and Uranus imaged against the same background stars over 16 consecutive clear nights beginning on July 12. The 16 Mars images sweep in a line across the width of the photo. The 16 Uranus images are close together in a parallel line near one of the Mars images.
+](img/observing-mars-uranus.jpg)
 *Image source: [Tunc Tezel via APOD](https://apod.nasa.gov/apod/ap240802.html)*
 
 * Counter-clockwise orbits (seen from North) *usually* carry planets West to East compared to background stars.
@@ -70,12 +73,14 @@ Because of ...</summary>
 
 ### Observations of Mars in retrograde
 
-* This composite photo is made up of photos of  Mars, against the same background stars, taken over many nights.
+* This composite photo is made up of photos of  Mars, against the same background stars, taken over several months.
+
+* We look high in the southern sky to see Mars. So East is to the left, and West is to the right. The earliest day's images are on the right. 
+
 
 ![Mars against background stars, making a looping pattern as described below.](img/retrograde-prograde-annotated.jpg)
 *Base image source: [Tunc Tezel via APOD](https://apod.nasa.gov/apod/ap250530.html)*
 
-* We look high in the southern sky to see Mars. So East is to the left, and West is to the right. The earliest images are on the right. 
 
 * Mars starts by moving West to East. We call this prograde motion.
 
@@ -96,12 +101,12 @@ Because of ...</summary>
 
 <quiz>
 
-Clue: where is Mars biggest and brightest in the composite image? What does that that observation imply?
+Clue: where was Mars biggest and brightest in the composite image? What does that that observation suggest?
 
-- [ ] It's brightest when its in prograde. That's when it's closest to us!
-- [x] It's brightest when its in retrograde. That's when it's closest to us!
-- [ ] It's brightest when its in prograde. That's when it's farthest away!
-- [ ] It's brightest when its in retrograde. That's when it's farthest away!
+- [ ] It's biggest and brightest when its in prograde. That's when it's closest to us!
+- [x] It's biggest and brightest when its in retrograde. That's when it's closest to us!
+- [ ] It's biggest and brightest when its in prograde. That's when it's farthest away!
+- [ ] It's biggest and brightest when its in retrograde. That's when it's farthest away!
 
 </quiz>
 
@@ -122,7 +127,7 @@ We also get retrograde motion viewing an inner planet.
 
 This type of motion through the stars likely inspired the Ancient Greek name for planets - wandering stars.
 
-## Prep for lecture tutorial: Mapping the Sky
+## Mapping the Sky
 
 
 
@@ -159,7 +164,7 @@ You can see what planets are viewable, and where they are in the sky with Altitu
 You see the planet Jupiter on the eastern horizon right after sunset. Six hours later Jupiter will be...
 
 - [ ]  High in the northern sky
-- [ ]  High in the southern sky
+- [x]  High in the southern sky
 - [ ]  Directly overhead
 - [ ]  Low in the west
 - [ ]  Not visible

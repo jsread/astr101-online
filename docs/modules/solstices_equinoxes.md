@@ -152,7 +152,7 @@ What do we call the day(s) of the year when the Sun rises directly in the East a
 
 - [ ] Solstices
 - [ ] Circumpolar
-- [ ] Equinoxes
+- [x] Equinoxes
 - [ ] Celestial
 
 </quiz>

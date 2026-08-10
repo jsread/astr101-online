@@ -33,7 +33,7 @@ To determine the true size we need to know the distance to the objects (which we
 
 ![An observer looks to the moon. Lines extend to the top and bottom of the moon, making an angle marked angular size. The distance from the observer to the moon is labeled.](img/angular-size.jpg)
 
-The Sun is about 400 times larger than the Moon, but since it is about 400 times further away, both have the same [angular size](celestial_sphere.md#angular-size).
+The Sun is about 400 times larger than the Moon, but since it is about 400 times further away, both have the same angular size.
 
 This coincidence allows solar eclipses!
 

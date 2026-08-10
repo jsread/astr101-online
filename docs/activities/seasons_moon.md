@@ -154,7 +154,7 @@ Which phase of the Moon rises in the east as the Sun rises in the east?
 - [ ]  gibbous
 - [ ]  full
 - [ ]  third quarter
-- [ ]  new
+- [x]  new
 
 </quiz>
 <quiz>
@@ -171,7 +171,7 @@ Which of the following groups of Moon phases can all be seen above the horizon a
 
 ## Discussion: Moon Phase Demonstration 
 
-Remember the demonstration of moon phases in the [Moon Phases Lecture](../modules/moon_phased.md)?
+Remember the demonstration of moon phases in the [Moon Phases Lecture](../modules/moon_phases.md)?
 
 Can you 
 * reproduce a moon phase demo with materials you already have, 

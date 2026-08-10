@@ -10,10 +10,14 @@ nav:
         - Observing the Sky: modules/celestial_sphere.md
       - The Rhythm of the Sky:
         - Daily Motion of the Sky: modules/daily_motion_sky.md
+        - Northern and Southern Skies: modules/northern_southern_skies.md
         - Seasonal Stars: modules/seasonal_stars.md
+      - Seasons:
         - Solstices and Equinoxes: modules/solstices_equinoxes.md
-      - Seasons and the Moon: 
+#        - The Path of the Sun: modules/path_of_sun.md
         - Seasons on Earth: modules/seasons_on_earth.md
+      - The Moon:
+#        - The Moon: modules/the_moon.md
         - Moon Phases: modules/moon_phases.md
         - Eclipses: modules/eclipses.md
       - Wandering Stars:
@@ -23,27 +27,38 @@ nav:
       - Planetary Orbits: 
         - The Copernican Revolution: modules/copernican_revolution.md
         - Kepler's Laws: modules/keplers_laws.md
-        - Planets Near and Far: modules/planets_near_far.md
+        - Kepler's Third Law: modules/keplers_third_law.md
       - Motion in Space: 
         - Newton's Laws: modules/newtons_laws.md
-        - Gravity: modules/gravity.md
-        - Energy and Angular Momentum: modules/energy_angular_momentum.md
+        - Newton's Gravity: modules/gravity.md
+        - Mass and Weight: modules/mass_weight.md
+      - Gravity in Action:
+        - Planets Near and Far: modules/planets_near_far.md
+        - Gravity in Action: modules/gravity_action.md 
+        - Energy and Momentum: modules/energy_angular_momentum.md
       - Light and Telescopes: 
         - The Spectrum of Light: modules/spectrum_of_light.md
         - Telescopes: modules/telescopes.md
         - Earth's Atmosphere: modules/earths_atmosphere.md
-      - Learning from Light:
+      - Spectra of Light:
         - Types of Spectra: modules/spectra_types.md
-        - Surveying the Stars: modules/surveying_stars.md
+        - Thermal Spectra: modules/thermal_spectra.md
+        - Luminosity: modules/luminosity.md
+      - Learning from Light:
+        - Fingerprints of the Elements: modules/fingerprints_elements.md
         - Doppler Effect: modules/doppler_effect.md
-      - Making Earth from Scratch: 
-        - The Expanding Universe: modules/expanding_universe.md
-        - Origin of the Elements: modules/origin_of_elements.md
+      - Making Earth from Scratch:
+        - The Early Universe: modules/early_universe.md 
+        - Formation of the Elements: modules/formation_of_elements.md
         - Formation of the Solar System: modules/formation_of_solar_system.md
-      - The Life and Death of Stars: 
-        - The Life Cycle of Stars: modules/life_cycle_of_stars.md
+      - The Life of Stars: 
+        - The Source of Starlight: modules/source_of_starlight.md
+        - Surveying the Stars: modules/surveying_stars.md
+        - The Life of Stars: modules/life_cycle_of_stars.md
+      - The Death of Stars:
         - The Death of Stars: modules/death_of_stars.md
         - Neutron Stars and Black Holes: modules/neutron_stars_black_holes.md
+        - Gravitational Waves: modules/gravitational_waves.md
   - Activities:
       - Our View of the Universe: activities/our_view_universe.md 
       - The Rhythm of the Sky: activities/rhythm_sky.md
