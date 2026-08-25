@@ -24,17 +24,17 @@ nav:
         - Retrograde Motion: modules/retrograde_motion.md
         - Ancient Greek Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
-      - Planetary Orbits: 
+      - Orbits: 
         - The Copernican Revolution: modules/copernican_revolution.md
         - Kepler's Laws: modules/keplers_laws.md
         - Kepler's Third Law: modules/keplers_third_law.md
-      - Motion in Space: 
+      - Motion and Gravity: 
         - Newton's Laws: modules/newtons_laws.md
         - Newton's Gravity: modules/gravity.md
         - Mass and Weight: modules/mass_weight.md
       - Gravity in Action:
-        - Planets Near and Far: modules/planets_near_far.md
-        - Gravity in Action: modules/gravity_action.md 
+        - Alien Worlds: modules/planets_near_far.md
+        - Black Holes: modules/gravity_action.md 
         - Energy and Momentum: modules/energy_angular_momentum.md
       - Light and Telescopes: 
         - The Spectrum of Light: modules/spectrum_of_light.md
@@ -62,7 +62,8 @@ nav:
   - Activities:
       - Our View of the Universe: activities/our_view_universe.md 
       - The Rhythm of the Sky: activities/rhythm_sky.md
-      - Seasons and the Moon: activities/seasons_moon.md
+      - Seasons: activities/seasons.md
+      - The Moon: activities/moon.md
       - Wandering Stars: activities/wandering_stars.md
 theme: 
   name: material

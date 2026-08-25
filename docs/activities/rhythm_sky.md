@@ -1,5 +1,20 @@
 # Rhythm of the Sky Activities
 
+## Discussion: Fieldwork
+
+Chose an astronomical object you can find easily in the sky this week - the Sun, the Moon, a bright star, perhaps one of the [planets visible in your sky tonight](https://www.timeanddate.com/astronomy/night/), located using a [night sky guide](https://nightsky.jpl.nasa.gov/planner/). 
+
+Find a convenient observing location. Observe the object from the same location either
+ - twice in one day, ideally a few hours apart.
+ - on two days, ideally several days apart, at the same time each day. 
+ 
+ You may notice changes more easily if you find a reference point to compare to (e.g. a building, telephone pole, or tree you can see from your observing location.)
+
+1. Describe its location in the sky using our categories for Altitude and Azimuth in the [Celestial Sphere Module](../modules/celestial_sphere.md).
+2. Describe any change in location from one time to another.
+3. Based on your observation, does this object behave like it is fixed on the Celestial Sphere? Why or why not?
+
+
 ## Daily Motion of the Sky: Lecture Tutorial
 
 Work through the Motion Lecture Tutorial on pages 1-2 with your partner. Read carefully, and discuss any questions with your group. 
@@ -71,13 +86,34 @@ Six hours later on this day, when the sun sets, what constellation will be on th
 
 
 
+## Demo: Star Trails Explorer
+
+The [Star Trails Explorer](https://astro.unl.edu/smartphone/StarTrails/) lets you explore the connection between Latitude and the apparent motion of the stars. It has guided questions for each of the three settings: the Sky View, the Horizon Diagram, and Both Views.
+
 
 ## Seasonal Stars: Lecture Tutorial
 
 
-Work through the Seasonal Stars Lecture Tutorial on pages 7-9 with your partner. Read carefully, and discuss any questions with your group. 
+Work through the Seasonal Stars Lecture Tutorial on pages 7-9. Read carefully, and discuss any questions with your group. 
 
 ### Check your Lecture Tutorial understanding
+
+
+<quiz>
+This diagram illustrates a particular time in Earth's orbit:
+
+![Zodiac constellations around the Sun, and the Earth in its orbit. The Earth rotation axis to North Star points up and to the left, labeled 1 day and counter-clockwise as seen from North. The Earth is on the left side of its orbit, labeled 365 days and counter-clockwise as seen from North. In the Northern Hemisphere, an observer points away from the sun toward the constellation Aquarius, which is on the far left. Moving toward the front of the Zodiac circle from Aquarius, we see Pisces, Aries, Taurus. Moving toward the back of the Zodiac circle from Aquarius, we see Capricornus, Sagittarius, Scorpius. Opposite Aquarius is Leo, on the far right. Moving toward the front from Leo, we see Cancer and Gemini. Moving toward the back from Leo, we see Virgo and Libra.](../img/observer-looking-to-aquarius.png)
+
+Which constellation will be highest in the sky at NOON, two months after the time shown?
+
+- [ ] Sagittarius
+- [ ] Aries
+- [ ] Gemini
+- [ ] Leo
+- [x] Libra
+</quiz>
+
+Two things to consider: For the sky at noon, the observer looks past the direction of the Sun. Then, the orbit carries the Earth toward the front of the diagram, making the line of observation shift from a view of Leo back and to the right two steps.
 
 <quiz>
 You observe this sky at midnight:
@@ -90,7 +126,6 @@ One month earlier, which of these constellations was highest in the southern sky
 - [ ] Virgo
 - [x]  Cancer
 </quiz>
-
 <quiz>
 
 You go out tonight and see the brightest star in the constellation Orion just rising above your eastern horizon at 10 PM. One week later at 10 PM this same star will be
@@ -102,18 +137,13 @@ You go out tonight and see the brightest star in the constellation Orion just ri
 </quiz>
 
 
-## Discussion: Fieldwork
+<quiz>
 
-Chose an astronomical object you can find easily in the sky this week - the Sun, the Moon, a bright star, perhaps one of the [planets visible in your sky tonight](https://www.timeanddate.com/astronomy/night/), located using a [night sky guide](https://nightsky.jpl.nasa.gov/planner/). 
+You go out tonight and see the brightest star in the constellation Orion just rising above your eastern horizon at 10 PM. One week later at 10 PM this same star will be
 
-Find a convenient observing location. Observe the object from the same location either
- - twice in one day, ideally a few hours apart.
- - on two days, ideally several days apart, at the same time each day. 
- 
- You may notice changes more easily if you find a reference point to compare to (e.g. a building, telephone pole, or tree you can see from your observing location.)
+- [x] slightly higher in the sky. 
+- [ ] at the same height as before. 
+- [ ] below your horizon. 
+- [ ] setting on your western horizon.
+</quiz>
 
-1. Describe its location in the sky using our categories for Altitude and Azimuth in the [Celestial Sphere Module](../modules/celestial_sphere.md).
-2. Describe any change in location from one time to another.
-3. Based on your observation, does this object behave like it is fixed on the Celestial Sphere? Why or why not?
-
-Share your observation with your discussion pod.

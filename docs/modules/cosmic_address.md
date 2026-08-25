@@ -59,6 +59,24 @@ From Earth, we see the planets as points of light. In the photo to the left, we 
 
 Almost always, including in this class, we will show models and diagrams of the Solar System that are "not to scale." This is because the distances involved are so big.
 
+
+### The Scale of the Solar System
+
+This image shows both the sizes and distances of the Solar System to scale. It shows that if the Sun-Neptune distance of the Solar System were scaled down to the 100-yard playing field length of a football field (yellow lines mark the goal line to goal line span). 
+![A hand holding a small ball, ballpoint pens, and BB pellets, in front of a football field](img/Solar_System_to_Scale_to_a_Football_Field.jpg)
+*[Source: Tdadamemd](https://commons.wikimedia.org/wiki/File:Solar_System_to_Scale_to_a_Football_Field.jpg)*
+
+
+At this scale:
+
+- The Sun and eight planets would be small enough to hold in the palm of a person's hand. 
+- The Sun is about two-thirds the size of a golf ball.
+- All four terrestrial planets (Mercury, Venus, Earth, Mars) are smaller than the ball contained at the tip of a ball-point pen.
+- All four gas/ice giant planets (Jupiter, Saturn, Uranus, Neptune) are smaller than a peppercorn.
+- For distances, the Sun is at one goal line, with Neptune at the opposite goal line (100 yards away).
+- Earth is at the 3 yard line, and Jupiter at the 17 yard line.
+
+
 ### Light Years and Astronomical Units:
 
 Two astronomical units of distance we'll use:
@@ -76,22 +94,6 @@ Two astronomical units of distance we'll use:
 
 - The Earth is 8 light minutes from the Sun.
 - The Earth is 1.2 light seconds from the Moon.
-
-### The Scale of the Solar System
-
-This image shows both the sizes and distances of the Solar System to scale. It shows that if the Sun-Neptune distance of the Solar System were scaled down to the 100-yard playing field length of a football field (yellow lines mark the goal line to goal line span). 
-![A hand holding a small ball, ballpoint pens, and BB pellets, in front of a football field](img/Solar_System_to_Scale_to_a_Football_Field.jpg)
-*[Source: Tdadamemd](https://commons.wikimedia.org/wiki/File:Solar_System_to_Scale_to_a_Football_Field.jpg)*
-
-
-At this scale:
-
-- The Sun and eight planets would be small enough to hold in the palm of a person's hand. 
-- The Sun is about two-thirds the size of a golf ball.
-- All four terrestrial planets (Mercury, Venus, Earth, Mars) are smaller than the ball contained at the tip of a ball-point pen.
-- All four gas/ice giant planets (Jupiter, Saturn, Uranus, Neptune) are smaller than a peppercorn.
-- For distances, the Sun is at one goal line, with Neptune at the opposite goal line (100 yards away).
-- Earth is at the 3 yard line, and Jupiter at the 17 yard line.
 
 ### The Pale Blue Dot
 The famous "Pale Blue Dot" image is a photograph of Earth taken Feb. 14, 1990, by NASA’s Voyager 1 spacecraft. It was taken from beyond Neptune, 6 billion kilometers or 5 light hours away. Earth is the dot in the middle of the faint sunbeam just to the right of center.
@@ -310,7 +312,7 @@ The Moon is part of the Solar System, since it orbits Earth which orbits the Sun
 Astronomers can only observe events that happened in the past. This is because
 
 - [ ] It takes time to process telescope data.
-- [x] The speed of light is finite.
+- [x] Light travels at a fixed speed.
 - [ ] The Universe is 14 billion years old.
 - [ ] Our telescopes are not yet large enough.
 

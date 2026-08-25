@@ -18,7 +18,7 @@ When we look at the night sky the stars seem to be sprinkled on a dome over our 
 This is an optical illusion because we lack depth perception for such distant objects.
 
 
-## Distances
+### Distances
 How can you figure out how far away things are if you can’t reach them?
 
 1. Binocular vision (compare view from each eye; how 3D glasses work.)
@@ -29,14 +29,18 @@ How can you figure out how far away things are if you can’t reach them?
 ![A view over rolling hills that look bluer and bluer as they get far away](img/SerraEstrela-MAR2007-5.jpg)
 *[Source: Joaquim Alves Gaspar](https://commons.wikimedia.org/wiki/File:SerraEstrela-MAR2007-5.jpg)*
 
+## Why a dome?
+
 * Modern astronomers use versions of each of these methods to work out the distances to astronomical objects 
 * None of them work for unassisted human vision
 * Stars are not small, but are very far away
-* They have different sizes and distances, BUT appear as points in the sky 
+* They have different sizes and distances, BUT appear as points on the dome of the sky 
 
 <summary> except for the star closest to us... 
 <details> the Sun! </details>
 </summary>
+
+
 
 ## Patterns in the Sky
 
@@ -62,10 +66,10 @@ This same pattern appears in texts written by human observers over a thousand ye
 ![A drawing of a bear with stars marked as red and black dots and labeled in Arabic.](img/Al_Sufi_-_Book_of_Fixed_Stars_-_Ursa_Major_(The_Great_Bear)_-_Bodleian_Library_-_Marsh_144_crop.jpg)
 *[Source](https://commons.wikimedia.org/wiki/File:Al_Sufi_-_Book_of_Fixed_Stars_-_Ursa_Major_(The_Great_Bear)_-_Bodleian_Library_-_Marsh_144.jpg)*
 
-All around the world, observers notice the same patterns,
+All around the world, observers notice the same star patterns,
 but tell their own stories:  
 ![The same stars as the Greek Orion, Aztec New Fire, Navajo First Slim One, and Hawaiian Cat's Cradle](img/orion-stories.jpg)  
-*Sources: [Stellarium](https://stellarium.org/), [NASA/STScI](https://science.nasa.gov/universe/discovering-the-universe-through-the-constellation-orion/)*
+*Sources: [Stellarium Sky Cultures](https://stellarium.org/skycultures.html)*
 
 ### Constellations
 

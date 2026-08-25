@@ -56,6 +56,7 @@ Yearly changes in the night sky:
 
 ![Constellations on the Ecliptic. The Sun is drawn at the center. Surrounding the Sun is a blue circular arrow indicating the path of the Earth around the Sun. The Earth is shown in two positions along this arrow, representing where is it located in June and August. Surrounding the circle of the Earth the constellations of the ecliptic are drawn. Counter-clockwise from top center are: Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Ophiuchus, Sagittarius, Capricorn, Aquarius, Pisces, Aries, Taurus. The Earth's vantage point is illustrated with an arrow drawn from the Earth through the center of the Sun to the constellation behind the Sun as seen from Earth. In June the arrow points to Taurus, in August to Cancer.](img/OSC_Astro_02_01_Ecliptic.jpg)
 
+Demonstration of the Sun's position in the Zodiac stars: [Ecliptic (Zodiac) Simulator from Astronomy Education at the University of Nebraska](https://astro.unl.edu/classaction/animations/coordsmotion/zodiac.html)
 
 ### Astrology aside
 
