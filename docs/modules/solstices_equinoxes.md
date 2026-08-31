@@ -4,7 +4,7 @@ How the Ecliptic works. How the Sun's position changes over the year compared to
 
 ## The Ecliptic
 
-Remember [Earth's Orbit](seasonal_stars.md#earths-orbit). Why is the plane that Earth orbits in called the ecliptic plane?
+Remember [Earth's Orbit](seasonal_stars.md#earths-orbit). The plane that Earth orbits in called the ecliptic plane.
 
 ### The Sun in the Celestial Sphere
 

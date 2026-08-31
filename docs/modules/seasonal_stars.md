@@ -44,7 +44,9 @@ Yearly changes in the night sky:
 
 ## The Sun in the Zodiac Constellations
 
-- Remember: the stars are fixed on the celestial sphere
+- Remember from the Sun's daily path, we [see the Sun in a constellation](daily_motion_sky.md#the-sun-and-stars).
+
+- The stars are fixed on the celestial sphere
 
 - Due to the Earth’s orbit, the Sun is not exactly fixed on the celestial sphere
 

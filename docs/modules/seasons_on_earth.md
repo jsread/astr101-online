@@ -100,15 +100,27 @@ In the animation above, which latitude has more hours of daylight?
 
 - [ ] (A) 
 - [x] (B) 
+- [ ] Both are the same
 
 More than half of B's day is spent in the lighted part of Earth. A is in shadow more than half of the time, so it has longer nights.
+</quiz>
+
+<quiz>
+In the animation above, which latitude has more hours of daylight?
+
+- [ ] (B) 
+- [x] (C) 
+- [ ] Both are the same
+
+Almost all of C's day is spent in the lighted part of Earth. 
 </quiz>
 
 <quiz>
 In the animation above, which latitude has more direct sunlight?
 
 - [ ] (A) 
-- [x] (B) 
+- [x] (B)
+- [ ] Both are the same 
 
 Sun rays hitting Earth's surface at B are less tilted compared to the Earth's surface at A. The sun appears higher overhead at B.
 
@@ -116,9 +128,20 @@ Sun rays hitting Earth's surface at B are less tilted compared to the Earth's su
 
 
 <quiz>
+In the animation above, which latitude has more direct sunlight?
+
+- [x] (B) 
+- [ ] (C)
+- [ ] Both are the same 
+
+Sun rays hitting Earth's surface at C are more tilted compared to the Earth's surface at B. The sun appears higher overhead at B.
+
+</quiz>
+
+<quiz>
  Which is more important for seasonal temperature: direct sunlight or hours of daylight?
 
- Hint: Compare location B to location C in the animation above.
+ Hint: Compare location B to location C in the animation above. 
 
 
 - [x] Direct sunlight
