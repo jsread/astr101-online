@@ -36,13 +36,14 @@ The major planets all orbit close to the Ecliptic plane.
 
 * Over one night planets rise in the East and set in the West, along with the Sun, Moon, and stars.
 
-* From the Northern Hemisphere, we look South to observe the Sun, Zodiac stars, and planets when they are high in the sky.
-
-
 <details>
   <summary>
 Because of ...</summary>
   Earth's rotation </details>
+
+
+* From the Northern Hemisphere, we look South to observe the Sun, Zodiac stars, and planets when they are high in the sky.
+
 
 
 ![Parade of Planets: Planets in the early night sky, all close to the ecliptic, form a line with the Moon and the glow from where the Sun set.](img/Parade+of+Planets+6-24-22+w+ecliptic+5F5A0131+1700.jpg)
@@ -66,7 +67,7 @@ Because of ...</summary>
 ](img/observing-mars-uranus.jpg)
 *Image source: [Tunc Tezel via APOD](https://apod.nasa.gov/apod/ap240802.html)*
 
-* Counter-clockwise orbits (seen from North) *usually* carry planets West to East compared to background stars.
+* Counter-clockwise orbits (seen from above the North Pole) *usually* carry planets West to East compared to background stars.
 
 * Inner planets move faster than outer planets.
 

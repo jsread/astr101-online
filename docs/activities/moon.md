@@ -1,7 +1,7 @@
 # Moon Activities
 
 
-## Moon Phases Lecture Tutorials
+## Causes of Moon Phases Lecture Tutorials
 
 Causes of Moon Phases, pages 91-94
 
@@ -82,6 +82,12 @@ Which position corresponds to a waning gibbous moon?
 
 
 </quiz>
+
+## Predicting Moon Phases
+Predicting Moon Phases pages 95-98
+
+### Check your understanding
+
 <quiz>
 Which phase of the Moon rises in the east as the Sun rises in the east?
 

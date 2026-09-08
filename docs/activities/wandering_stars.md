@@ -55,3 +55,40 @@ On December 14, Mars’ apparent motion compared to background stars was…
 </quiz>
 
 ## Parsec Lecture Tutorial
+
+### Check your understanding:
+
+<quiz>
+You observe two stars over the course of a year (or more) and find that both stars have measurable parallax. 
+
+Star X appears to move 1 arcsecond. 
+Star Y has appears to move 1⁄2 an arcsecond. 
+
+Which star is closer?
+- [x] Star X
+- [ ] Star Y
+
+</quiz>
+
+<quiz.
+
+Star A is 3 parsecs away and 
+Star B is 5 parsecs away. 
+Which star has a greater parallax angle?
+
+- [x] Star A
+- [ ] Star B
+</quiz>
+
+This image shows Earth and Mars in orbit.
+![The sun is at the center. Earth is on an inner circle. Mars is on an outer circle.](img/earth-mars-orbit.png)
+
+<quiz>
+A civilization on Mars measures the parallax motion of the stars.
+How do the Martians’ measurements compare to ours from Earth?
+
+- [ ]  The Martians measure a smaller parallax angle for each star, compared to us.
+- [x]  The Martians measure a larger parallax angle for each star, compared to us.
+- [ ]The Martians measure the same parallax angle for each star as we do.
+
+</quiz>

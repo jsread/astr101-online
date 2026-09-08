@@ -127,7 +127,7 @@ The Moon’s orbit is not a perfect circle
 
 When it is farther away, it can’t block the full Sun
 
-Only the Penumbra hits the Earth
+The Umbra doesn’t reach Earth
 
 ![Annular solar eclipse: a ring of sun around the moon.](https://upload.wikimedia.org/wikipedia/commons/7/70/Annular_Solar_Eclipse_2019-12-26_Annularity_Viewed_From_Tanjungpinang.jpg)
 *[Source: 
