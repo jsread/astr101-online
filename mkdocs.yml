@@ -25,8 +25,8 @@ nav:
         - Ancient Greek Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
       - Orbits: 
-        - The Copernican Revolution: modules/copernican_revolution.md
-        - Kepler's Laws: modules/keplers_laws.md
+        - Heliocentric Revolutions: modules/copernican_revolution.md
+        - Kepler's Second Law: modules/keplers_second_law.md
         - Kepler's Third Law: modules/keplers_third_law.md
       - Motion and Gravity: 
         - Newton's Laws: modules/newtons_laws.md

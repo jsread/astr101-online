@@ -5,8 +5,6 @@
 
 Causes of Moon Phases, pages 91-94
 
-Predicting Moon Phases pages 95-98
-
 ### Check your understanding
 
 <quiz>
