@@ -70,7 +70,7 @@ Which star is closer?
 
 </quiz>
 
-<quiz.
+<quiz>
 
 Star A is 3 parsecs away and 
 Star B is 5 parsecs away. 

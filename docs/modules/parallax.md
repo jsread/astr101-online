@@ -1,3 +1,10 @@
+# Parallax 
+
+- Perspective and distance
+- Stellar Parallax
+- Arcminutes and Arcseconds
+- The Parsec
+- Observing Parallax
 
 ## Perspective and distance
 This video shows a view from a moving train.   
@@ -109,12 +116,14 @@ It also observed Proxima Centauri, from much farther than 1 A.U.
 [Friedrich Bessel](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Bessel) published the first reliable parallax measurement in 1838 
 
 He found 61 Cygni was about 3 parsecs (10.5 ly) away
+![The star 61 Cygni is marked near the stars of the constellation Cygnus](img/61-Cygni.png)
+*[Source: Stellarium, via EarthSky.org](https://earthsky.org/brightest-stars/61-cygni-suns-near-neighbor/)*
 
 ### Today
 
 The 2013-2025 Gaia satellite mission measured parallax for 2 billion Milky Way stars, out to distances of thousands of parsecs.
 
-![Earth is at the center of a highlighted regions of stars, with additional points sprinkled into the Galaxy. The galactic center is marked](img/gaia-galaxy-map.png)
+![Earth is at the center of a highlighted regions of stars, with additional points sprinkled farther across the Galaxy. The galactic center is marked](img/gaia-galaxy-map.png)
 *Source: [Kevin Jardine](https://gruze.org/posters_dr3/zenodo.html) using [Gaia DR3](https://www.cosmos.esa.int/web/gaia/dr3-where-are-the-stars)
 
 ## What's next?
@@ -122,3 +131,6 @@ The 2013-2025 Gaia satellite mission measured parallax for 2 billion Milky Way s
 Parallax was not observed until 1837, but the heliocentric model became widely accepted in the 1600s.
 
 What changed?
+
+[Galileo's Telescope](./copernican_revolution.md)
+![Galileo's telescope](img/galileo-telescope.jpg)

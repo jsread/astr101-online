@@ -177,7 +177,7 @@ You see the planet Jupiter on the eastern horizon right after sunset. Six hours 
 
 Which shaded region best indicates the part of the sky where you might see planets?
 
-![A - a circle high overhead. B - The South half of the local sky. C - A strip from West to East, going through the Zenith. D - A strip from West to East, tilted to the South.](img/sky-regions.jpg)
+![A - a circle high overhead. B - The South half of the local sky. C - A strip from West to East, going through the Zenith. D - A strip from West to East, tilted to the South.](../img/sky-regions.jpg)
 
 - [ ]  A.
 - [ ]  B.

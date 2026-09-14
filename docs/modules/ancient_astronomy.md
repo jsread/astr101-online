@@ -1,12 +1,11 @@
 # Ancient Greek Astronomy
 
 In this module, we'll discuss: 
- * Early astronomical science in Ancient Greece
- * How Eratosthenes measured the size of the Earth
- * Geocentric models of Earth, Sun, and Planets
- * Epicycles for retrograde motion
- * Parallax
- * The Parsec
+* Early astronomical science in Ancient Greece
+* How Eratosthenes measured the size of the Earth
+* Geocentric models of Earth, Sun, and Planets
+* Epicycles for retrograde motion
+* Arguments against heliocentrism
 
 ## Early Astronomy
 
@@ -124,12 +123,11 @@ This is not what actually happens!
 - This produces retrograde motion
 - Ptolemy also added offsets to better match observed planetary motion
 
-## 
 
-Aristarchus of Samos (310-230 BCE)
+### Aristarchus of Samos (310-230 BCE)
 - Aristarchus suggested a Sun-centered or heliocentric model of the universe
 - Aristarchus’ model kept the idea of “perfection of the heavens” (spherical planets moving in perfect circles)
-- It predicted retrograde motion, like our modern model does, without any extra circles!
+- It predicted retrograde motion, like our modern model does, without any extra circles
 
 ## Early Heliocentric Models  
 
@@ -142,15 +140,19 @@ Aristarchus of Samos (310-230 BCE)
 - Celestial objects are still all perfectly spherical and moving in perfect circles
 
 
-## Arguments against heliocentricsm
+## Arguments against heliocentrism
 
 Why was an Earth-centered model assumed to be true for centuries?
+
+Scientific arguments:
 
 - If the Earth is spinning, shouldn’t things in the air get left behind?
     - Air moves too, objects in motion tend to stay in motion (Newton).
     - We only notice the effect of the spin on large scales (Coriolis effect).
 - If the Earth is moving, shouldn’t it change our view of the stars?
     - Stars are extremely far away.
+
+This second effect is [Parallax](./parallax.md).
 
 
 
