@@ -60,20 +60,14 @@ Nicholas Copernicus
 (1473-1543) Renaissance astronomer  
 Formulated a comprehensive heliocentric model in the 1540s.
 
-[PLACEHOLDER: Add Nicholas Copernicus portrait; source attribution needed.]
+![Sun at the Center. Then Mercury, Venus, Earth with the Moon orbiting, Mars, Jupiter, Saturn, and the fixed stars.](img/Helicoentric_Model.png)
 
-Copernican Model
+- The Sun is at the center.  Venus and Mercury are close to the Sun.
+- Daily motion is from Earth’s spin
+- The moon circles the Earth
+- Earth passing other planets leads to retrograde motion
+- Celestial objects are still all perfectly spherical and moving in perfect circles
 
-* Fixed stars
-* Saturn
-* Jupiter
-* Mars
-* Earth and Moon
-* Venus
-* Mercury
-* Sun
-
-[PLACEHOLDER: Add Copernican Model diagram; source attribution needed.]
 
 ### Features of the Copernican model
 

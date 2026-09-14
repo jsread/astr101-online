@@ -129,15 +129,7 @@ This is not what actually happens!
 - Aristarchus’ model kept the idea of “perfection of the heavens” (spherical planets moving in perfect circles)
 - It predicted retrograde motion, like our modern model does, without any extra circles
 
-## Early Heliocentric Models  
 
-![](img/Helicoentric_Model.png)
-
-- The Sun is at the center.  Venus and Mercury are close to the Sun.
-- Daily motion is from Earth’s spin
-- The moon circles the Earth
-- Earth passing other planets leads to retrograde motion
-- Celestial objects are still all perfectly spherical and moving in perfect circles
 
 
 ## Arguments against heliocentrism
@@ -157,7 +149,7 @@ This second effect is [Parallax](./parallax.md).
 
 
 
-# Check your understanding
+## Check your understanding
 
 <quiz>
 For his estimate of the size of the Earth, Eratosthenes used these assumptions (check ALL that were used):
