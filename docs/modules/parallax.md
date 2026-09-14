@@ -9,18 +9,20 @@
 ## Perspective and distance
 This video shows a view from a moving train.   
 Notice:
+
 * Apparent motion changes with distance
 * Distant objects move less than nearby ones
 
-<iframe
+<div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9; margin: 1rem 0;">
+  <iframe
     src="https://commons.wikimedia.org/wiki/File:Bewegungsparallaxe_Motion_parallax_from_Heidelberg.webm?embedplayer=yes"
     title="Motion parallax from Heidelberg"
     style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
-    frameborder="0"
     loading="lazy"
     allow="autoplay; picture-in-picture"
     allowfullscreen>
   </iframe>
+</div>
 
 *Source: [Georg Buzin, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bewegungsparallaxe_Motion_parallax_from_Heidelberg.webm)*
 
