@@ -123,10 +123,11 @@ He found 61 Cygni was about 3 parsecs (10.5 ly) away
 
 ### Today
 
-The 2013-2025 Gaia satellite mission measured parallax for 2 billion Milky Way stars, out to distances of thousands of parsecs.
+- The 2013-2025 Gaia satellite mission could make measurements of parallax as small as 0.00002 arcseconds
+- It measured parallax for 2 billion Milky Way stars, out to distances of thousands of parsecs
 
 ![Earth is at the center of a highlighted regions of stars, with additional points sprinkled farther across the Galaxy. The galactic center is marked](img/gaia-galaxy-map.png)
-*Source: [Kevin Jardine](https://gruze.org/posters_dr3/zenodo.html) using [Gaia DR3](https://www.cosmos.esa.int/web/gaia/dr3-where-are-the-stars)
+*Source: [Kevin Jardine](https://gruze.org/posters_dr3/zenodo.html) using [Gaia DR3](https://www.cosmos.esa.int/web/gaia/dr3-where-are-the-stars)*
 
 ## What's next?
 
@@ -136,3 +137,17 @@ What changed?
 
 [Galileo's Telescope](./copernican_revolution.md)
 ![Galileo's telescope](img/galileo-telescope.jpg)
+
+## Check your understanding
+
+<quiz>
+You observe two stars over the course of a year (or more) and find that both stars have measurable parallax. 
+
+Star X appears to move 1 arcsecond. 
+Star Y has appears to move 1⁄2 an arcsecond. 
+
+Which star is closer?
+- [x] Star X
+- [ ] Star Y
+
+</quiz>

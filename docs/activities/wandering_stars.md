@@ -58,17 +58,7 @@ On December 14, Mars’ apparent motion compared to background stars was…
 
 ### Check your understanding:
 
-<quiz>
-You observe two stars over the course of a year (or more) and find that both stars have measurable parallax. 
 
-Star X appears to move 1 arcsecond. 
-Star Y has appears to move 1⁄2 an arcsecond. 
-
-Which star is closer?
-- [x] Star X
-- [ ] Star Y
-
-</quiz>
 
 <quiz>
 

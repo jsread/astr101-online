@@ -27,13 +27,13 @@ nav:
       - Orbits: 
         - Heliocentric Revolutions: modules/copernican_revolution.md
         - Kepler's Laws: modules/keplers_laws.md
-        - Alien Worlds: modules/planets_near_far.md
-      - Motion and Gravity: 
         - Kepler's Third Law: modules/keplers_third_law.md
+      - Motion and Gravity: 
         - Newton's Laws: modules/newtons_laws.md
         - Newton's Gravity: modules/gravity.md
-      - Gravity in Action:
         - Mass and Weight: modules/mass_weight.md
+      - Gravity in Action:
+        - Alien Worlds: modules/planets_near_far.md
         - Black Holes: modules/gravity_action.md 
         - Energy and Momentum: modules/energy_angular_momentum.md
       - Light and Telescopes: 
@@ -65,6 +65,7 @@ nav:
       - Seasons: activities/seasons.md
       - The Moon: activities/moon.md
       - Wandering Stars: activities/wandering_stars.md
+      - Orbits: activities/orbits.md
 theme: 
   name: material
   palette: 
