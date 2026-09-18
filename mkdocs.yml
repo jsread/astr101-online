@@ -21,7 +21,7 @@ nav:
         - Moon Phases: modules/moon_phases.md
         - Eclipses: modules/eclipses.md
       - Wandering Stars:
-        - Retrograde Motion: modules/retrograde_motion.md
+        - Planets and Retrograde Motion: modules/retrograde_motion.md
         - Ancient Greek Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
       - Orbits: 
