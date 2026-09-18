@@ -167,3 +167,4 @@ For his estimate of the size of the Earth, Eratosthenes used these assumptions (
 
 [The Coriolis Effect: Earth's Rotation and Its Effect on Weather](https://education.nationalgeographic.org/resource/coriolis-effect/)
 
+[Erastothenes Demo by Carl Sagan (YouTube)](https://www.youtube.com/watch?v=G8cbIWMv0rI)
