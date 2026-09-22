@@ -25,15 +25,15 @@ nav:
         - Ancient Greek Astronomy: modules/ancient_astronomy.md
         - Parallax: modules/parallax.md
       - Orbits: 
-        - Heliocentric Revolutions: modules/copernican_revolution.md
+        - Copernican Revolution: modules/copernican_revolution.md
+        - Kepler's Orbits: modules/keplers_orbits.md
         - Kepler's Laws: modules/keplers_laws.md
-        - Kepler's Third Law: modules/keplers_third_law.md
       - Motion and Gravity: 
+        - Alien Worlds: modules/planets_near_far.md
         - Newton's Laws: modules/newtons_laws.md
         - Newton's Gravity: modules/gravity.md
-        - Mass and Weight: modules/mass_weight.md
       - Gravity in Action:
-        - Alien Worlds: modules/planets_near_far.md
+        - Mass and Weight: modules/mass_weight.md
         - Black Holes: modules/gravity_action.md 
         - Energy and Momentum: modules/energy_angular_momentum.md
       - Light and Telescopes: 
