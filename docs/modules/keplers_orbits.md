@@ -17,10 +17,10 @@ Tycho Brahe 1546-1601, Denmark. Helped refute celestial sphere model by finding 
 ![Tycho's proposed planetary system](img/tycho-hypothesis-system.png)
 
 
-* 50 years after Copernicus, we have:
-    * Galileo’s telescope observations of planets and moons
-    * Tycho’s observations by eye of planets accurate to 1 arc minute
-* BOTH the Ptolmeic and the Copernican models FAIL to match Tycho’s observational data perfectly
+- 50 years after Copernicus, we have:
+    - Galileo’s telescope observations of planets and moons
+    - Tycho’s observations by eye of planets accurate to 1 arc minute
+- BOTH the Ptolmeic and the Copernican models FAIL to match Tycho’s observational data perfectly
 
 
 ## Kepler's Proposal
@@ -84,7 +84,7 @@ While asteroids are mostly in the asteroid belt, they can have orbits that come 
 *Source: [Halley Multicolor Camera Team, Giotto Project, ESA
 via NASA page on Halley's Comet](https://science.nasa.gov/solar-system/comets/1p-halley/)*
 
-Comets in very elliptic orbits spend most of their time far away from the sun and return to Earth rarely.
+Comets in very elliptic orbits spend most of their time far away from the sun and return to Earth rarely. (Because of [Kepler's Second Law](keplers_laws.md#keplers-second-law-and-speed))
 ![A map of Halley's Comet's orbit compared to Neptune, Uranus, Saturn, Jupiter, and the inner planets. It passes Earth in 1986, and then is beyond neptun in 1995, and far away from Earth in 2024. It returns in 2061.](img/comet-halley.png)
 
 ### Comet ATLAS

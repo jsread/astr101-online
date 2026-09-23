@@ -7,6 +7,8 @@
 
 ## Orbits in our Solar System
 Kepler developed his laws to explain visible planets. The same laws apply to planets, asteroids, comets, and dwarf planets.
+
+Dwarf planets, shown below along the major planets, have more varied orbits.
 ![Diagram of the Orbits of the Planets and the five known Dwarf-Planets. The orbits of each object is shown as a blue ellipse. All eight major planets and the asteroids orbit the Sun in roughly the same plane, but the orbits of the outer dwarf planets do not. The objects plotted in the diagram moving outward from the Sun are Mercury, Venus, Earth, Mars, Ceres, Jupiter, Saturn, Uranus, Neptune, Pluto, Haumea, Makemake, and Eris.](img/solar-system-more-planets.png)
 *Source: [Chabot College ASTR](https://phys.libretexts.org/Courses/Chabot_College/Astronomy_10%3A_The_Solar_System_%28Totah-McCarty%29/05%3A_Planetary_Systems/5.01%3A_Overview_of_Our_Planetary_System)*
 
@@ -125,12 +127,12 @@ But if we try some math...
 $P^2 = a^3$
 
 This means:
-* Distant planets take more time to orbit
-* More distant planets orbit at slower average speeds
+- Distant planets take more time to orbit
+- More distant planets orbit at slower average speeds
 
 Notes:
-* Kepler’s third law does not depend on the mass of the planet
-* Kepler’s laws apply to any orbiting bodies!
+- Kepler’s third law does not depend on the mass of the planet
+- Kepler’s laws apply to any orbiting bodies!
 
 ## Kepler in our Solar system
 

@@ -62,9 +62,10 @@ via PBS Learning Media](https://www.pbslearningmedia.org/resource/buack2-sci-sun
 *[Source: Wah!](https://apod.nasa.gov/apod/ap060110.html)*
 
 Implications:
-  * These observations shattered the idea of heavenly perfection
-  * Moons can orbit a moving planet!
-  * Venus orbits the Sun (How does this show that?)
+
+* These observations shattered the idea of heavenly perfection
+* Moons can orbit a moving planet!
+* Venus orbits the Sun (How does this show that?)
 
 ## The Phases of Venus
 
