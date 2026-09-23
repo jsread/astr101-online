@@ -18,7 +18,7 @@ nav:
         - Seasons on Earth: modules/seasons_on_earth.md
       - The Moon:
 #        - The Moon: modules/the_moon.md
-        - Moon Phases: modules/moon_phases.md
+        - Moon Phases: modules/moon_phases.md # could be split
         - Eclipses: modules/eclipses.md
       - Wandering Stars:
         - Planets and Retrograde Motion: modules/retrograde_motion.md
@@ -29,8 +29,8 @@ nav:
         - Kepler's Orbits: modules/keplers_orbits.md
         - Kepler's Laws: modules/keplers_laws.md
       - Motion and Gravity: 
-        - Alien Worlds: modules/planets_near_far.md
-        - Newton's Laws: modules/newtons_laws.md
+        - Alien Worlds: modules/alien_worlds.md
+        - Motion in Space: modules/motion_in_space.md
         - Newton's Gravity: modules/gravity.md
       - Gravity in Action:
         - Mass and Weight: modules/mass_weight.md
