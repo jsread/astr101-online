@@ -87,7 +87,7 @@ Animation of the first 726 exoplanet systems found by Kepler
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Td_YeAdygJE&mute=1"
-  title="YouTube video player"
+  title="Kepler Orrery of 726 exoplanet systems compared to our own"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
@@ -145,3 +145,41 @@ This image shows how far radio broadcasts from earth have travelled
 ![Extent of human radio broadcasts. It's a small blue bubble in a zoomed in part of the galaxy.](img/20130115_radio_broadcasts.jpg)
 *Source [Adam Grossman / Nick Risinger](https://www.planetary.org/space-images/extent-of-human-radio-broadcasts)*
 
+## Check your understanding
+
+<quiz>
+Which of the following possibilities is most likely to result in a Kepler detection in the mission lifetime of about ten years?? 
+
+Assume the orbits are viewed edge-on
+
+- [] an Earth-like planet in a 1 AU radius orbit
+- []  An Earth-like planet in a 10 AU radius orbit
+- [x] A Jupiter-like planet in a 1 AU radius orbit
+- [] A Jupiter-like planet in a 10 AU radius orbit
+- []  All are equally likely
+
+It will be easier to notice a bigger dip in the light curve that occurs more frequently.
+
+</quiz>
+
+<quiz>
+To find exoplanets, space telescopes must monitor a large number of stars for many years because:
+
+- [] A. only a small percentage of stars have planets
+- [] B. only a small percentage of planetary systems will aligned so that the telescope  can observe transits
+- [] C. Any planets will only be transiting the star from a small percentage of the time
+- [] both A. and B.
+- [x] both B. and C.
+
+
+</quiz>
+
+<quiz>
+How do scientists define the habitable zone around a star?
+
+- []  the region around a star where humans can survive
+- [x] the region around a star where liquid water could exist on planetary surfaces
+- [] the region around a star where rocky planets can form
+- [] the region around a star where ultraviolet radiation is too weak to destroy organisms
+
+</quiz>
