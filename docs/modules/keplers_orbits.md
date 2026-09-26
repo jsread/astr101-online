@@ -40,7 +40,7 @@ He used them to predict the apparent motion of Mars.
 The orbit of each planet is an ellipse with the Sun at one focus
 
 - Major axis: longest distance across
-- Minor axis: longest distance across
+- Minor axis: shortest distance across
 - Perhelion: closest to Sun
 - Aphelion: farthest from Sun
 
