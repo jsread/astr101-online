@@ -6,14 +6,10 @@
 - Habitable worlds
 - Are we Alone?
 
-## Alien Planets
-
-Exoplanets are planets around other stars.
 
 ## Transits
 
-This vido shows our sun
-
+This vido shows our Sun. The little black circle moving across it is the planet Mercury in a *transit*.
 <figure>
   <video controls width="100%">
     <source src="https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030780/mercury_transit_720p.mp4">
@@ -29,12 +25,14 @@ Venus also transits the sun when it passes exactly between the Sun and Earth. It
 ![Composite image of venus transiting the sun](img/venus-transit-composite-.jpg)
 ![](img/1-sot_120606_venus_ca_nc_yellow_001_color_full.jpg)
 ![](img/venustransit_cortner_big.jpg)
-*Sources: E. SLAWIK/SPL, [NASA Hinode](https://www.nasa.gov/image-article/hinode-views-2012-venus-transit-2/), [David Cortner via APOD](https://science.nasa.gov/image-article/apod-2004-june-23-a-picturesque-venus-transit/) *
+*Sources: E. SLAWIK/SPL, [NASA Hinode](https://www.nasa.gov/image-article/hinode-views-2012-venus-transit-2/), [David Cortner via APOD](https://science.nasa.gov/image-article/apod-2004-june-23-a-picturesque-venus-transit/)*
 
 ## Exoplanet transits
 Transits of exoplanets across other stars
 cause changes in stellar brightness
-observed by a telescope
+observed by a telescope.
+
+We can't image the shadow across the star directly. We can only observe the change in brightness.
 
 <figure>
   <video controls width="100%">
@@ -54,7 +52,12 @@ Kepler from 2009-2018, TESS starting 2018
 ![Roman space telescope](img/roman.jpeg)
 
 
-![The directions each space telescope looks in the milky way and how far they can see exoplanets](img/Exoplanet_Transit_FOV_Graphic_Half.png)
+![The directions each space telescope looks in the milky way and how far they can see exoplanets.](img/Exoplanet_Transit_FOV_Graphic_Half.png)
+
+Roman will look for planets in a 1.6 degree cone out to 25,000 light years.
+Kepler will look for planets in a 12-degree cone out to 2,000 light years.
+TESS looks for planets in all directions out to 150 light years.
+
 
 Kepler’s field of view would be covered by your hand if you held it up at arm’s length towards the sky
 
@@ -142,7 +145,7 @@ This illustration depicts Kepler-186f, the first validated Earth-size planet to 
 Challenge for finding alien civilizations: space is really big.
 This image shows how far radio broadcasts from earth have travelled
 
-![Extent of human radio broadcasts. It's a small blue bubble in a zoomed in part of the galaxy.](img/20130115_radio_broadcasts.jpg)
+![Extent of human radio broadcasts. It's a small blue bubble around the location of Earth in a zoomed in part of the galaxy.](img/20130115_radio_broadcasts.jpg)
 *Source [Adam Grossman / Nick Risinger](https://www.planetary.org/space-images/extent-of-human-radio-broadcasts)*
 
 ## Check your understanding
