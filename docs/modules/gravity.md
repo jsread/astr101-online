@@ -97,11 +97,13 @@ $G \frac{M }{r^2}   =  a$
 
 The motion of a planet ($a$) at a particular distance ($r$) from the Sun ($M$) is the same for any mass of planet.
 
-### Kepler's Law for exoplanets
+### Kepler's Law for exoplanets around different stars
 
 Newton’s Laws give us a universal version of Kepler’s Third Law for ANY two orbiting bodies.
 
-Kepler's Third Law: $P^2=a^3$
+Kepler's Third Law: Period of the orbit (time taken) $P$ in years is related to the semimajor axis (size of the orbit) $a$ in A.U.
+
+$$P^2=a^3$$
 
 Newton's version:
 
@@ -109,13 +111,13 @@ $$ P^2 = \frac{4\pi^2}{G(M + m)}a^3$$
 
 It includes Newton's constant and the two masses $M$ and $m$.
 
-Stars are much more massive than planets, so the planet mass doesn’t make much difference. 
+Stars are much more massive than planets, so the planet mass doesn’t make much difference. Drop one mass $m$. 
 
 $$ P^2 = \frac{4\pi^2}{GM}a^3$$
 
-We can estimate the mass of the star from the light it emits (we’ll talk about how later in this class.) 
+We can estimate the mass of the star $M$ from the light it emits (we’ll talk about how later in this class.) 
 
-For exoplanets: Once we know mass $M$ and period $P$,  we can calculate orbit size (semi-major axis) $a$
+For exoplanets: Once we know mass $M$ and period $P$,  we can calculate orbit size (semi-major axis) $a$.
 
 ### Pluto and Charon
 
