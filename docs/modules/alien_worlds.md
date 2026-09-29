@@ -127,7 +127,8 @@ Artistic representation of the closest currently known potentially habitable exo
 *Source:[The Habitable World Catalog](https://phl.upr.edu/hwc)*
 
 Extrapolating from the number of planets we have been able to find…
-About half of Sun-like stars have a rocky planet in the Habitable Zone
+
+About half of Sun-like stars have a rocky planet in the Habitable Zone! 
 
 This illustration depicts Kepler-186f, the first validated Earth-size planet to orbit a distant star in the habitable zone.
 ![An imagined planet orbiting a distant star.](img/kepler-1-1.jpg)
@@ -143,7 +144,8 @@ This illustration depicts Kepler-186f, the first validated Earth-size planet to 
 - We don’t yet know a scientific answer.
 
 Challenge for finding alien civilizations: space is really big.
-This image shows how far radio broadcasts from earth have travelled
+
+This image shows how far human radio broadcasts from earth have travelled (not very far on a galactic scale).
 
 ![Extent of human radio broadcasts. It's a small blue bubble around the location of Earth in a zoomed in part of the galaxy.](img/20130115_radio_broadcasts.jpg)
 *Source [Adam Grossman / Nick Risinger](https://www.planetary.org/space-images/extent-of-human-radio-broadcasts)*
