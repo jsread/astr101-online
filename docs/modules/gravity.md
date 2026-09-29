@@ -81,11 +81,15 @@ Why do all objects orbiting at the same distance from the sun follow the same pa
 
 How can we use Kepler’s laws for exoplanets around different stars?
 
-### Cancelling the mass
+### Cancelling the mass for Kepler's Laws
 
-Newton’s Laws for Force and acceleration (motion from forces):
+[Kepler's Third Law](keplers_laws.md#keplers-third-law) told us about the orbit period and speed of different planets at different distances. It didn't depend on mass.
 
-$F  =  G \frac{M m}{r^2}   $          and             $F  =  m a$
+Newton's Laws explain why.
+
+Newton’s Laws for Gravitational Force and acceleration (motion from forces):
+
+$F  =  G \frac{M m}{r^2} \quad   $          and             $\quad F  =  m a$
 
 Match the $F$:
 
@@ -95,21 +99,25 @@ Cancel the $m$:
 
 $G \frac{M }{r^2}   =  a$
 
-The motion of a planet ($a$) at a particular distance ($r$) from the Sun ($M$) is the same for any mass of planet.
+The motion of a planet (acceleration $a$) at a particular distance ($r$) from the Sun ($M$) is the same for any mass of planet.
 
-### Kepler's Law for exoplanets around different stars
+So their orbits will be the same.
 
-Newton’s Laws give us a universal version of Kepler’s Third Law for ANY two orbiting bodies.
+### Kepler's Third Law for exoplanets around different stars
+
+Kepler's Third Law worked for planets, asteriods and comets that orbit our Sun.
 
 Kepler's Third Law: Period of the orbit (time taken) $P$ in years is related to the semimajor axis (size of the orbit) $a$ in A.U.
 
 $$P^2=a^3$$
 
+Newton’s Laws give us a universal version of Kepler’s Third Law for ANY two orbiting bodies.
+
 Newton's version:
 
 $$ P^2 = \frac{4\pi^2}{G(M + m)}a^3$$
 
-It includes Newton's constant and the two masses $M$ and $m$.
+It includes Newton's constant and both of the masses $M$ and $m$.
 
 Stars are much more massive than planets, so the planet mass doesn’t make much difference. Drop one mass $m$. 
 
@@ -117,16 +125,20 @@ $$ P^2 = \frac{4\pi^2}{GM}a^3$$
 
 We can estimate the mass of the star $M$ from the light it emits (we’ll talk about how later in this class.) 
 
-For exoplanets: Once we know mass $M$ and period $P$,  we can calculate orbit size (semi-major axis) $a$.
+So, for exoplanets: Once we know mass $M$ and period $P$,  we can calculate orbit size (semi-major axis) $a$.
 
 ### Pluto and Charon
 
-If the masses are similar, both objects move:
+If the masses are similar (we can't drop $m$), both objects move:
 
 This series of New Horizons images of Pluto and its largest moon, Charon, was taken at 13 different times spanning 6.5 days, starting on April 12 and ending on April 18, 2015.
 ![NASA barycenter animation](https://www.nasa.gov/wp-content/uploads/2023/03/1-opnav3_barycen_noano-1041.gif)
 
 *Source: [NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute](https://www.nasa.gov/image-article/new-horizons-sees-pluto-charon/)*
+
+
+They orbit each other.
+
 
 ## Check your understanding
 

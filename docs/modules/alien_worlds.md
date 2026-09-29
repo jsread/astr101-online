@@ -80,8 +80,8 @@ The size of the dip tells us the size of the planet.
   <figcaption>Transit light curve comparisons for a larger and smaller planet</figcaption>
 </figure>
 
-Artist impression of the first 2740 planets found by the Kepler spacecraft:
-![Images of many stars of different sizes with planets transiting them ](https://www.nasa.gov/wp-content/uploads/2023/03/kepler_cand_jr_21dec2012_printer.jpg) *Source: [NASA](https://www.nasa.gov/image-article/2740-kepler-planet-candidates-family-portrait-poster/)*
+Artist impression of the first 2740 planets found by the Kepler spacecraft, showing what the disk of the star might look like with the detected planets transiting.
+![Images of many stars of different sizes with planets of different sizes transiting them ](https://www.nasa.gov/wp-content/uploads/2023/03/kepler_cand_jr_21dec2012_printer.jpg) *Source: [NASA](https://www.nasa.gov/image-article/2740-kepler-planet-candidates-family-portrait-poster/)*
 
 The amount of time between transits tells us the period of the planet’s orbit.
 A version of Kepler’s Third Law then gives the distance from the star.
@@ -149,6 +149,24 @@ This image shows how far radio broadcasts from earth have travelled
 *Source [Adam Grossman / Nick Risinger](https://www.planetary.org/space-images/extent-of-human-radio-broadcasts)*
 
 ## Check your understanding
+
+<quiz>
+ For which system(s) would the telescope be able to measure transits?
+
+- [] ![A sun like star has a planet orbiting. The orbit is inclined so the orbit plane makes close to a 90 degree angle with the view from a telescope.](../img/star-planet-A.png)
+- [x] ![A sun like star has a planet orbiting. The orbit is inclined so the orbit plane is aligned with the view from a telescope](../img/star-planet-B.png)
+- [] ![A sun like star has a planet orbiting. The orbit is inclined so the orbit plane makes close to a 45 degree angle with the view from a telescope.](../img/star-planet-C.png)
+- [] ![A sun like star has a planet orbiting. The orbit is inclined so the orbit plane makes close to a 60 degree angle with the view from a telescope.](../img/star-planet-C.png)
+
+</quiz>
+
+Complete this ranking task: [Each of the icons corresponds to a moment in time from a single extrasolar planet transit. Rank the icons from earliest to latest.](https://astro.unl.edu/newRTs/Transits/q1.html)
+
+Complete this ranking task: [Rank the percentage of light blocked in each planet-star system from least light blocked to most light blocked.](https://astro.unl.edu/newRTs/Transits/q3.html)
+
+Complete this ranking task: [Complete this ranking task: Rank the frequency of the transits for the systems shown from least frequent to most frequent.](https://astro.unl.edu/newRTs/Transits/q7.html)
+
+Complete this ranking task. Assume all the stars are the same mass as the Sun so that you can use Kepler's Third Law to compare planets. [Rank the distance between the planet and the star it orbits from shortest to greatest distance using the Kepler light curves.](https://astro.unl.edu/newRTs/Transits/q8.html)
 
 <quiz>
 Which of the following possibilities is most likely to result in a Kepler detection in the mission lifetime of about ten years?? 
