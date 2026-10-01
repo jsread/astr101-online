@@ -162,13 +162,38 @@ This image shows how far human radio broadcasts from earth have travelled (not v
 
 </quiz>
 
+<quiz>
+
 Complete this ranking task: [Each of the icons corresponds to a moment in time from a single extrasolar planet transit. Rank the icons from earliest to latest.](https://astro.unl.edu/newRTs/Transits/q1.html)
+
+Did you succeed?
+- [x] yes
+
+</quiz>
+
+<quiz>
 
 Complete this ranking task: [Rank the percentage of light blocked in each planet-star system from least light blocked to most light blocked.](https://astro.unl.edu/newRTs/Transits/q3.html)
 
-Complete this ranking task: [Complete this ranking task: Rank the frequency of the transits for the systems shown from least frequent to most frequent.](https://astro.unl.edu/newRTs/Transits/q7.html)
+Did you succeed?
+- [x] yes
 
+</quiz>
+
+<quiz>
+
+Complete this ranking task: [Complete this ranking task: Rank the frequency of the transits for the systems shown from least frequent to most frequent.](https://astro.unl.edu/newRTs/Transits/q7.html)
+Did you succeed?
+- [x] yes
+
+</quiz>
+
+<quiz>
 Complete this ranking task. Assume all the stars are the same mass as the Sun so that you can use Kepler's Third Law to compare planets. [Rank the distance between the planet and the star it orbits from shortest to greatest distance using the Kepler light curves.](https://astro.unl.edu/newRTs/Transits/q8.html)
+Did you succeed?
+- [x] yes
+
+</quiz>
 
 <quiz>
 Which of the following possibilities is most likely to result in a Kepler detection in the mission lifetime of about ten years?? 
