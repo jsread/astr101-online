@@ -74,7 +74,7 @@ The size of the dip tells us the size of the planet.
 
 <figure>
   <video controls width="100%">
-    <source src="img/transit_method_double_planet-1.mp4">
+    <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013022/Exoplanet_Double_Transit-HD_1080p.webm">
     Your browser does not support the video tag.
   </video>
   <figcaption>Transit light curve comparisons for a larger and smaller planet</figcaption>

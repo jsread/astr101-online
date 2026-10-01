@@ -24,32 +24,32 @@ $$F = G \frac{m M}{r^2}$$
 - $m$ is the mass of the second object
 - $r$ is the distance between objects
 
+### Changing mass 
+
+![Two setups. M and r are the same. The top has m=3 and the bottom has m=1.](img/gravity-different-mass.png)
+
+Gravitational force changes like $m$
+
+The top force is 3 times bigger.
+
+### Changing distance
+
+![Two setups. M and m are the same. The top has r=3 and the bottom has r=1.](img/gravity-different-distance.png)
+
+Gravitational force changes like $\frac{1}{r^2}$
+
+The top force $\frac{1}{3^2} = \frac{1}{9}$ of the bottom force.
+
+Much smaller
+
+### Explaining orbits
+
 ![Elliptical orbital motion. The force toward the focus gets very large when it is near.](img/elliptic-orbital-motion.gif)
 
 Gravity and $F=ma$ explain this motion of a satellite around Earth
 
  $\frac{1}{r^2}$ means it’s a lot bigger when the satellite is close
 
-## PHYS 225 example
-Calculating the Force between Sun and Earth
-
-Sun $ M=2.0\times 10^{30} \text{ kg}$
-
-Earth $m=6.0\times 10^{24} \text{ kg}$
-
-Distance $r=1\text{ A.U.}=1.5\times10^{11} \text{ m}$
-
-Newton's constant $G=6.7\times 10^{-11} \frac{\text{m}^3}{\text{kg } \text{s}^2}$
-
-So
-
-$$F = G\frac{mM}{r^2}$$
-
-$$ =\left(6.7\times 10^{-11} \frac{\text{m}^3}{\text{kg } \text{s}^2} \right)\frac{\left(6.0\times 10^{24} \text{ kg}\right)\left(2.0\times 10^{30} \text{ kg}\right)}{\left(1.5\times10^{11} \text{ m}\right)^2} $$
-
-$$=3.6 \times 10^{22} \text{ Newtons}$$
-
-Compare to force between you and Earth, which is about 1,000 Newtons.
 
 ## Calculate for our class
 
@@ -61,12 +61,35 @@ To compare them:
 - divide by the square of the distance between them
 - and remember the two masses exert equal and opposite forces on each other (Newton’s third law!)
 
+### Sun and Earth
+
+$$F = ma$$
+
+The Earth exerts the same force on the Sun as the Sun exerts on Earth.
+
+The Sun has the mass of 333,000 Earths.
+
+Earth has a large acceleration from this force.
+
+The Sun’s acceleration from this force is tiny
+
 ## Comparing Forces
 
 - Each pair of masses exert equal and opposite forces on each other (Newton’s 3rd Law)
 
 - The force one object feels from different other objects will vary.  It will depend on each of their masses and distances.
 
+### Comparison example
+
+![an object has two companions. M_1=10 at r_1=10 and M_2=1 at r_2=1](img/gravity-compare.png)
+
+Which force is larger?
+
+$\frac{10}{10^2}$ compared to $\frac{1}{1^2}$
+
+The force from the second object is larger. 
+
+### Earth's forces
 Earth feels a gravitational force from the sun and a gravitational force from the moon.
 
 ![The sun and earth and moon. Between the sun and earth is a 10^22 N force. Between the Earth and the moon is a 10^20 N force](img/sun-earth-moon-forces.png)
@@ -89,7 +112,7 @@ Newton's Laws explain why.
 
 Newton’s Laws for Gravitational Force and acceleration (motion from forces):
 
-$F  =  G \frac{M m}{r^2} \quad   $          and             $\quad F  =  m a$
+$F  =  G \frac{M m}{r^2} \quad$          and             $\quad F  =  m a$
 
 Match the $F$:
 
@@ -216,3 +239,27 @@ Which asteroid experiences the smallest force from its “partner” asteroid?
 - [x] A and B, which are the same
 
 </quiz>
+
+## Go Farther
+
+
+### PHYS 225 example
+Calculating the Force between Sun and Earth
+
+Sun $M=2.0\times 10^{30} \text{ kg}$
+
+Earth $m=6.0\times 10^{24} \text{ kg}$
+
+Distance $r=1\text{ A.U.}=1.5\times10^{11} \text{ m}$
+
+Newton's constant $G=6.7\times 10^{-11} \frac{\text{m}^3}{\text{kg } \text{s}^2}$
+
+So
+
+$$F = G\frac{mM}{r^2}$$
+
+$$ =\left(6.7\times 10^{-11} \frac{\text{m}^3}{\text{kg } \text{s}^2} \right)\frac{\left(6.0\times 10^{24} \text{ kg}\right)\left(2.0\times 10^{30} \text{ kg}\right)}{\left(1.5\times10^{11} \text{ m}\right)^2} $$
+
+$$=3.6 \times 10^{22} \text{ Newtons}$$
+
+Compare to force between you and Earth, which is about 1,000 Newtons.

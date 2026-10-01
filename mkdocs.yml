@@ -37,8 +37,8 @@ nav:
         - Black Holes: modules/gravity_action.md 
         - Energy and Momentum: modules/energy_angular_momentum.md
       - Light and Telescopes: 
-        - The Spectrum of Light: modules/spectrum_of_light.md
-        - Telescopes: modules/telescopes.md
+        - Energy and Light: modules/energy_of_light.md
+        - Light and Telescopes: modules/telescopes.md
         - Earth's Atmosphere: modules/earths_atmosphere.md
       - Spectra of Light:
         - Types of Spectra: modules/spectra_types.md
