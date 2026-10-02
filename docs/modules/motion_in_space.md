@@ -275,6 +275,21 @@ A car traveling West slams on its brakes and comes to a stop. In which direction
 
 </quiz>
 
+
+
+<quiz>
+
+A planet is orbiting counter-clockwise. What direction is the acceleration at the point shown?
+
+![the planet is on the right side of the star on its circular orbit](../img/planet-side.png)
+
+
+- [] upward on the diagram
+- [] to the right on the diagram
+- [x] to the left on the diagram
+- [] downward on the diagram
+
+</quiz>
 <quiz>
 Your friend pushes on your hands while you’re both standing on very slippery ice.
 
