@@ -66,6 +66,12 @@ nav:
       - The Moon: activities/moon.md
       - Wandering Stars: activities/wandering_stars.md
       - Orbits: activities/orbits.md
+      - Motion and Gravity: activities/motion_gravity.md
+      - Gravity in Action: activities/gravity_action.md
+#      - Light and Telescopes: activities/light_telescopes.md
+#      - Spectra of Light: activities/spectra_light.md
+#      - Learning from Light: activities/learning_light.md
+#     - Making Earth from Scratch: activities/making_earth.md
 theme: 
   name: material
   palette: 
