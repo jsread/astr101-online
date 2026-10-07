@@ -12,16 +12,24 @@ From last module:
 
 At a given distance ($r$) from a massive object ($M$), every other mass ($m$) feels the same gravitational acceleration ($a$).
 
-$$ F = G \frac{Mm}{r^2}$$ and $$ F=ma$$
+$$ F = G \frac{Mm}{r^2}$$
+
+ and 
+ 
+$$ F=ma$$
+
 means
+
 $$ G \frac{Mm}{r^2} = ma$$
+
 so
+
 $$ G \frac{M}{r^2} = a$$
 
 
 Planets at the same distance accelerate along the same paths around the Sun (the Sun is $M$).
 
-This also menas: You, a rock, and a feather experience the same acceleration due to Earth gravity (the Earth is $M$).
+This also means: You, a rock, and a feather experience the same acceleration due to Earth gravity (the Earth is $M$).
 
 Galileo Galilei (1564-1642)  (again!)
 Performed experiments where he dropped balls with different masses (from the Leaning Tower of Pisa) to demonstrate that the time it took them to fall was independent of their mass.
@@ -138,7 +146,7 @@ Standing at the front of a classroom, your professor drops a feather and a rock 
 - [] the feather
 - [] they fall at the same rate
 
-This is what you'd expect to observe, and what you'd actually observe, because of air resistance.
+A different fall rate is what you'd expect to observe, and what you'd actually observe, because of air resistance.
 
 </quiz>
 

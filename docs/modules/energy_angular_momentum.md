@@ -3,6 +3,7 @@
 - Conserved quantities
 - Angular momentum
 - Energy
+- Collapsing clouds
 
 ## Conserved quantities
 
@@ -122,6 +123,22 @@ When a comet is far from the sun, it has more gravitational potential energy and
 
 The total energy stays the same 
 
+## Adding Heat and Light to Newton's Laws
+
+Stars are more than points of mass. To understand them we need to include heat and light as well as gravity.
+
+<div style="width: 100%; aspect-ratio: 16 / 9;">
+  <iframe
+    src="https://www.youtube.com/embed/LeX5e51UkzI"
+    title="STARFORGE simulation of star cluster formation"
+    style="width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 ## Heat, Energy, and Temperature
 
 - Heat is the total kinetic energy of many particles
@@ -194,19 +211,20 @@ Radiative energy: the energy carried by light
 <quiz> What will happen as a spinning figure skater
 pulls their arms and legs closer in to their body?
 
- - [] they spin more slowly
- - [x] they spin more quickly
- - [] nothing will happen
+- [ ] they spin more slowly
+- [x] they spin more quickly
+- [ ] nothing will happen
 
 </quiz>
 
 <quiz>
 An asteroid that is moving farther away from the sun is gaining:
 
- - [] mass energy.
- - [x]  gravitational potential energy.
- - [] radiative energy.
- - [] kinetic energy.
+- [] mass energy.
+- [x]  gravitational potential energy.
+- [] radiative energy.
+- [] kinetic energy.
+
 </quiz>
 
 Use this orbit diagram for the next questions.
@@ -217,51 +235,56 @@ The following orbit of a comet around the Sun is shown from directly over the or
 <quiz>
  At which position does the comet have the highest speed? 
 
- - [x] A
- - [] B
- - [] C
- - [] D
- - [] E (all the same)
+- [x] A
+- [] B
+- [] C
+- [] D
+- [] E (all the same)
+
 </quiz>
 
 <quiz>
 At which position does the comet have the highest angular momentum? 
 
- - [] A
- - [] B
- - [] C
- - [] D
- - [x] E (all the same)
+- [] A
+- [] B
+- [] C
+- [] D
+- [x] E (all the same)
+
  </quiz>
 
 <quiz>
 At which position does the comet have the highest kinetic energy? 
 
- - [x] A
- - [] B
- - [] C
- - [] D
- - [] E (all the same)
+- [x] A
+- [] B
+- [] C
+- [] D
+- [] E (all the same)
+
  </quiz>
 
  <quiz>
 At which position does the comet have the highest potential energy? 
 
- - [] A
- - [] B
- - [x] C
- - [] D
- - [] E (all the same)
+- [] A
+- [] B
+- [x] C
+- [] D
+- [] E (all the same)
+
  </quiz>
 
  <quiz>
 At which position does the comet have the highest total energy? 
 
- - [] A
- - [] B
- - [] C
- - [] D
- - [x] E (all the same)
+- [] A
+- [] B
+- [] C
+- [] D
+- [x] E (all the same)
+
  </quiz>
 
 

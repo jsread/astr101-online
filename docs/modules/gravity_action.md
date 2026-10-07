@@ -77,6 +77,10 @@ The result is a black hole.
 A black hole is an object with gravitational effects so strong that not even light can escape the horizon (“surface” of the black hole)
 
 
+Radius of a black hole with mass $M$: 
+
+$R_S= 2\frac{GM}{c^2} $ where $c$ is the speed of light and $G$ is Newton's constant.
+
 ## The earth as a black hole?
 If the mass of Earth was compressed to smaller than a ping-pong ball, it would become a black hole.
 
@@ -85,7 +89,6 @@ Earth radius: 6400 000 m
 Ping pong ball: 0.020 m
 
 
-Radius of a black hole with mass M: $ 2\frac{GM}{c^2} $ where $c$ is the speed of light and $G$ is Newton's constant.
 
 ## Orbits and black holes
 
@@ -122,17 +125,17 @@ If we see small objects orbiting something, AND we can measure BOTH period and s
     Your browser does not support the video tag.
   </video>
   <figcaption>
-    Orbiting stars at the center of the Galaxy
+    Orbiting stars at the center of the Galaxy, from 1995 to 2020
   </figcaption>
 </figure>
 
-$\star$: Supermassive black hole
+$\star$: Supermassive black hole at the focus of the orbit
 
 ## The mass of the supermassive black hole
 
 We can use the orbits of stars to measure the mass of the black hole.
 
-This projection shows the orbit of the star S2 around the black hole, as seen on the sky. (Tilted, the black hole is at one focus)
+This projection shows the orbit of the star S2 around the black hole, as seen on the sky. (Our view is tilted, the black hole is really at one focus)
 
 ![Orbit of stars around the black hole](img/S2orbit.jpg)
 *Source [ESO](https://www.eso.org/public/images/eso1825c/)*
@@ -150,3 +153,6 @@ We can then use the black hole radius relation to find the size of this black ho
 $$ R = 17 R_\text{sun} = 0.17 A.U.$$
 
 This black hole would fit inside the orbit of Mercury.
+
+## Check your understanding
+
