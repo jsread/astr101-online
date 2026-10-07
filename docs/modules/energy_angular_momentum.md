@@ -127,6 +127,8 @@ The total energy stays the same
 
 Stars are more than points of mass. To understand them we need to include heat and light as well as gravity.
 
+This simulation starts with gas and dust in a cloud in space to show how it collapses to form stars.
+
 <div style="width: 100%; aspect-ratio: 16 / 9;">
   <iframe
     src="https://www.youtube.com/embed/LeX5e51UkzI"
@@ -192,7 +194,7 @@ Visualisation Richard West, UKAFF.](https://www.ukaff.ac.uk/starcluster/)*
 
 This is how stars are born: ignited at the center of a collapsing cloud of gas and dust
 
-Baby stars in the Rosette cloud:
+Baby stars in the Rosette cloud (a real telescope image):
 ![The Rosette molecular cloud](img/The_Rosette_molecular_cloud_seen_by_Herschel_pillars.jpg)
 *Source: [ESA](https://www.esa.int/Science_Exploration/Space_Science/Herschel/Baby_stars_in_the_Rosette_cloud)*
 
