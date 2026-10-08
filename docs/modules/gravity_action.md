@@ -156,3 +156,36 @@ This black hole would fit inside the orbit of Mercury.
 
 ## Check your understanding
 
+Use this Hubble Space Telescope image of the Galaxy Cluster ACO S 295 to answer the next three questions.
+![Many galaxies. Galaxy A is a swoopy S shape. Galaxy B has a central bright core and swirling arms around it. Galaxy C has a central bright core and a diffuse uniform glow around it.](img/galaxy-cluster.png)
+
+<quiz>
+Galaxy A is a...
+- [] Spiral Galaxy
+- [] Elliptical Galaxy
+- [x] Irregular Galaxy
+</quiz>
+
+<quiz>
+Galaxy B is a...
+- [x] Spiral Galaxy
+- [] Elliptical Galaxy
+- [] Irregular Galaxy
+</quiz>
+
+<quiz>
+Galaxy C is a...
+- [] Spiral Galaxy
+- [x] Elliptical Galaxy
+- [] Irregular Galaxy
+</quiz>
+
+<quiz>
+If a planet is in a circular orbit 1 A.U. away from a black hole of 1 Solar mass, it will...
+
+- [] Quickly get sucked in by the black hole.
+- [x] Orbit once each Earth year, the same as Earth.
+- [] Orbit much faster than Earth, circling many times in each Earth year.
+- [] Orbit much slower than Earth, taking many Earth years to complete one cycle.
+</quiz>
+
