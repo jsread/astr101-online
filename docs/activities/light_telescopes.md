@@ -1,4 +1,4 @@
-# Light activities
+# Light and Telescopes activities
 
 
 ## The Electromagnetic Spectrum of Light
