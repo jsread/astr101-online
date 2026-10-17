@@ -42,8 +42,7 @@ By the time Newton wrote the Principia, astronomers had confirmed that light tra
 
 ## Rainbows
 
-An ice halo, or circumzenithal arc 
-https://apod.nasa.gov/apod/ap220311.html
+[An ice halo, or circumzenithal arc](https://apod.nasa.gov/apod/ap220311.html)
 
 
 ## Do prisms create rainbows, or reveal them?
@@ -160,7 +159,15 @@ Water and air do not display interference if you have a only a few molecules.
 
 Light is different.  Interference patterns are built up by individual tiny “particles” of light: photons
 
-![](img/Wave-particle_duality.gif)
+<figure>
+  <video controls width="100%">
+    <source src="img/Wave-particle_duality.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>
+    An interference pattern is built up from many little dots.
+  </figcaption>
+</figure>
 
 
 The wave nature and interference is built in to these component particles of light. This is called wave-particle duality.
