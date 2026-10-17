@@ -216,7 +216,7 @@ Different colors of light have different wavelengths. The wavelengths are measur
 Which wavelength of light has the highest energy?
 
 
-- [] 400 nanometers (violet)
+- [x] 400 nanometers (violet)
 - [] 500 nanometers (yellow)
 - [] 600 nanometers (red)
 - [] They all have the same energy
