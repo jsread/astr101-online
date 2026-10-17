@@ -52,7 +52,7 @@ Which of the following is a form of light?
 ## Telescopes and Earth's Atmosphere
 
 
-## Check your understanding
+### Check your understanding
 
 <quiz>
 Which of the following wavelengths can be observed easily by a telescope located on Earth’s surface?
