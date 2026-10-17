@@ -1,5 +1,11 @@
 # Light
 
+- Speed
+- Colors
+- Waves and Particles
+- Wavelength
+- Frequency
+- Energy
 
 ## Questions about Light
 
