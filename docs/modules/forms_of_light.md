@@ -7,6 +7,10 @@ Frederick and Caroline Herschel, musician-astronomers (1738-1822, 1750-1848)
 
 Frederick measures the heat and illumination of different colors of sunlight 
 
+![](img/herschel-experiment.jpg)
+
+![](img/hershel-figure.jpg)
+
 The emission of the Sun extends past visible light 
 
 
@@ -15,8 +19,121 @@ Those wavelengths also carry energy!
 
 Herschel discovered infrared
 
+Humans give off infrared light.
+
 This infrared camera images uses false colors to show the infrared light from CSUF Physics and Astronomy Professor Joshua Smith and his dog Steve.
 ![A false-color image showing a glowing man playing with a dog](img/steve-infrared.jpg)
 
+## Electromagnetic Spectrum
+
+![](img/ElectromagneticSpectrum.jpg)
+
+- Electromagnetic radiation around us:
+
+  - Radio waves from AM/FM radio and microwaves from WiFi
+
+  - Visible light from the overhead lights or Sun
+
+  - Ultraviolet from the Sun
+
+  - Infrared emitted by other humans and animals, the Sun
+
+- Most wavelengths have low energy and are harmless to humans
+
+- High energy light may require more care
+
+  - X-rays
+
+  - Gamma radiation
+
+## The sky in different forms of light
+
+"Pillars of Creation" is a photograph taken by the Hubble Space Telescope of interstellar gas and dust forming stars in the Eagle Nebula, about 7,000 light years from Earth.
+
+![](img/pillars_of_creation.webp)
+
+
+NASA’s James Webb Space Telescope’s near-infrared-light view of the same structure.
+
+![](img/STScI-01GGF8H15VZ09MET9HFBRQX4S3.jpg)
+ 
+
+Observing electromagnetic waves at different frequencies gives us different views of the Universe
+
+
+## Sky Views
+
+A map of the Earth (winter in the Northern Hemisphere)
+![](img/map-of-globe.jpg)
+
+Shows all directions, including the "back", "top", and "bottom."
+
+A map of the sky as seen from Earth
+
+![](img/map-of-sky.jpg)
+
+Our view of the Milky Way Galaxy
+![](img/annotated-milkyway-colvin.jpg)
+
+## The sky in different forms of light
+
+### Low energy to high energy:
+
+![](img/multiwavelength_sky.jpg)
+
+With increasing energy, we see 
+
+- Electrons moving in magnetic fields (radio)
+- Cool clouds of gas, cosmic microwave background (microwave)
+- Warmer clouds of dust and gas (infrared)
+- Stars and reflected starlight (visible)
+- Supernovae remnants, very hot stars (ultraviolet)
+- Supernova remnants, solar corona, gas in galaxy clusters (x-ray)
+- Accreting material and jets launched by black holes and neutron stars (gamma-ray)
+
+### Radio waves
+
+![](img/)
+
+### Microwave
+![](img/1009_F_PLANCK_FSM_03_Black_frame_orig-crop.jpg)
+*Source [ESA, HFI and LFI consortia](https://supernova.eso.org/germany/exhibition/images/1009_F_PLANCK_FSM_03_Black_frame_orig-crop/)*
+
+### Infrared
+
+IRIS survey 
+![](img/iris_3color_2048.jpg) 
+*Source [IRIS](https://lambda.gsfc.nasa.gov/product/foreground/fg_iris_info.html)*
+
+SPHEREx
+![](img/e1a-SPHEREx_all_sky_stars_and_gas-dust.jpg)
+*Source [NASA/JPL-Caltech](https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/)*
+
+### Optical
+
+![](img/mwpan_mellinger_big.jpg)
+*Source [Axel Mellinger](https://www.milkywaysky.com/)*
+
+
+### X-ray
+### Gamma-ray
+
+![](img/intens_ait_180m_gt1000_psf3_gal_0p1.png)
+*Source [NASA/DOE/Fermi LAT Collaboration](https://svs.gsfc.nasa.gov/14976)*
+
+### Learning from many wavelengths
+
+This is the Crab Nebula seen by different telescopes that record different forms of light.
+
+![](img/crab-different-views.jpg)
+
+
+This is the Milky Way's supermassive black hole, SGR-A, which is dark in visible and infrared light but has a halo (outside the horizon) that glows in radio and x-ray.
+
+![](img/sgra.webp)
 
 ## Check your Understanding
+
+## Go farther
+
+[Video Tour](https://www.youtube.com/watch?v=eE7-6fQ9_48) of [Chromascope](https://www.chromoscope.net/)
