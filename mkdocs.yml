@@ -39,7 +39,7 @@ nav:
       - Light and Telescopes: 
         - Light: modules/light.md
         - Forms of Light: modules/forms_of_light.md
-        - Telescopes and Earth's Atmosphere: modules/earths_atmosphere.md
+        - Telescopes: modules/earths_atmosphere.md
       - Spectra of Light:
         - Types of Spectra: modules/spectra_types.md
         - Thermal Spectra: modules/thermal_spectra.md
