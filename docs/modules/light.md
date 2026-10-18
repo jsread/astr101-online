@@ -9,10 +9,10 @@
 
 ## Questions about Light
 
-What is light?
-How fast does it travel?
-How much energy does it carry?
-What different kinds are there?
+- What is light?
+- How fast does it travel?
+- How much energy does it carry?
+- What different kinds are there?
 
 ## The speed of light
 
@@ -36,7 +36,7 @@ As the Earth and Jupiter orbit, the distance between them changes
 
 Changes in light travel time cause observed lags
 
-![](img/speed_of_light_Romer.jpg)
+![Diagram of Earth and Jupiter at different points in their orbits. As the distance between the planets changes, light from eclipses of Jupiter’s moon Io takes more or less time to reach Earth.](img/speed_of_light_Romer.jpg)
 
 By the time Newton wrote the Principia, astronomers had confirmed that light traveled at a finite speed and “requires about seven or eight minutes to travel from the sun to the earth”
 
@@ -51,14 +51,14 @@ In the 1660’s Isaac Newton tried the following experiment:
 
 1. Shine white light through a prism and observe the resulting spectrum
 
-Result: Red light is a component of whte light
+Result: Red light is a component of white light
 
 ![white light comes into a prism and a rainbow comes out.](img/light-through-prism.jpg) 
 
 
 2. Shine a red light through a second prism and observe the spectrum. 
 
-Red lights refracts to only red light, but at a different angle than (say) green light
+Red light refracts to only red light, but at a different angle than (say) green light
 
 ![red and green lasers come into a prism and red and green lasers come out](img/red-green-laser-prism.jpg) *Source: [The Wonders of Physics](https://wonders.physics.wisc.edu/lasers/)*
 
@@ -69,7 +69,7 @@ Conclusion: All the colors of the rainbow are mixed in white light
 
 Light emitted from the sun (or lamps) consists of many colors mixed together
 
-![](img/gr8ec04-gd-0027_orig.png)
+![White light illuminates a green leaf. The leaf absorbs red and blue wavelengths, reflects green light, and the reflected green light enters an observer’s eye.](img/gr8ec04-gd-0027_orig.png)
 
 This leaf absorbs red and blue light
 It reflects green light 
@@ -79,7 +79,7 @@ light from the leaf, which triggers signals to our brains.
 
 ## Properties of Light
 
-In the 17th and 18th century, scientists measured many properties of light, like its speed and energy.
+In the 17th and 18th centuries, scientists measured many properties of light, like its speed and energy.
 
 Some experiments suggested that light was composed of little particles while others suggested that light travels in the form of waves. (Lots of debate!)
 
@@ -107,7 +107,7 @@ Water wave
 
 Sound wave
 
-![Acoustic Longitudanal wave shows particles with denser regions moving to the right. The sound pressure shows a wave pattern. The dense high pressure regions travel at a fixed wavelength.](img/longipatm.gif)
+![Acoustic longitudinal wave shows particles with denser regions moving to the right. The sound pressure shows a wave pattern. The dense high pressure regions travel at a fixed wavelength.](img/longipatm.gif)
 
 ## Important wave characteristics:
 
@@ -148,14 +148,14 @@ How do we know light has both?
 
 Interference is a pattern made when waves overlap
 
-![](img/water-interference.png)
+![Two sets of circular water waves overlap, producing an interference pattern with regions where the waves reinforce or cancel each other.](img/water-interference.png)
 
 
 Light also makes these patterns. This is the famous "Double Slit" experiment where light is passed through two openings.
 
-![](img/Doubleslit3Dspectrum-1.gif)
+![Animation of the double-slit experiment: waves pass through two narrow openings, overlap, and form alternating bands of constructive and destructive interference on a screen.](img/Doubleslit3Dspectrum-1.gif)
 
-Water and air do not display interference if you have a only a few molecules.
+Water and air do not display interference if you have only a few molecules.
 
 Light is different.  Interference patterns are built up by individual tiny “particles” of light: photons
 
@@ -193,15 +193,15 @@ Light hits a metal surface
 
 Radiative energy of light is converted to kinetic energy of electrons
 
-![](img/photoelectric.png)
+![Photoelectric-effect diagram: incoming photons strike a metal surface. Nothing happens for long-wavelength red light. Shorter wavelengths transfer enough energy to eject electrons from the metal.](img/photoelectric.png)
 
-If the wavelength is too long, nothing happens. Long wavelength is low frequenecy. No photons have enough energy to kick out an electron.
+If the wavelength is too long, nothing happens. Long wavelength is low frequency. No photons have enough energy to kick out an electron.
 
 ## Check your understanding
 
 Use these options for the next few questions
 
-![](img/wave-options.png)
+![Four waves labeled A through D. A is very tall and has about 7 repeats across the width. B is shortish and has about 3 repeats. C is very short and has about 18 repeats. D is tallish and has about 2 and a half repeats. ](img/wave-options.png)
 
 <quiz>
 Which of these waves has the longest wavelength?
