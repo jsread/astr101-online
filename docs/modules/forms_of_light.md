@@ -93,18 +93,21 @@ With increasing energy, we see
 
 ### Radio waves
 
-![](img/)
+![](img/408_MHz_Allsky_Map,_annotated,_Haslam_et_al._-_Galaxies-06-00056-g004.png)
+*Source [Dickinson, Remazeilles et al., Max Planck Institute for Radioastronomy Survey Sampler ](https://www.mdpi.com/2075-4434/6/2/56)*
+
 
 ### Microwave
 ![](img/1009_F_PLANCK_FSM_03_Black_frame_orig-crop.jpg)
 *Source [ESA, HFI and LFI consortia](https://supernova.eso.org/germany/exhibition/images/1009_F_PLANCK_FSM_03_Black_frame_orig-crop/)*
 
-### Infrared
+### Far Infrared
 
 IRIS survey 
 ![](img/iris_3color_2048.jpg) 
 *Source [IRIS](https://lambda.gsfc.nasa.gov/product/foreground/fg_iris_info.html)*
 
+### Near Infrared
 SPHEREx
 ![](img/e1a-SPHEREx_all_sky_stars_and_gas-dust.jpg)
 *Source [NASA/JPL-Caltech](https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/)*
@@ -116,23 +119,30 @@ SPHEREx
 
 
 ### X-ray
+
+![](img/erosita.webp)
+*Source [Jeremy Sanders, Hermann Brunner and the eSASS team (MPE); Eugene Churazov, Marat Gilfanov (on behalf of IKI)](https://www.mpe.mpg.de/7461950/erass1-presskit)*
+
 ### Gamma-ray
 
 ![](img/intens_ait_180m_gt1000_psf3_gal_0p1.png)
 *Source [NASA/DOE/Fermi LAT Collaboration](https://svs.gsfc.nasa.gov/14976)*
 
-### Learning from many wavelengths
+## Learning from many wavelengths
 
+### Crab Nebula
 This is the Crab Nebula seen by different telescopes that record different forms of light.
 
 ![](img/crab-different-views.jpg)
 
+X-ray shows the jets from the energetic pulsar at the center. Visible and radio shows the expanding remnant from the explosion that formed it.
 
-This is the Milky Way's supermassive black hole, SGR-A, which is dark in visible and infrared light but has a halo (outside the horizon) that glows in radio and x-ray.
+### Sgr A*
+
+This is the Milky Way's supermassive black hole, SGR-A, which is dark in visible and infrared light but has a halo (outside the horizon) that glows in radio and x-ray. (Lots of gravitational potential energy converted!!)
 
 ![](img/sgra.webp)
 
-## Check your Understanding
 
 ## Go farther
 
