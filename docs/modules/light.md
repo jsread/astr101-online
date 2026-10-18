@@ -165,7 +165,7 @@ Light is different.  Interference patterns are built up by individual tiny “pa
     Your browser does not support the video tag.
   </video>
   <figcaption>
-    An interference pattern is built up from many little dots.
+Individual photon detections appear as dots on a screen. As more photons arrive, the dots gradually form alternating bright and dark interference bands.
   </figcaption>
 </figure>
 
