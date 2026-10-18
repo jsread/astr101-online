@@ -58,6 +58,7 @@ NASA’s James Webb Space Telescope’s near-infrared-light view of the same str
 
 ![JWST near-infrared image of the Pillars of Creation, revealing many stars and fine structures within and behind the columns of gas and dust.](img/STScI-01GGF8H15VZ09MET9HFBRQX4S3.jpg)
  
+We can see through the dust with infrared light.
 
 Observing electromagnetic waves at different frequencies gives us different views of the Universe
 
@@ -170,6 +171,32 @@ This is the Milky Way's supermassive black hole, Sgr A*, which is dark in visibl
 
 ![Multiwavelength views of Sagittarius A-star: visible and infrared images show the crowded Galactic Center, while radio and X-ray observations reveal emission surrounding the central black hole.](img/sgra.webp)
 
+## Check your understanding
+
+
+<quiz>
+Astronomers observe the same star-forming region in visible and near-infrared light. The infrared image reveals many stars that are hidden in the visible-light image.
+
+What is the best explanation?
+
+- [] Infrared photons have more energy than visible-light photons, so they pass through dust more easily.
+- [x] Infrared light is less strongly scattered and absorbed by interstellar dust.
+- [] Infrared telescopes always have greater magnification than visible-light telescopes.
+- [] The hidden stars emit infrared light but do not emit visible light.
+
+</quiz>
+
+<quiz>
+Astronomers observe a supernova remnant using both visible-light and X-ray telescopes. The two images show different structures.
+
+What is the best explanation?
+
+- [] The visible and X-ray telescopes are observing two different objects that happen to be in the same direction.
+- [] X-rays travel faster than visible light, so the X-ray image shows a more recent view.
+- [x] Different parts of the remnant emit different wavelengths because they have different temperatures and physical processes with different energies.
+- [] The X-ray telescope magnifies the remnant more than the visible-light telescope.
+
+</quiz>
 
 ## Go farther
 
