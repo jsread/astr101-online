@@ -53,7 +53,7 @@ In the 1660’s Isaac Newton tried the following experiment:
 
 Result: Red light is a component of white light
 
-![white light comes into a prism and a rainbow comes out.](img/Színszóródás_prizmán2.jpg) *Source [Zátonyi Sándor](https://commons.wikimedia.org/wiki/File:Sz%C3%ADnsz%C3%B3r%C3%B3d%C3%A1s_prizm%C3%A1n2.jpg)*
+![white light comes into a prism and a rainbow comes out.](img/prism.jpg) *Source [Zátonyi Sándor](https://commons.wikimedia.org/wiki/File:Sz%C3%ADnsz%C3%B3r%C3%B3d%C3%A1s_prizm%C3%A1n2.jpg)*
 
 
 2. Shine a red light through a second prism and observe the spectrum. 
@@ -92,6 +92,8 @@ In the 19th and 20th Century, we were able to determine that light (all electrom
 The difference between colors is the wavelength of light.
 
 ![Diagram of the visible-light spectrum from violet to red. Colored wavy lines illustrate that wavelength increases from about 400 nm in violet light to about 700 nm in red light. Labeled examples include indigo at 425 nm, blue at 470 nm, aqua at 490 nm, green at 550 nm, yellow at 600 nm, orange at 630 nm, and red at 665 nm.](img/light_spectrum.jpg)
+
+![Light waves with different length and color bend differently through a prism, turning white light into a rainbow.](img/Light_dispersion_conceptual_waves.gif)
 
 
 
@@ -177,7 +179,7 @@ The wave nature and interference is built in to these component particles of lig
 
 ## Photons and Energy
 
-Light is made up of little particles called photons
+Light waves are made up of little particles called photons
 
 Brighter light is more photons. 
 
