@@ -7,10 +7,10 @@
 Telescopes collect light from distant objects and focus it on to a light-collecting device (like your eye, or a camera)
 
 ![Diagrams comparing telescopes: a refractor uses lenses to focus incoming starlight, while a reflector uses curved mirrors.
-](img/OpenStax_Astronomy_refracting_and_reflecting_telescopes.jpg)
+](img/OpenStax_Astronomy_refracting_and_reflecting_telescopes.jpg) *Source [OpenStax Astronomy](https://commons.wikimedia.org/wiki/File%3AOpenStax_Astronomy_refracting_and_reflecting_telescopes.jpg)
 
 ![James Webb Space Telescope with its primary mirror, secondary mirror, scientific instruments, sunshield, solar panels, antenna, and stabilization flap labeled.
-](img/jwst-components.jpg)
+](img/jwst-components.jpg) *Source: [Science News](https://www.sciencenews.org/article/james-webb-space-telescope-launch-space-science-cosmos-exoplanets)*
 
 
 ### Refracting telescope
@@ -116,11 +116,11 @@ Red light (longer wavelength) is left.
   </iframe>
 </div>
 
-![Adaptive-optics process: a laser creates a guide star, the atmosphere distorts its light, and a deformable mirror adjusts to correct the distortion.](img/Scientific_Background_on_the_Nobel_Prize_in_Physics_2020.png)
+![Adaptive-optics process: a laser creates a guide star, the atmosphere distorts its light, and a deformable mirror adjusts to correct the distortion.](img/Scientific_Background_on_the_Nobel_Prize_in_Physics_2020.png) *Source [nobelprize.org](https://www.nobelprize.org/prizes/physics/2020/press-release/)*
 
 This was needed to track the stars around Sgr A*
 
-![Animated infrared views of stars near the Galactic Center alternate between adaptive optics off and on; correction makes the stars sharper and easier to distinguish.](img/aomovie_hist.gif)
+![Animated infrared views of stars near the Galactic Center alternate between adaptive optics off and on; correction makes the stars sharper and easier to distinguish.](img/aomovie_hist.gif) *Source [UCLA Ghez Group](https://galacticcenter.astro.ucla.edu/)*
 
 
 ## Telescopes in Space
@@ -133,7 +133,9 @@ Leaving the atmosphere can give even better resolution
 Example: improvement from the JWST for viewing a patch of sky from space
 
 ![Ground-based view of a patch of sky in which atmospheric distortion blurs the stars and galaxies.
-](img/view-from-ground.jpg) ![JWST view of the same patch of sky, showing much sharper stars and more clearly resolved galaxies.
+](img/view-from-ground.jpg) 
+
+![JWST view of the same patch of sky, showing much sharper stars and more clearly resolved galaxies.
 ](img/view-from-jwst.jpg)
 
 ## Telescopes and other Forms of Light

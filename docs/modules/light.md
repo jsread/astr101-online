@@ -53,7 +53,7 @@ In the 1660’s Isaac Newton tried the following experiment:
 
 Result: Red light is a component of white light
 
-![white light comes into a prism and a rainbow comes out.](img/light-through-prism.jpg) 
+![white light comes into a prism and a rainbow comes out.](img/Színszóródás_prizmán2.jpg) *Source [Zátonyi Sándor](https://commons.wikimedia.org/wiki/File:Sz%C3%ADnsz%C3%B3r%C3%B3d%C3%A1s_prizm%C3%A1n2.jpg)*
 
 
 2. Shine a red light through a second prism and observe the spectrum. 
@@ -97,17 +97,17 @@ The difference between colors is the wavelength of light.
 
 Wave on a rope
 
-![A rope waves up and down. The peaks travel with a fixed Wavelength spacing.](img/transverspointcurated2.gif)
+![A rope waves up and down. The peaks travel with a fixed Wavelength spacing.](img/transverspointcurated2.gif) *Source [ISVR](https://blog.soton.ac.uk/soundwaves/)*
 
 Water wave
 
-![A blue water region has many particles floating around. Waves on the surface are made by looping motions of the particles.](img/Deep_water_wave.gif)
+![A blue water region has many particles floating around. Waves on the surface are made by looping motions of the particles.](img/Deep_water_wave.gif) *Source [Kraaiennest](https://commons.wikimedia.org/wiki/File%3ADeep_water_wave.gif)
 
 
 
 Sound wave
 
-![Acoustic longitudinal wave shows particles with denser regions moving to the right. The sound pressure shows a wave pattern. The dense high pressure regions travel at a fixed wavelength.](img/longipatm.gif)
+![Acoustic longitudinal wave shows particles with denser regions moving to the right. The sound pressure shows a wave pattern. The dense high pressure regions travel at a fixed wavelength.](img/longipatm.gif) *Source [ISVR](https://blog.soton.ac.uk/soundwaves/)*
 
 ## Important wave characteristics:
 
@@ -148,12 +148,12 @@ How do we know light has both?
 
 Interference is a pattern made when waves overlap
 
-![Two sets of circular water waves overlap, producing an interference pattern with regions where the waves reinforce or cancel each other.](img/water-interference.png)
+![Two sets of circular water waves overlap, producing an interference pattern with regions where the waves reinforce or cancel each other.](img/water-interference.png) *[Source](https://skullsinthestars.com/2018/08/25/taylor-sees-the-feeble-light-1909/interference/)*
 
 
 Light also makes these patterns. This is the famous "Double Slit" experiment where light is passed through two openings.
 
-![Animation of the double-slit experiment: waves pass through two narrow openings, overlap, and form alternating bands of constructive and destructive interference on a screen.](img/Doubleslit3Dspectrum-1.gif)
+![Animation of the double-slit experiment: waves pass through two narrow openings, overlap, and form alternating bands of constructive and destructive interference on a screen.](img/Doubleslit3Dspectrum-1.gif) *Adapted from [Lookang](https://commons.wikimedia.org/wiki/File%3ADoubleslit3Dspectrum.gif)*
 
 Water and air do not display interference if you have only a few molecules.
 

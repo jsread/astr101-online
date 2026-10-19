@@ -15,11 +15,11 @@ The emission of the Sun extends past visible light
 
 
 
-Those wavelengths also carry energy!    
+Longer invisible wavelengths also carry energy!
 
 Herschel discovered infrared
 
-Humans give off infrared light.
+Animals (including humans) give off infrared light.
 
 An infrared camera uses false colors to show the infrared light from CSUF Physics and Astronomy Professor Joshua Smith and his dog Steve.
 ![A false-color image showing a glowing man playing with a dog](img/steve-infrared.jpg)
@@ -51,12 +51,12 @@ An infrared camera uses false colors to show the infrared light from CSUF Physic
 
 "Pillars of Creation" is a photograph taken by the Hubble Space Telescope of interstellar gas and dust forming stars in the Eagle Nebula, about 7,000 light years from Earth.
 
-![Hubble visible-light image of the Pillars of Creation, showing three towering columns of interstellar gas and dust surrounded by stars.](img/pillars_of_creation.webp)
+![Hubble visible-light image of the Pillars of Creation, showing three towering columns of interstellar gas and dust surrounded by stars.](img/pillars_of_creation.webp) *Source [NASA, ESA, STScI, and Jeff Hester (Arizona State University)](https://science.nasa.gov/image-detail/hubble-eaglenebula-browse/)*
 
 
 NASA’s James Webb Space Telescope’s near-infrared-light view of the same structure.
 
-![JWST near-infrared image of the Pillars of Creation, revealing many stars and fine structures within and behind the columns of gas and dust.](img/STScI-01GGF8H15VZ09MET9HFBRQX4S3.jpg)
+![JWST near-infrared image of the Pillars of Creation, revealing many stars and fine structures within and behind the columns of gas and dust.](img/STScI-01GGF8H15VZ09MET9HFBRQX4S3.jpg) *Source [NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI), Anton Koekemoer (STScI), Alyssa Pagan (STScI)](https://science.nasa.gov/asset/webb/pillars-of-creation-nircam-image/)*
  
 We can see through the dust with infrared light.
 
@@ -74,7 +74,7 @@ A map of the sky as seen from Earth - the full celestial sphere.
 
 ![Oval all-sky map showing every direction in the celestial sphere projected onto a flat surface.](img/map-of-sky.jpg)
 
-Our viewpoint to see the Milky Way Galaxy
+Our viewpoint to see the Milky Way Galaxy (from [Our Cosmic Address](cosmic_address.md#our-galaxy-the-milky-way))
 ![Annotated image of the Milky Way, with the galaxy’s bright plane crossing the map and Earth marked in one spiral arm.](img/annotated-milkyway-colvin.jpg)
 
 
@@ -82,7 +82,7 @@ Our viewpoint to see the Milky Way Galaxy
 
 ### Low energy to high energy:
 
-![Seven all-sky maps showing how the Milky Way appears in radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma-ray light.](img/multiwavelength_sky.jpg)
+![Seven all-sky maps showing how the Milky Way appears in radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma-ray light.](img/multiwavelength_sky.jpg) *Sources [NASA](https://science.nasa.gov/asset/hubble/crab-nebula-in-multiple-wavelengths/)*
 
 With increasing energy, we see 
 
@@ -96,9 +96,7 @@ With increasing energy, we see
 
 ### Radio waves
 
-produced by energetic electrons moving through magnetic fields
-
-Glow of hydrogen gas
+Magnetic fields of our Galaxy
 
 Loops - leftover plasma from nearby supernovae 
 
@@ -107,9 +105,9 @@ Loops - leftover plasma from nearby supernovae
 
 
 ### Microwave
-Gas and Dust in the Galaxy
+Gas and Dust in the Galaxy (pink/blue)
 
-Uniform background glow from early universe
+Uniform background glow from earlyuniverse (orange/red)
 
 
 ![Planck microwave map of the entire sky, with the Milky Way forming a bright horizontal band and cooler background structures visible away from the galactic plane.](img/1009_F_PLANCK_FSM_03_Black_frame_orig-crop.jpg)
@@ -119,7 +117,7 @@ Uniform background glow from early universe
 
 IRIS survey
 
-Dust in the milky way, dust in our solar system, dust left over from making stars across the universe.
+Dust between the stars: in the milky way,  in our solar system,  left over from making stars across the universe.
 
 ![False-color far-infrared map of the entire sky, revealing warm interstellar dust concentrated along the Milky Way and in filamentary clouds.](img/iris_3color_2048.jpg) 
 *Source [IRIS](https://lambda.gsfc.nasa.gov/product/foreground/fg_iris_info.html)*
@@ -129,21 +127,29 @@ SPHEREx
 
 Hotter dust
 
+Gas (blue) and dust(red) in the disk
+
+Stellar nurseries 
+
+Cool stars from far across the disk
+
 ![SPHEREx near-infrared map of the entire sky, showing stars and glowing clouds of gas and dust concentrated along the Milky Way.](img/e1a-SPHEREx_all_sky_stars_and_gas-dust.jpg)
 *Source [NASA/JPL-Caltech](https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/)*
 
 ### Optical
 
-Stars and shadows from dust. Nearby galaxies.
+Mostly stars and shadows from dust. Nearby galaxies.
 
 ![Visible-light panorama of the entire sky, with the star-filled band and dark dust lanes of the Milky Way extending across the image.](img/mwpan_mellinger_big.jpg)
 *Source [Axel Mellinger](https://www.milkywaysky.com/)*
 
 
 ### X-ray
-High-energy processes: Galaxy clusters, Black holes, neutron stars, …
+High-energy processes:
 
-Shadows of cooler gas
+Matter falling into black holes and neutron stars
+
+Bubbles of superhot gas, shadows of cooler gas
 
 ![False-color eROSITA X-ray map of the entire sky, showing bright sources, diffuse hot gas, and large bubble-shaped structures above and below the Milky Way.](img/erosita.webp)
 *Source [Jeremy Sanders, Hermann Brunner and the eSASS team (MPE); Eugene Churazov, Marat Gilfanov (on behalf of IKI)](https://www.mpe.mpg.de/7461950/erass1-presskit)*
@@ -151,25 +157,30 @@ Shadows of cooler gas
 ### Gamma-ray
 
 Highest energies: 
-spinning neutron stars, distant galaxies with matter falling into supermassive black holes
+explosions, spinning neutron stars, distant galaxies where matter falls into supermassive black holes
 
 ![Fermi gamma-ray map of the entire sky, with intense emission and numerous bright sources concentrated along the plane and center of the Milky Way.](img/intens_ait_180m_gt1000_psf3_gal_0p1.png)
 *Source [NASA/DOE/Fermi LAT Collaboration](https://svs.gsfc.nasa.gov/14976)*
+
+Brief flashes (“bursts”): huge stars collapsing, super-dense neutron stars colliding, or black holes tearing apart neutron stars.
+
 
 ## Learning from many wavelengths
 
 ### Crab Nebula
 This is the Crab Nebula seen by different telescopes that record different forms of light.
 
-!Comparison of the Crab Nebula in radio, infrared, visible, ultraviolet, and X-ray light, with each wavelength revealing different structures in the supernova remnant.](img/crab-different-views.jpg)
+![Comparison of the Crab Nebula in radio, infrared, visible, ultraviolet, and X-ray light, with each wavelength revealing different structures in the supernova remnant.](img/crab-different-views.jpg)
 
 X-ray shows the jets from the energetic pulsar at the center. Visible and radio shows the expanding remnant from the explosion that formed it.
 
 ### Sgr A*
 
-This is the Milky Way's supermassive black hole, Sgr A*, which is dark in visible and infrared light but has a halo (outside the horizon) that glows in radio and x-ray. (Lots of gravitational potential energy converted!!)
+This is the Milky Way's supermassive black hole, Sgr A*, which is dark in visible light.
 
-![Multiwavelength views of Sagittarius A-star: visible and infrared images show the crowded Galactic Center, while radio and X-ray observations reveal emission surrounding the central black hole.](img/sgra.webp)
+Visible and infrared images show the crowded Galactic Center, while radio and X-ray observations reveal emission surrounding the central black hole.
+
+![Multiwavelength views of Sagittarius A-star](img/sgra.webp) *Source [	X-ray: NASA/CXC/SAO; IR: NASA/HST/STScI. Inset: Radio (EHT Collaboration)](https://chandra.si.edu/photo/2022/sgra/)*
 
 ## Check your understanding
 
