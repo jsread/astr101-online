@@ -69,8 +69,9 @@ The angular resolution of the human eye is about 1 arcminute (1/60 of a degree)
 
 The angular resolution of JWST and the Hubble Space Telescope is 0.05 arcseconds (0.05 * 1/3600 of a degree)
 
-![Four views of the Andromeda Galaxy at the same magnification, progressing from blurry to sharply detailed as angular resolution improves.
-](img/FG05_16.jpg)
+![Four views of the same region in galaxy M100 at identical magnification. Panel A is strongly blurred, panel B is moderately blurred, panel C is slightly blurred, and panel D is sharp, demonstrating progressively improving angular resolution.](img/m100-angular-resolution.png)
+
+*Base image: [ESA/Hubble & NASA](https://esahubble.org/images/potw1203a/)*
 
 Note: all these images have the same magnification! 
 

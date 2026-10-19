@@ -65,6 +65,8 @@ Red light refracts to only red light, but at a different angle than (say) green 
 
 Conclusion: All the colors of the rainbow are mixed in white light
 
+![White light enters a prism. Red Orange Yellow Green Blue Indigo Violet come out.](img/Dispersions.png)
+
 ## Seeing light
 
 Light emitted from the sun (or lamps) consists of many colors mixed together
