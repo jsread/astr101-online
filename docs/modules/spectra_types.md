@@ -1,3 +1,18 @@
+# Spectra
+
+- The story of light
+- Different types of spectra
+- How light is produced
+- Emission and absorption in atoms
+
+## Spectra
+
+A prism or diffraction grating bends light differently depending on wavelength.
+
+The resulting  spectrum tells you how much light is emitted at each wavelength.
+
+Light carries a story of its emission and its path to us (the observers)
+
 ### Earthshine
 
 We see the moon and planets in reflected light from the sun
@@ -8,6 +23,168 @@ We can see the darker part of a crescent moon from "Earthshine": sunlight light 
 
 *Source: [ESA](https://www.eso.org/public/italy/images/eso1210c/?lang)*
 
-![](img/hershel-figure.jpg) 
+## Spectra and the source of light
 
-*Source: [American Scientist](https://www.americanscientist.org/article/herschel-and-the-puzzle-of-infrared)*
+A hot, dense object emits a continuous range of wavelengths
+
+![Continuous spectrum showing an uninterrupted band of colors from violet to red.](img/continuous-spectrum.png)
+
+Heated (or electrified) gas emits only a few wavelengths
+
+![Emission spectrum showing narrow violet, blue, blue-green, and red lines against a black background.](img/emission-spectrum.png)
+
+A cooler gas can absorb some wavelengths from a continuous spectrum
+
+![Absorption spectrum showing a continuous rainbow crossed by dark lines at the same wavelengths as the bright lines in the emission spectrum above.](img/absorption-spectrum.png)
+
+## Spectrum demonstration
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/oae5fa-f0S0?start=74"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+    allowfullscreen>
+  </iframe>
+</div>
+
+Different light sources have different spectra.
+
+Incandescent Lamp
+
+![An incandescent lamp on the left produces a broad, continuous rainbow spectrum on the right.](img/continuous-demo.png)
+
+Hydrogen gas tube
+![A glowing pink hydrogen gas tube on the left produces separated violet, blue-green, and red emission lines on the right.](img/hydrogen-demo.png)
+
+
+Complicated spectra can come from a combination of basic types.
+
+![Spectra of compact fluorescent, fluorescent, metal halide, mercury vapor, high-pressure sodium, and low-pressure sodium lamps. Each has a different combination of bright lines and broad color bands; low-pressure sodium is dominated by a narrow yellow line.](img/different-light-source-spectra.png)
+
+
+
+
+## Classification of Spectra
+
+Continuous spectrum, emission spectrum, and absorption spectrum
+![Three sources viewed through a diffraction grating: hot, dense matter produces a continuous rainbow; hot gas produces bright emission lines; and light passing through cold gas produces a rainbow with dark absorption lines.](img/three-spectra-types.png)
+
+What's with the lines in the emission spectra?
+
+
+## How light is Produced
+
+Light is emitted by atoms
+
+![Schematic atom with a small central nucleus surrounded by a diffuse electron cloud; not to scale.](img/atom-illustration.png)
+
+Each atom has electrons around its nucleus
+
+The electrons have potential and kinetic energy that can be converted into radiative energy
+
+Quantum physics says that only some electron energies are allowed (orbitals)
+
+## Electron energies
+
+(schematic diagram)
+
+![Schematic electron energy levels drawn as concentric circles around a positive nucleus. Energy increases outward from the ground state, and a jump between levels corresponds to a difference in energy.](img/electron-energy-schematic.png)
+
+An electron has more energy when it is (on average) farther from the nucleus
+
+## Emission sources
+
+![Glowing gas discharge tubes labeled helium, neon, argon, krypton, and xenon, showing distinct orange-pink, red-orange, purple, pale blue, and blue-white colors.](img/emission-sources.jpg)
+
+Heat, electric fields, or absorbed light can give an electron the right amount of energy to move to a higher energy level
+
+Electrons return to lower energy levels by emitting light at specific wavelengths
+
+Note: Energy is conserved!
+
+## Example: Hydrogen
+
+Absorbing energy
+
+Only with the right match does the electron move up, unless the energy is high enough to kick it off completely.
+
+![Hydrogen absorption animation showing an electron gaining energy to move from the ground state to a higher allowed energy level.](img/hydrogen-absorption.gif)
+
+Releasing energy
+
+Each energy step makes a particular color.
+
+![Hydrogen emission animation showing an electron releasing energy as it drops to a lower allowed energy level, with the corresponding emission-line spectrum below.](img/hydrogen-emission.gif)
+
+## Absorption Spectra
+
+Absorption and emission are connected
+
+![Three viewing arrangements: a light source alone gives a continuous spectrum; the source viewed through a gas cloud gives a dark absorption line; and the gas cloud alone gives a bright emission line at the same wavelength.](img/three-spectra-types-v2.jpg)
+
+The lines in absorption spectra are caused by scattering: electrons absorbing a photon and then emitting it in random directions
+
+The dark lines are at the same wavelengths as emission spectra from the same gas
+
+![Hydrogen absorption and emission spectra aligned vertically. Dark lines in the rainbow absorption spectrum match the wavelengths of bright violet, blue, blue-green, and red lines in the emission spectrum.](img/hydrogen-absorb-emit.jpg)
+
+![Schematic animation of continuous light interacting with an electron in a cool gas cloud. A photon whose energy matches the gap between electron levels can be absorbed, leaving a dark line in the transmitted spectrum.](img/schematic-absorb-emit.gif)
+
+## Summary of spectral types
+
+![Animation comparing telescope views of a hot, dense source and a gas cloud: the source produces a continuous spectrum, the gas produces emission lines, and the source viewed through the gas produces absorption lines.](img/spectra.gif)
+
+
+<quiz>
+
+![](../img/electron-move-out.gif)
+
+The electron now has ________ energy and has ________ light in the process
+
+- [] less, emitted
+- [] less, absorbed
+- [] more, emitted
+- [x] more, absorbed
+</quiz>
+
+<quiz>
+
+![](../img/electron-move-in.gif)
+
+The electron now has ________ energy and has ________ light in the process
+
+- [x] less, emitted
+- [] less, absorbed
+- [] more, emitted
+- [] more, absorbed
+</quiz>
+
+Use this image for the next two questions:
+
+![](img/electron-options.png)
+
+<quiz>
+Which atom would be
+emitting light with the
+greatest energy?
+
+-[] A
+-[] B
+-[x] C
+-[] D
+</quiz>
+
+<quiz>
+
+The element illustrated is is producing  violet, green, yellow and red emission lines.
+
+Which electron emits red light?
+
+-[x] A
+-[] B
+-[] C
+-[] D
+</quiz>
