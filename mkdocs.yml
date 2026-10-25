@@ -42,8 +42,8 @@ nav:
         - Telescopes: modules/earths_atmosphere.md
       - Spectra of Light:
         - Types of Spectra: modules/spectra_types.md
-        - Thermal Spectra: modules/thermal_spectra.md
-        - Luminosity: modules/luminosity.md
+        - Astronomical Spectra: modules/astro_spectra.md
+        - Star Color and Luminosity: modules/color_luminosity.md
       - Learning from Light:
         - Fingerprints of the Elements: modules/fingerprints_elements.md
         - Doppler Effect: modules/doppler_effect.md

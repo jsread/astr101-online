@@ -137,12 +137,19 @@ The dark lines are at the same wavelengths as emission spectra from the same gas
 
 ![Animation comparing telescope views of a hot, dense source and a gas cloud: the source produces a continuous spectrum, the gas produces emission lines, and the source viewed through the gas produces absorption lines.](img/spectra.gif)
 
+## High resolution spectrum of the Sun
 
+![High-resolution solar spectrum arranged in stacked horizontal strips, progressing from red at the top through yellow and green to blue and violet at the bottom. Numerous dark absorption lines of varying widths and darkness interrupt the otherwise continuous colors.](img/highresolutionsolarspectrum1200w.jpg)
+
+This is an absorption spectum!
+
+## Check your understanding
 <quiz>
 
-![](../img/electron-move-out.gif)
+![Animation of an electron moving from an inner ring to an outer ring farther from the positively charged nucleus.](../img/electron-move-out.gif)
 
-The electron now has ________ energy and has ________ light in the process
+
+The electron now has \_\_\_\_\_\_\_\_ energy and has \_\_\_\_\_\_\_\_ light in the process
 
 - [] less, emitted
 - [] less, absorbed
@@ -152,9 +159,9 @@ The electron now has ________ energy and has ________ light in the process
 
 <quiz>
 
-![](../img/electron-move-in.gif)
+![Animation of an electron moving from an outer ring to an inner ring closer to the positively charged nucleus.](../img/electron-move-in.gif)
 
-The electron now has ________ energy and has ________ light in the process
+The electron now has \_\_\_\_\_\_\_\_ energy and has \_\_\_\_\_\_\_\_ light in the process
 
 - [x] less, emitted
 - [] less, absorbed
@@ -164,17 +171,17 @@ The electron now has ________ energy and has ________ light in the process
 
 Use this image for the next two questions:
 
-![](img/electron-options.png)
+![Four electron transitions labeled A through D, with rings numbered here from 1 at the innermost to 4 at the outermost. A moves inward from ring 4 to ring 3; B moves inward from ring 2 to ring 1; C moves inward from ring 3 to ring 1; D moves inward from ring 3 to ring 2.](img/electron-options.png)
 
 <quiz>
 Which atom would be
 emitting light with the
 greatest energy?
 
--[] A
--[] B
--[x] C
--[] D
+- [] A
+- [] B
+- [x] C
+- [] D
 </quiz>
 
 <quiz>
@@ -183,8 +190,8 @@ The element illustrated is is producing  violet, green, yellow and red emission 
 
 Which electron emits red light?
 
--[x] A
--[] B
--[] C
--[] D
+- [x] A
+- [] B
+- [] C
+- [] D
 </quiz>
