@@ -179,17 +179,29 @@ Betelgeuse's luminosity is 100,000-times that of the Sun.
 
 ## Check your understanding
 
-
-<quiz>
 These are the specta of different main sequence stars:
 
-![Stellar spectra labeled O, B, A, F, G, K, and M, with respective temperatures of 50,000, 20,000, 10,000, 7500, 6000, 4000, and 3500 kelvin.](../img/OBAFGKM-spectra.jpg)
+![Stellar spectra labeled O, B, A, F, G, K, and M, with respective temperatures of 50,000, 20,000, 10,000, 7500, 6000, 4000, and 3500 kelvin.](img/OBAFGKM-spectra.jpg)
 
-Which of the following would look blue?
+<quiz>
 
-A.  A Class B Star
-B.  A Class F Star
-C.  A Class K Star
+
+Which of these main sequence stars  would look most blue?
+
+- [x]   B Star
+- []   F Star
+- []   K Star
+
+</quiz>
+
+<quiz>
+
+
+Which of these main sequence stars  would look most red?
+
+- []   O Star
+- []   G Star
+- [x]   M Star
 
 </quiz>
 
