@@ -16,12 +16,6 @@ When we look at the wavelengths of all the photons from dense materials, we noti
 
 The pattern depends on temperature
 
-## Plotting Spectra
-
-Plotting spectra: intensity vs frequency/wavelength
-
-![Thermal radiation intensity versus wavelength in nanometers, with ultraviolet, visible, and infrared regions marked and curves for different temperatures.](img/thermal-spectra.jpg)
-
 ## Explaining Thermal Spectra 
 A photon is emitted from an electron transition inside a hot metal poker
 
@@ -34,6 +28,24 @@ Hotter metal means higher average energy:
 <summary> Most photons will have </summary> 
 shorter wavelengths
 </details>
+
+## Temperature in Kelvin
+
+We measure temperature in Kelvin to connect to energy (like Celsius, but shifted)
+
+- 0 K = -273° C (“Absolute Zero” - average kinetic energy of particles is zero)
+- 300 K = 27° C (warm day)
+- 373 K = 100° C (boiling)
+
+Stars have temperatures of thousands of Kelvin.
+
+## Plotting Spectra
+
+Plotting spectra: intensity vs frequency/wavelength
+
+![Thermal radiation intensity versus wavelength in nanometers, with ultraviolet, visible, and infrared regions marked and curves for different temperatures.](img/thermal-spectra.jpg)
+
+
 
 ## Thermal Spectra and Color
 
@@ -78,13 +90,6 @@ See the [Melted Nail Demonstration](https://astro.unl.edu/classaction/animations
   - Would appear black (like your pupil).
 - A blackbody emits an *ideal thermal spectrum* that depends only on temperature
 
-We measure temperature in Kelvin to connect to energy (like Celsius, but shifted)
-
-- 0 K = -273° C (“Absolute Zero” - average kinetic energy of particles is zero)
-- 300 K = 27° C (warm day)
-- 373 K = 100° C (boiling)
-
-Stars have temperatures of thousands of Kelvin.
 
 ## Temperature of the Sun
 
@@ -97,6 +102,8 @@ Comparing the Sun to a blackbody spectrum confirms that the surface temperature 
 The colourful star cluster NGC 3532. Some of the stars still shine with a hot bluish colour, but many of the more massive ones have become red giants and glow with a rich orange hue.
 
 ![Stars with different colors.](img/eso1439a.jpg) *Source[ESO/G. Beccari](https://www.eso.org/public/images/eso1439a/*)
+
+Star color:
 
 ![Comparison of stellar colors and spectra at 2500, 5800, and 18,000 kelvin, with wavelength measured in angstroms. A note states that the colors are exaggerated.](img/star_colors.png)
 
@@ -124,21 +131,6 @@ Hotter main sequence stars are also bigger
 
 ![](img/Morgan-Keenan_spectral_classification.svg.webp)
 
-## Solar Luminosity 
-
-We use Sun’s energy output or luminosity as a reference value: $L_{\text{Sun}}$
-
-Stars come in a wide range of luminosities, from 0.00001 $L_{\text{Sun}}$ to 1,000,000 $L_{\text{Sun}}$ 
-
-Dim stars are much more common than bright stars 
-
-Our Sun is in the middle of the luminosity range, but it outputs more energy than a vast majority of the stars in our galaxy.
-
-## Habitable Zone for different stars
-
-Luminosity determines the habitable zone of main sequence stars
-
-![Habitable-zone comparison for A-, G-, and M-type stars, with the Sun identified as a G-type star.](img/main-sequence-habitable.jpg)
 
 ## Luminosity, Temperature, Size
 
@@ -157,6 +149,23 @@ $L \propto T^4 R^2$
 The greater a star’s size, the more surface area there is to emit light
 
 The greater a star’s surface temperature, the more light it will emit from each bit of surface
+
+
+## Solar Luminosity 
+
+We use Sun’s energy output or luminosity as a reference value: $L_{\text{Sun}}$
+
+Stars come in a wide range of luminosities, from 0.00001 $L_{\text{Sun}}$ to 1,000,000 $L_{\text{Sun}}$ 
+
+Dim stars are much more common than bright stars 
+
+Our Sun is in the middle of the luminosity range, but it outputs more energy than a vast majority of the stars in our galaxy.
+
+## Habitable Zone for different stars
+
+Luminosity determines the habitable zone of main sequence stars
+
+![Habitable-zone comparison for A-, G-, and M-type stars, with the Sun identified as a G-type star.](img/main-sequence-habitable.jpg)
 
 ## Giant Stars
 
