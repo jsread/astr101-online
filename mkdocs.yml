@@ -45,12 +45,16 @@ nav:
         - Astronomical Spectra: modules/astro_spectra.md
         - Star Color and Luminosity: modules/color_luminosity.md
       - Learning from Light:
-        - Fingerprints of the Elements: modules/fingerprints_elements.md
+        - Plotting Spectra: modules/plotting_spectra.md
         - Doppler Effect: modules/doppler_effect.md
+        - Light and Distance: modules/light_distance.md
+      - The Early Universe:
+        - The Expanding Universe: modules/expanding_universe.md
+        - Dark Matter and Dark Energy: modules/dark.md 
       - Making Earth from Scratch:
-        - The Early Universe: modules/early_universe.md 
         - Formation of the Elements: modules/formation_of_elements.md
-        - Formation of the Solar System: modules/formation_of_solar_system.md
+        - A tour of the Solar System: modules/solar_system.md
+        - Forming the Solar System: modules/formation_of_planets.md
       - The Life of Stars: 
         - The Source of Starlight: modules/source_of_starlight.md
         - Surveying the Stars: modules/surveying_stars.md
@@ -70,7 +74,7 @@ nav:
       - Gravity in Action: activities/gravity_action.md
       - Light and Telescopes: activities/light_telescopes.md
       - Spectra: activities/spectra.md
-#      - Learning from Light: activities/learning_light.md
+      - Learning from Light: activities/learning_light.md
 #     - Making Earth from Scratch: activities/making_earth.md
 theme: 
   name: material

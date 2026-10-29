@@ -88,3 +88,15 @@ If the stars Rigel and Betelgeuse each have the same luminosity, but the tempera
 - []  Cannot tell from this information
 
 </quiz>
+
+<quiz>
+Consider two stars. One star is hot and small and the other star is cooler but larger. 
+
+Which star is more luminous? 
+
+- [] The hotter star 
+- []  The larger star
+- [] They have the same luminosity
+- [x]  Cannot tell from this information
+
+</quiz>
