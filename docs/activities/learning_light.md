@@ -1,9 +1,9 @@
 ## Lecture Tutorial: Black Body Radiation
 
 ### Check your understanding
+Use this plot to compare the energy output of Star X and Star Y.
 
-
-![](img/starxstarythermal.png)
+![Graph of energy output versus wavelength in nanometers for Stars X and Y, with the visible range shaded from violet to red. Star X peaks near 430 nm and Star Y near 670 nm. Star X has higher output at every wavelength shown, including red wavelengths. Across the visible range, Star X's output decreases toward red while Star Y's rises toward red.](img/starxstarythermal.png)
 <quiz>
 Compare Star X and Star Y. Which gives off more red light?
 
@@ -25,7 +25,9 @@ Which best describes how Star X and Star Y appear?
 
 </quiz>
 
-![](img/starpstarqthermal.png)
+Use this plot to compare the energy output of Star P and Star Q.
+
+![Graph of energy output versus wavelength in nanometers for Stars P and Q, with the visible range shaded. Both curves peak at approximately 580 nm, marked by a dashed vertical line. Star P's flux is about four times Star Q's at each wavelength.](img/starpstarqthermal.png)
 
 <quiz>
 Which of the two stars P and Q has a higher temperature?
@@ -47,7 +49,7 @@ Which of the two stars P and Q is larger?
 
 </quiz>
 
-![](img/starastarbstarcthermal.png)
+![Graph of energy output per second versus wavelength for Stars A, B, and C. Star A peaks at the shortest wavelength, Star B at an intermediate wavelength, and Star C at the longest wavelength. Star B has the tallest peak, followed by A, then C. At long wavelengths, Star C's curve lies above both B's and A's.](img/starastarbstarcthermal.png)
 
 <quiz>
 Which star (A, B, or C) is the biggest?
@@ -79,7 +81,7 @@ The solar system moves towards a star cluster containing a red star, a blue star
 
 </quiz>
 
-![](img/two-spectra.png)
+![Two absorption spectra labeled A and B, each running from blue on the left to red on the right. Both show the same pattern of six dark lines. The pattern in Spectrum A is farther toward the blue end than than the corresponding pattern of lines in Spectrum B.](img/two-spectra.png)
 
 
 <quiz>
