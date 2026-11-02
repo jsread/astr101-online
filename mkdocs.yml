@@ -47,8 +47,8 @@ nav:
       - Learning from Light:
         - Plotting Spectra: modules/plotting_spectra.md
         - Doppler Effect: modules/doppler_effect.md
-        - Light and Distance: modules/light_distance.md
       - The Early Universe:
+        - Light and Distance: modules/light_distance.md
         - The Expanding Universe: modules/expanding_universe.md
         - Dark Matter and Dark Energy: modules/dark.md 
       - Making Earth from Scratch:
