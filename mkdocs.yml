@@ -75,6 +75,7 @@ nav:
       - Light and Telescopes: activities/light_telescopes.md
       - Spectra: activities/spectra.md
       - Learning from Light: activities/learning_light.md
+      - The Early Universe: activities/early_universe.md
 #     - Making Earth from Scratch: activities/making_earth.md
 theme: 
   name: material

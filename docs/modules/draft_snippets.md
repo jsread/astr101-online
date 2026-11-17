@@ -9,3 +9,7 @@ This [Sloan Digital Sky Survey Video on YouTube](https://www.youtube.com/watch?v
 We'll discuss how a map of the sky, like the one shown below, relates to what you can see in the sky.
 ![A map of the night sky: a circle filled with constellations and labelled planets](img/skymap-January2026.jpg)
 *Monthly skymaps in pdf from [skymaps.com](https://www.skymaps.com/downloads.html) or images shared by [Kym @ The Evening Sky Map](https://skymaps.com/bsky/).*
+
+
+
+
